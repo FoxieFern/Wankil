@@ -1,4 +1,4 @@
-Update: 20180122
+Update: 20180123
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -1401,8 +1401,13 @@ VOD Rocket League
 [[1/2]](https://www.youtube.com/watch?v=GeKY0288ohk) <!--24/01/2016--> 
 [[2/2]](https://www.youtube.com/watch?v=TPtieWnuRKw) <!--25/01/2016--> 
 
+* **[DÉPÊCHE-TOI !!! (Keep Talking and Nobody Explodes + Oculus Rift)](https://www.youtube.com/watch?v=xrSp3f1SB0I)** : 
 VOD Keep Talking and Nobody Explodes 
 [[1/4]](https://www.youtube.com/watch?v=sIW3GPOk4Bg) <!--27/01/2016--> 
+[[2/4]](https://www.youtube.com/watch?v=Du6TI6Uz-Vk) <!--28/01/2016--> 
+
+* **[Les modules compliqués (Keep Talking and Nobody Explodes + Oculus Rift)](https://www.youtube.com/watch?v=9MXlz7E5pdQ)** : 
+VOD Keep Talking and Nobody Explodes 
 [[2/4]](https://www.youtube.com/watch?v=Du6TI6Uz-Vk) <!--28/01/2016--> 
 [[3/4]](https://www.youtube.com/watch?v=ev1UN0U5mu8) <!--29/01/2016--> 
 [[4/4]](https://www.youtube.com/watch?v=wvhdk7qbRPg) <!--30/01/2016--> 
@@ -1501,6 +1506,7 @@ VOD RUST
 [[4/5]](https://www.youtube.com/watch?v=dry1sSauEE4) <!--19/03/2016--> 
 [[5/5]](https://www.youtube.com/watch?v=ZSmSTYOAIJQ) <!--20/03/2016--> 
 
+* **[LOL AU CALME (The Forest)](https://www.youtube.com/watch?v=nTApDkoiADU)** : 
 VOD The Forest 
 [[1/6]](https://www.youtube.com/watch?v=sr1YVCULbxc) <!--22/03/2016--> 
 [[2/6]](https://www.youtube.com/watch?v=Gtta25bUmfg) <!--23/03/2016--> 
@@ -1746,6 +1752,7 @@ VOD - Laink - INSIDE
 [[7/8]](https://www.youtube.com/watch?v=toWR71Nrr8s) <!--10/08/2016--> 
 [[8/8]](https://www.youtube.com/watch?v=XCZYXVLMUpY) <!--11/08/2016--> 
 
+* **[SALE GOSSE DE MERDE ! (The Park)](https://www.youtube.com/watch?v=1eL2jm5gdcc)** : 
 VOD The Park 
 [[1/4]](https://www.youtube.com/watch?v=Jw4CbTYb0lU) <!--12/08/2016--> 
 [[2/4]](https://www.youtube.com/watch?v=MPN-1tgjvlk) <!--14/08/2016--> 
