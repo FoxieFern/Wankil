@@ -540,6 +540,10 @@ VOD Quake Live
 VOD Master of the Grid 
 [[1/2]](https://www.youtube.com/watch?v=rsplWpnkkXg) <!--04/10/2014--> 
 [[2/2]](https://www.youtube.com/watch?v=d0Ielq6KEr0) <!--05/10/2014--> 
+et 
+[[1/3]](https://www.youtube.com/watch?v=a2Khz1qBsAw) <!--10/10/2014--> 
+[[2/3]](https://www.youtube.com/watch?v=xpSvV3WV9UY) <!--11/10/2014--> 
+[[3/3]](https://www.youtube.com/watch?v=VD-ZfbC8zoA) <!--12/10/2014--> 
 
 VOD CS:GO 
 [[1/2]](https://www.youtube.com/watch?v=ATZo5UJhjTE) <!--08/10/2014--> 
@@ -548,11 +552,6 @@ VOD CS:GO
 VOD CS:GO 
 [[1/2]](https://www.youtube.com/watch?v=7D2gDauTzV0) <!--08/10/2014--> 
 [[2/2]](https://www.youtube.com/watch?v=r6R2GpxKLpU) <!--09/10/2014--> 
-
-VOD Master of the Grid 
-[[1/3]](https://www.youtube.com/watch?v=a2Khz1qBsAw) <!--10/10/2014--> 
-[[2/3]](https://www.youtube.com/watch?v=xpSvV3WV9UY) <!--11/10/2014--> 
-[[3/3]](https://www.youtube.com/watch?v=VD-ZfbC8zoA) <!--12/10/2014--> 
 
 VOD CS:GO 
 [[1/2]](https://www.youtube.com/watch?v=IdGxMbp0KlY) <!--13/10/2014--> 
