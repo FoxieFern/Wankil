@@ -1,4 +1,4 @@
-Update: 20180121
+Update: 20180128
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -267,6 +267,7 @@ Update: 20180121
 * LES BÊTISES À LA MONTAGNE
 * Les bêtises en war (CS:Source)
 * LES CHAUSSURES DES ABONNÉS (Half Dead)
+* LES COMMUNISTES NOUS METTENT EN PRISON (DayZ RP) #EP3
 * L'ESCOUADE DISCO (H1Z1) ft. Squeezie, Mickalow, Gotaga
 * Les courses de chiens, mais en moto (Trials Fusion)
 * LES COWBOYS LES MOINS CRÉDIBLES (Arizona Sunshine VR)
@@ -479,6 +480,7 @@ Update: 20180121
 * VISITE D'UN HÔPITAL ABANDONNÉ DE PSYCHOPATHES
 * VIS MA VIE DE POISSARD (What Remains of Edith Finch)
 * Vous avez pas vu ma femme ? (The Witcher 3)
+* VOUS AVEZ UN RHUME ? COUPEZ-VOUS LA JAMBE (911 Operator)
 * VOUS N'ARRIVEREZ PLUS À DORMIR (RE77)
 * VOYAGE AU CŒUR DE LA GALAXIE (Animation)
 * VROUM L'INTESTIN (Surgeon Simulator)
