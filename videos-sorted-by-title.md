@@ -1,4 +1,4 @@
-Update: 20180128
+Update: 20180214
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -36,7 +36,7 @@ Update: 20180128
 * Braquages, courses, football et arcades (Sushi Maki)
 * CAPTURER LES MEILLEURS POKÉMON
 * CARMAGEDDON (GTA IV) ft. Guzz et Porto
-* ÇA S'EST PAS PASSÉ COMME PRÉVU BORDEL (Case Opening CS:GO)
+* ÇA S'EST PAS PASSÉ COMME PRÉVU BORDEL
 * CATAPULTE DE CACAS ENFLAMMÉS (Gears of War 4)
 * CE BÂTARD DE BOB L'ÉPONGE (Gmod Deathrun) ft. Guzz et Gydias
 * Celui qui gagne a baisé la sœur de l'autre (Mario Kart)
@@ -66,6 +66,7 @@ Update: 20180128
 * COMMENT DEVENIR UN YOUTUBER GAMING (Youtubers Life)
 * COMMENT EST FABRIQUÉE LA MAUVAISE FOI ? (CS:GO)
 * COMMENT ÊTRE UN BOT (Guess Who)
+* COMMENT FAIRE FUIR UN BABOS (Monster Hunter World)
 * Comment faire pour avoir un D-Walker ?
 * Comment faire pour gagner tous ses paris ?
 * Comment faire quand ton jeu ne marche pas ?
@@ -103,6 +104,7 @@ Update: 20180128
 * EH TU VEUX M'EMBRAFFER ? (Gmod Deathrun) ft. Guzz et Gydias
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
 * Espèce d'infirme ! (GTA IV)
+* ÊTES-VOUS ASSEZ FORT POUR RÉSOUDRE LES ÉNIGMES ? (We Were Here)
 * ET J'AI CRAMÉ (Half-Life 2 en COOP)
 * ET MAINTENANT, FERME TA GUEULE (DayZ)
 * ET UNE GOUTTE DE VANTARDISE ! (Trackmania Turbo)
@@ -163,7 +165,7 @@ Update: 20180128
 * La caisse qui fait *bip bip* (Nether)
 * LA CANETTE AUX ONGLES (Animation Officielle)
 * LA CARAPACE BLEUE DE SES MORTS !!! (Mario Kart 8) ft. Jiraya et Hugo
-* LA CHANCE A ENFIN TOURNÉ !!! (Case Opening CS:GO)
+* LA CHANCE A ENFIN TOURNÉ !!!
 * LA CHASSE AU DODO AVEC DENIS (RUST RP)
 * La chasse au stalker (DayZ)
 * LA CHASSE AUX STALKERS (DayZ) ft. Guzz
@@ -211,6 +213,7 @@ Update: 20180128
 * LA TRAQUE DE PABLO ESCOBAR
 * L'ATTAQUE DU CAMP (Animation)
 * La Vengeance (DayZ RP - partie 2)
+* L'AVENTURE DE MALADE MENTAL (Sea of Thieves) ft. Amixem et Cyril
 * L'AVENTURE KOH LANTA (RUST RP)
 * L'AVION RÉVOLUTIONNAIRE SANS ROUES (GTA V)
 * LA VISITE CHEZ TATA MONIQUE (Half-Life 2 en COOP)
@@ -251,6 +254,7 @@ Update: 20180128
 * LE PIRE ABONNÉ EST DE RETOUR (CS:GO)
 * LE PIRE CAMBRIOLAGE (Klepto)
 * LE PIRE PARC D'ATTRACTION DU MONDE (Planet Coaster)
+* LE PLAN DIABOLIQUE DU DOCTEUR VANTROUDKU (Zombie COD)
 * LE P'TIT RONDIN (CS:GO)
 * Le PVP en slip (DayZ)
 * L'ÉQUIPE DES JOLIES FESSES (Friday the 13th) ft. Le Bled'Art
@@ -390,6 +394,7 @@ Update: 20180128
 * On flippe nos races (Slender)
 * ON JOUE À UN MOBA PTDR (Paragon)
 * ON OFFRE LES PIRES CADEAUX DE NOËL
+* ON OUVRE VOS COLIS, VOUS ÊTES DES MALADES !
 * ON PARIE NOS PARTIES DU CORPS (CS:GO)
 * On part à la chasse ! (The Hunter)
 * ON PART POUR UNE AVENTURE ! (Miscreated)
@@ -431,7 +436,7 @@ Update: 20180128
 * Quelques verres de whisky avant un braquage (GTA V)
 * QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
-* QUI DE NOUS DEUX VA DEVENIR RICHE ? (roulette)
+* QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
 * RETOUR VERS LE FUTUR (GTA IV) ft. Guzz et Porto
 * Reviens Gamin ! (DayZ Origins)
