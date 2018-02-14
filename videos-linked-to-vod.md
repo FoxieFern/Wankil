@@ -1,4 +1,4 @@
-Update: 20180123
+Update: 20180214
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2140,6 +2140,7 @@ VOD Disc Jam
 [[1/2]](https://www.youtube.com/watch?v=awvgWVqD1cg) <!--24/03/2017--> 
 [[2/2]](https://www.youtube.com/watch?v=pxSXYvNE83M) <!--25/03/2017--> 
 
+* **[ÊTES-VOUS ASSEZ FORT POUR RÉSOUDRE LES ÉNIGMES ? (We Were Here)](https://www.youtube.com/watch?v=BXWqRfIUiSA)** : 
 VOD We Were Here 
 [[1/3]](https://www.youtube.com/watch?v=2rAr6WsAxaM) <!--26/03/2017--> 
 [[2/3]](https://www.youtube.com/watch?v=T4Qb_8MyyQE) <!--27/03/2017--> 
@@ -2405,3 +2406,7 @@ VOD - Laink - Life Is Strange: Before the Storm
 [[2/4]](https://www.youtube.com/watch?v=rC7WKPwvaag) <!--22/12/2017--> 
 [[3/4]](https://www.youtube.com/watch?v=WE3MqXx0U6I) <!--23/12/2017--> 
 [[4/4]](https://www.youtube.com/watch?v=X9WSkiyUJ5U) <!--24/12/2017--> 
+
+VOD - Terracid - Shadow of the Colossus 
+[[1/3]](https://www.youtube.com/watch?v=3XPnpD7RNhs) <!--10/02/2018--> 
+[[2/3]](https://www.youtube.com/watch?v=JENWAo2FIYU) <!--14/02/2018--> 
