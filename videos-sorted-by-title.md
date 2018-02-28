@@ -1,4 +1,4 @@
-Update: 20180214
+Update: 20180228
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -94,6 +94,7 @@ Update: 20180214
 * DEUX BOUFFONS PERDUS DANS L'OCÉAN (Subnautica)
 * DEUX CRÉTINS SUR UN JEU STRATÉGIQUE (Mario Lapins Cretins)
 * DEUX KÉKÉS DANS DES TANKS TUNING (Crossout)
+* DEVENIR RICHE EN 10 MINUTES (Business Tour) ft. Amixem et Cyril
 * DIFFICILE DE NE PAS REGARDER LES NICHONS (Bloody Boobs)
 * DIRECTION LA LUNE !!! (Scrap Mechanic)
 * DO YOU WANT TO EAT MY POO ? (CS:GO)
@@ -142,6 +143,7 @@ Update: 20180214
 * Jacques, le Squelette Sympa (Half-Life 2: EP2 en COOP)
 * J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS
 * J'AI GAGNÉ LE SUPER COUTEAU !!! (Case Opening CS:GO)
+* J'AI GLISSÉ CAPITAINE (Blackwake) ft. Squeezie, Cyril, Mickalow
 * J'AI PO 8 ANS ! (Prop Hunt)
 * J'AI RETROUVÉ SES PIRES PHOTOS !
 * JAMAIS PRENDRE SA DOUCHE EN PRISON (The Escapists 2)
@@ -238,6 +240,7 @@ Update: 20180214
 * LE GROS BIDOU D'ALADIN (Mirage)
 * Le jeu de merde avec des cartes (Dead Space 3)
 * LE JEU D'HORREUR QUI FAIT PÉTER UN PLOMB (Pineview Drive)
+* LE JEU IMPOSSIBLE !!! (Getting Over It)
 * LE JEU OÙ TU PERDS TES POTES (Tricky Towers)
 * LE JEU OÙ TU VOMIS TES POTES (Styx : Shards of Darkness)
 * LE JEU QUI FAIT FAIRE PIPI DANS SON PANTALON (Damned)
@@ -451,6 +454,7 @@ Update: 20180214
 * SI ON ÉTAIT EN COUPLE (Need For Drink)
 * SI TU RIGOLES, TU MEURS.
 * Soirée improvisée avec Zedane
+* SOLDATS EN FORMATION ZIQUETTE !!! (Total War)
 * Soupe au Pistou avec des morceaux de jeux dedans
 * SPARTIATES VS TORTUES (Ultimate Epic Battle Simulator)
 * STAILLE HIRE !!! (DayZ)
