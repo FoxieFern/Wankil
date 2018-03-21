@@ -1,4 +1,4 @@
-Update: 20180228
+Update: 20180321
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -47,6 +47,7 @@ Update: 20180228
 * C'EST ÇA ! - MUSIQUE (LAEKØ remix)
 * C'EST ENCORE MIEUX QUE MATRIX !
 * C'est la chanson, de l’agression ! (Battlefield 3)
+* C'EST LA GUERRE !!! (DayZ RP) #4 FINAL
 * C'EST MOCHE MAIS C'EST RIGOLO (Unturned) ft. Guzz et Gydias
 * C'EST N'IMPORTE QUOI
 * C'est pas bon mais c'est drôle (Saucisses Lentilles)
@@ -55,7 +56,6 @@ Update: 20180228
 * C'EST TROP DAAAR LA REP' (Need for Speed) ft. Amixem, Superkonar et Hugo Délire
 * C'est un méchant ? (DayZ)
 * CHAMPAGNE ET MINI BURGERS (Fond vert)
-* Chanson - C'est quoi Guzzproductions
 * Chasser un ours grâce à son caca (The Hunter)
 * CHAUSSURE !!! (Half Dead)
 * CHUS DONG DAÏ (CS:GO)
@@ -90,7 +90,6 @@ Update: 20180228
 * DESSINER UNE GROSSE ZIQUETTE DANS LA NEIGE (Steep)
 * DÉTRUIRE UNE VILLE AVEC SON TÉLÉPHONE (Watch Dogs 2)
 * DEUX BOLOSSES PERDUS SUR UNE ÎLE (The Forest)
-* DEUX BOUFFONS CHERCHENT ARMES (Arma 3 RP)
 * DEUX BOUFFONS PERDUS DANS L'OCÉAN (Subnautica)
 * DEUX CRÉTINS SUR UN JEU STRATÉGIQUE (Mario Lapins Cretins)
 * DEUX KÉKÉS DANS DES TANKS TUNING (Crossout)
@@ -112,6 +111,7 @@ Update: 20180228
 * EXCLUSIF : BIGFOOT EST VEGAN (Finding Bigfoot)
 * EXPÉRIENCE SOCIALE TOURNE MAL (H1Z1)
 * EXPLORATION D'UN BUNKER SOUTERRAIN ABANDONNÉ
+* FAIRE UN FOOT SUR FORTNITE (Fortnite)
 * FAIT OU PAS FAIT (ft. Pierre Croce)
 * Flamenkuche remplie de différents jeux
 * Fourrée avec plein de jeux différents (Dinde de Noël)
@@ -177,12 +177,12 @@ Update: 20180228
 * LA FINE STRATÉGIE (Murder)
 * LA FORÊT - LES AVENTURES WANKULS (Animation Officielle)
 * La France au GTX Challenge
+* LA GRANDE GUERRE DES YOUTUBERS (Worms 3D)
 * LA GRANDE RAGE (CS:GO)
 * La greffe de cœur pour les nuls (Surgeon Simulator)
 * LA GROSSE CATAPULTE !!! (Human: Fall Flat)
 * LA GROSSE CONFÉRENCE
 * LA GUERRE DE FLANTIER (Animation)
-* LA GUERRE DES YOUTUBERS
 * La guerre en bicyclette (Heroes and Generals)
 * La guerre. Tout nus. (RUST RP)
 * #lainkapété
@@ -267,17 +267,18 @@ Update: 20180228
 * LE REPAS DE FAMILLE TOURNE MAL (Resident Evil 7)
 * LE RETOUR DES YOUTUBERS À LA FERME
 * Le retour du pilote solitaire (The Crew)
-* LE RETOUR DU RP AVEC JAKOV ET RICHUS (DayZ RP) #EP1
+* LE RETOUR DU RP AVEC JAKOV ET RICHUS (DayZ RP) #1
 * LE RP C'EST DIFFICILE (Animation Officielle)
 * LES APOCALYPSES ZOMBIES C'EST RIGOLO (Dying Light)
 * LES AUTOCOLLANTS DU GROS GABE (CS:GO)
 * LES BÊTISES À LA MONTAGNE
 * Les bêtises en war (CS:Source)
 * LES CHAUSSURES DES ABONNÉS (Half Dead)
-* LES COMMUNISTES NOUS METTENT EN PRISON (DayZ RP) #EP3
+* LES COMMUNISTES NOUS METTENT EN PRISON (DayZ RP) #3
 * L'ESCOUADE DISCO (H1Z1) ft. Squeezie, Mickalow, Gotaga
 * Les courses de chiens, mais en moto (Trials Fusion)
 * LES COWBOYS LES MOINS CRÉDIBLES (Arizona Sunshine VR)
+* LES CRÉATURES PARANORMALES QU'ON VOUS CACHE (SCP)
 * Les critiques de Laink #1 // Rayman
 * Les critiques de Laink #2 // Super Meat Boy
 * Les critiques de Laink #3 // L'Oculus Rift
@@ -321,6 +322,7 @@ Update: 20180228
 * LES VOISINS RELOUS (Hello Neighbor)
 * LES VOYOUS (Animation)
 * LES YOUTUBERS À LA FERME
+* LES YOUTUBERS À LA GUERRE
 * LES YOUTUBERS SAUVENT LA GALAXIE (ft. Amixem, Cyril - Star Trek VR)
 * LE TOURNAGE DE KOH-LANTA (Animation)
 * LE TOUT PETIT ZIZI (RUST RP)
@@ -424,6 +426,7 @@ Update: 20180228
 * PÊCHE A LA CARPE AVEC AMIXEM (Euro Fishing)
 * Pêche et violence gratuite (DayZ)
 * Pédro la bétonneuse et the final countdown (DayZ Origins)
+* PEUT-ON BOIRE SON PIPI ?
 * Peut-on conduire sans permis ? (Project CARS)
 * PGM LOL ZIZI PGM (CS:GO)
 * PIGEON QUI VOLE EST PLUS RUSÉ QUE RENARD QUI PÈTE (Aragami)
@@ -464,6 +467,7 @@ Update: 20180228
 * StupidiCLASH - Mai 2013 - Need for Speed: Hot Pursuit
 * SURVIVRE AVEC LA DIARRHÉE (7 Days To Die ) #EP1
 * TALABITALÈRE - MUSIQUE (Tids Remix)
+* T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)
 * TOC TOC TOC ?! (RUST)
 * TOUCHEZ, CHRISTINA, ALLEZ-Y ! (GTA V)
 * Toujours aussi chanceux ! (Case Opening CS:GO)
@@ -479,7 +483,7 @@ Update: 20180228
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
 * UNE NUIT D'HORREUR (Animation)
 * UNE QUEUE ET DES BOULES (Pool Nation)
-* UNE ROUTE QU'ON AURAIT PAS DÛ PRENDRE... (DayZ RP) #EP2
+* UNE ROUTE QU'ON AURAIT PAS DÛ PRENDRE... (DayZ RP) #2
 * Une tarte avec des morceaux de jeux à l'intérieur (Tarte Tatin)
 * UN HOMME DE HACHE !!! (Cry of Fear)
 * UN JEU DE MALADE MENTAL (Human: Fall Flat)
