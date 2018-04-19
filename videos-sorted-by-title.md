@@ -1,4 +1,4 @@
-Update: 20180321
+Update: 20180419
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -15,6 +15,7 @@ Update: 20180321
 * Annonce - Chaîne secondaire
 * APPUIE SUR SHIFT ! (Worms Revolution) ft. Guzz et Porto
 * ARMES, DROGUE ET PORN  (Welcome to the Game)
+* ARRÊTEZ MONSIEUR LE DIRECTEUR (Outlast 2)
 * ATTENTION TU PUES DE LA GUEULE (H1Z1)
 * AU MENU : CONTRE-SENS, LAURENT DEUTSCH ET LA FERME (Panini Nutella)
 * AU MENU : FROTTEMENTS, MINEFUN, ZOMBIES TOURISTES, MIEL POPS, ENJOY PHOENIX (Crêpe Suzette)
@@ -55,7 +56,9 @@ Update: 20180321
 * C'EST TOI QU'A PÉTÉ - LES AVENTURES WANKULS (Animation Officielle)
 * C'EST TROP DAAAR LA REP' (Need for Speed) ft. Amixem, Superkonar et Hugo Délire
 * C'est un méchant ? (DayZ)
+* CETTE VIDÉO NE DEVAIT PAS SORTIR
 * CHAMPAGNE ET MINI BURGERS (Fond vert)
+* Chanson - C'est quoi Guzzproductions
 * Chasser un ours grâce à son caca (The Hunter)
 * CHAUSSURE !!! (Half Dead)
 * CHUS DONG DAÏ (CS:GO)
@@ -234,8 +237,10 @@ Update: 20180321
 * LE DÉBUT DE NOTRE CARRIÈRE E-SPORT (CS:GO)
 * Le défi Pot-au-feu (DayZ)
 * LE DRAGON DE LA GRANDE TOUR (Savage Lands)
+* LE FESTIVAL DES BEAUFS (Far Cry 5)
 * Le fou rire de la biscotte (Splinter Cell: Blacklist)
 * LE GANT DE L'ARROGANCE (Stellar Overload)
+* LE GÂTEAU AU CACA (Animation Officielle)
 * LE GRAND KARAOKÉ (CS:GO)
 * LE GROS BIDOU D'ALADIN (Mirage)
 * Le jeu de merde avec des cartes (Dead Space 3)
@@ -347,6 +352,7 @@ Update: 20180321
 * LOUIS LE YOUTUBER GAMING (Youtubers Life)
 * L'UNBOXING CHARCUTERIE DE TERRACID
 * L'UNBOXING FROMAGER DE LAINK
+* MAIS C'EST INJUUUUUUSTE !!! (Mount Your Friends 3D)
 * MAIS DÉGAGE DE LÀ !!!! (Stick Fight)
 * MAIS DIS-LE-MOI !!! (CS:GO)
 * MAIS ÉCLAIREZ-LE !!! (White Noise 2) ft. Guzz, Porto, Gydias
@@ -399,6 +405,7 @@ Update: 20180321
 * On flippe nos races (Slender)
 * ON JOUE À UN MOBA PTDR (Paragon)
 * ON OFFRE LES PIRES CADEAUX DE NOËL
+* ON OUVRE VOS COLIS, ÇA FAIT MAL !
 * ON OUVRE VOS COLIS, VOUS ÊTES DES MALADES !
 * ON PARIE NOS PARTIES DU CORPS (CS:GO)
 * On part à la chasse ! (The Hunter)
@@ -407,6 +414,7 @@ Update: 20180321
 * ON REGARDE NOS PREMIÈRES VIDÉOS
 * ON RENCONTRE LES ABONNÉS SUR OMEGLE
 * ON S'AMUSE AVEC LE CORPS DE TRUMP (Surgeon Simulator)
+* ON S'ÉCHAPPE DE PRISON (A Way Out)
 * ON S’ÉCHAPPE D'UN MANOIR HANTÉ
 * ON S'ENVOIE EN L'AIR ENTRE COPAINS (Metal Gear Solid 5) ft. Guzz, Amixem et Superkonar
 * ON VA AU FKC MEC (APB: Reloaded) ft. Guzz et Porto
@@ -461,12 +469,14 @@ Update: 20180321
 * Soupe au Pistou avec des morceaux de jeux dedans
 * SPARTIATES VS TORTUES (Ultimate Epic Battle Simulator)
 * STAILLE HIRE !!! (DayZ)
+* STANNAH C'EST PLUS FORT QUE TOI !!! (Happy Wheels 3D)
 * STUNT, DÉLIRE ET FAILS (Miscreated)
 * Stunts, Délires et Fails (Half-Life 2 en COOP)
 * StupidiCLASH - Juillet 2013 - Worms Revolution
 * StupidiCLASH - Mai 2013 - Need for Speed: Hot Pursuit
 * SURVIVRE AVEC LA DIARRHÉE (7 Days To Die ) #EP1
 * TALABITALÈRE - MUSIQUE (Tids Remix)
+* T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish &amp; Build)
 * T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)
 * TOC TOC TOC ?! (RUST)
 * TOUCHEZ, CHRISTINA, ALLEZ-Y ! (GTA V)
@@ -477,6 +487,7 @@ Update: 20180321
 * Trop choukar le niglo (PAYDAY 2)
 * TROP RELOUS LES INFIDÈLES !!! (Squad)
 * TROUBLES DIGESTIFS (ARK Survival Evolved)
+* TROUVE LA COMBINAISON DU COFFRE-FORT (PUBG Mobile)
 * TU CONNAIS LAINK ET TERRACID ? (Antoine Daniel, Mathieu Sommet, Siphano, Jigmé...)
 * TUEZ VOS AMIS (Dead by Daylight) ft. Guzz, Hugo Délire et Gydias
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
