@@ -2100,6 +2100,10 @@ VOD Resident Evil 7
 [[7/8]](https://www.youtube.com/watch?v=VqcjL-Fyd5g) <!--01/03/2017--> 
 [[8/8]](https://www.youtube.com/watch?v=8ZNQVp7vwa0) <!--02/03/2017--> 
 
+VOD - Laink - Maize 
+[[1/2]](https://www.youtube.com/watch?v=597LnRmqjhU) <!--25/02/2017--> 
+[[2/2]](https://www.youtube.com/watch?v=xvN2sFh73ak) <!--26/02/2017--> 
+
 VOD - Laink - The Room: Two 
 [[1/1]](https://www.youtube.com/watch?v=8cRAEoaJR1Q) <!--03/03/2017--> 
 
@@ -2381,6 +2385,9 @@ VOD Tricky Towers
 * **[JESSICA FAIS VOIR TA KIKINE ! (Outlast 2)](https://www.youtube.com/watch?v=_Sbw1kkNN5s)** : 
 VOD Outlast 2 
 [[1/3]](https://www.youtube.com/watch?v=cPh2aoXVK7g) <!--13/12/2017--> 
+
+* **[ARRÊTEZ MONSIEUR LE DIRECTEUR (Outlast 2)](https://www.youtube.com/watch?v=7jZYpDjz8N4)** : 
+VOD Outlast 2 
 [[2/3]](https://www.youtube.com/watch?v=LrBMrs0oX9Y) <!--14/12/2017--> 
 [[3/3]](https://www.youtube.com/watch?v=3YrRC643J2E) <!--15/12/2017--> 
 
@@ -2411,3 +2418,6 @@ VOD - Terracid - Shadow of the Colossus
 [[1/3]](https://www.youtube.com/watch?v=3XPnpD7RNhs) <!--10/02/2018--> 
 [[2/3]](https://www.youtube.com/watch?v=JENWAo2FIYU) <!--14/02/2018--> 
 [[3/3]](https://www.youtube.com/watch?v=uAxO-fWijf0) <!--16/02/2018--> 
+
+VOD - Terracid - God of War 4 
+[[1/1]](https://www.youtube.com/watch?v=Wwci0dGRhig) <!--20/04/2018--> 
