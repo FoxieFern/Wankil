@@ -1,4 +1,4 @@
-Update: 20180419
+Update: 20180504
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -107,6 +107,7 @@ Update: 20180419
 * EH TU VEUX M'EMBRAFFER ? (Gmod Deathrun) ft. Guzz et Gydias
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
 * Espèce d'infirme ! (GTA IV)
+* ESSAYEZ DE DEVINER CE QU'ON FAIT
 * ÊTES-VOUS ASSEZ FORT POUR RÉSOUDRE LES ÉNIGMES ? (We Were Here)
 * ET J'AI CRAMÉ (Half-Life 2 en COOP)
 * ET MAINTENANT, FERME TA GUEULE (DayZ)
@@ -385,6 +386,7 @@ Update: 20180419
 * NOS SECRETS DE YOUTUBERS (Fond vert)
 * Nos Youtubers préférés en puzzle (Tabletop Simulator)
 * Notre décollage totalement réussi (DayZ Origins)
+* OK J'VEUX BIEN SORTIR AVEC TOI (Far Cry 5)
 * ON A DES CHOSES À VOUS DIRE
 * ON A DOUBLÉ UN FILM (ft. Sofyan)
 * ON A FAIT LE TOP 1 !!! (H1Z1)
@@ -400,6 +402,7 @@ Update: 20180419
 * ON CONTRÔLE TOUS LES DEUX LE MÊME JOUEUR (CS:GO)
 * On détruit les belles cinématiques (Diablo 3)
 * On engraine ! (Cubeworld)
+* ON EST PERDUS À BOUTROUX (GeoGuessr)
 * On est un peu bourrés (Battlefield 4)
 * ON FAIT UN ÉNORME SHOW LE 11 NOVEMBRE
 * On flippe nos races (Slender)
@@ -427,6 +430,7 @@ Update: 20180419
 * OPÉRATION LAMA (Ghost Recon Wildlands) ft. Guzz et Hugo Délire
 * OUVREZ LES ÉCOUTILLES DE BALLES ! (CS:GO)
 * PANIQUE EN CUISINE (Overcooked)
+* PAPI NOUS PARLE DES ALLEMANDS (World Of Tanks) ft. Hugo
 * PAR DESSUS LA TROISIÈME CORDE ! (Gang Beasts)
 * PAS AVEC LES DOIGTS - MUSIQUE (Tids Remix)
 * PAS TOUCHE À ÇA JACQUELINE !!! (Hand Simulator)
