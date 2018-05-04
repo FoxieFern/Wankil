@@ -1,4 +1,4 @@
-Update: 20180228
+Update: 20180504
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2420,4 +2420,9 @@ VOD - Terracid - Shadow of the Colossus
 [[3/3]](https://www.youtube.com/watch?v=uAxO-fWijf0) <!--16/02/2018--> 
 
 VOD - Terracid - God of War 4 
-[[1/1]](https://www.youtube.com/watch?v=Wwci0dGRhig) <!--20/04/2018--> 
+[[1/?]](https://www.youtube.com/watch?v=Wwci0dGRhig) <!--20/04/2018--> 
+[[2/?]](https://www.youtube.com/watch?v=7VVKxPy9I6k) <!--26/04/2018--> 
+[[3/?]](https://www.youtube.com/watch?v=wXOnMRp9dE8) <!--28/04/2018--> 
+
+VOD - Je suis un Reptilus Webedius 
+[[1/1]](https://www.youtube.com/watch?v=n3fkKwDI4-c) <!--29/04/2018--> 
