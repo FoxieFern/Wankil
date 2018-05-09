@@ -1,4 +1,4 @@
-Update: 20180504
+Update: 20180509
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2389,6 +2389,12 @@ VOD Outlast 2
 * **[ARRÊTEZ MONSIEUR LE DIRECTEUR (Outlast 2)](https://www.youtube.com/watch?v=7jZYpDjz8N4)** : 
 VOD Outlast 2 
 [[2/3]](https://www.youtube.com/watch?v=LrBMrs0oX9Y) <!--14/12/2017--> 
+
+* **[LA PIRE ÉCOLE AU MONDE (Outlast 2)](https://www.youtube.com/watch?v=dcznLZfFxy0)** : 
+VOD Outlast 2 
+[[2/3]](https://www.youtube.com/watch?v=LrBMrs0oX9Y) <!--14/12/2017--> 
+
+VOD Outlast 2 
 [[3/3]](https://www.youtube.com/watch?v=3YrRC643J2E) <!--15/12/2017--> 
 
 VOD Half Dead 
@@ -2426,3 +2432,19 @@ VOD - Terracid - God of War 4
 
 VOD - Je suis un Reptilus Webedius 
 [[1/1]](https://www.youtube.com/watch?v=n3fkKwDI4-c) <!--29/04/2018--> 
+
+VOD Home Sweet Home 
+[[1/1]](https://www.youtube.com/watch?v=LGhOYFbo8Ls) <!--05/05/2018--> 
+
+VOD Spy Party 
+[[1/1]](https://www.youtube.com/watch?v=CRn-Lvtg2OA) <!--06/05/2018--> 
+
+VOD Golf It Map Wankil 
+[[1/1]](https://www.youtube.com/watch?v=0IJVbJjv_bE) <!--07/05/2018--> 
+
+* **[ON S'ÉCHAPPE DE PRISON (A Way Out)](https://www.youtube.com/watch?v=xb-agZI268w)** : 
+VOD A Way Out 
+[[1/1]](https://www.youtube.com/watch?v=LIpeS8j66Fs) <!--08/05/2018--> 
+
+VOD Day of Infamy 
+[[1/1]](https://www.youtube.com/watch?v=S44wkaUoDcI) <!--09/05/2018-->

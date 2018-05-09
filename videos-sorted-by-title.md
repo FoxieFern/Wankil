@@ -1,4 +1,4 @@
-Update: 20180504
+Update: 20180509
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -179,6 +179,7 @@ Update: 20180504
 * La fatigue et la drogue (Arma 3 RP)
 * L'AFFRONTEMENT PAS SÉRIEUX (CS:GO) ft. Guzz et Porto
 * LA FINE STRATÉGIE (Murder)
+* LA FOIRE À LA SAUCISSE (Ben and Ed) ft. Amixem et Cyril
 * LA FORÊT - LES AVENTURES WANKULS (Animation Officielle)
 * La France au GTX Challenge
 * LA GRANDE GUERRE DES YOUTUBERS (Worms 3D)
@@ -202,6 +203,7 @@ Update: 20180504
 * LA MOULE FRAÎCHE (CS:GO)
 * La nature secrète de Guzz
 * LA NÉGOCIATION DES GROS BEAUFS (Arma 3 RP)
+* LA PIRE ÉCOLE AU MONDE (Outlast 2)
 * LA PIRE INFILTRATION (Ghost Recon Wildlands)
 * LA PIRE MUSIQUE AU MONDE (The Hidden) ft. Amixem et Superkonar
 * LA PIZZERIA MAUDITE (Animation)
