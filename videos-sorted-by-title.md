@@ -1,4 +1,4 @@
-Update: 20180509
+Update: 20180517
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -93,6 +93,7 @@ Update: 20180509
 * DESSINER UNE GROSSE ZIQUETTE DANS LA NEIGE (Steep)
 * DÉTRUIRE UNE VILLE AVEC SON TÉLÉPHONE (Watch Dogs 2)
 * DEUX BOLOSSES PERDUS SUR UNE ÎLE (The Forest)
+* DEUX BOUFFONS CHERCHENT ARMES (Arma 3 RP)
 * DEUX BOUFFONS PERDUS DANS L'OCÉAN (Subnautica)
 * DEUX CRÉTINS SUR UN JEU STRATÉGIQUE (Mario Lapins Cretins)
 * DEUX KÉKÉS DANS DES TANKS TUNING (Crossout)
@@ -237,6 +238,7 @@ Update: 20180509
 * Le club des Papillons Verts (DayZ Origins)
 * LE CONCOURS DE LANCER DE SAC (PAYDAY 2) ft. Guzz et Gydias
 * LE CORBEAU CASSE-COUILLES (The Black Death RP)
+* LE COUPABLE C'EST LE NAIN (Spy Party)
 * LE DÉBUT DE NOTRE CARRIÈRE E-SPORT (CS:GO)
 * Le défi Pot-au-feu (DayZ)
 * LE DRAGON DE LA GRANDE TOUR (Savage Lands)
@@ -340,6 +342,7 @@ Update: 20180509
 * LE TUBE (Battlefield 3)
 * Le type au masque à gaz (Dying Light)
 * LE VOYAGE SANS RETOUR (The Forest)
+* L'HISTOIRE NE NOUS DIT PAS TOUT (War Thunder)
 * L'HOMME QUI VALAIT 1 MILLION DE CENTIMES (CS:GO)
 * L'homme-vélo (DayZ)
 * LHOR, SOUKA, MOUDAK (Splinter Cell Conviction)
@@ -454,6 +457,7 @@ Update: 20180509
 * QUAND TU VAS CHEZ MICROMANIA
 * QUAND UN POTE T'ENVOIE LES PIRES COLIS
 * Quelques verres de whisky avant un braquage (GTA V)
+* QUELQU'UN A VOLÉ NOTRE TROPHÉE YOUTUBE
 * QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?

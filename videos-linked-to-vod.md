@@ -1,4 +1,4 @@
-Update: 20180509
+Update: 20180517
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2436,6 +2436,7 @@ VOD - Je suis un Reptilus Webedius
 VOD Home Sweet Home 
 [[1/1]](https://www.youtube.com/watch?v=LGhOYFbo8Ls) <!--05/05/2018--> 
 
+* **[LE COUPABLE C'EST LE NAIN (Spy Party)](https://www.youtube.com/watch?v=d4StoMi8P7E)** : 
 VOD Spy Party 
 [[1/1]](https://www.youtube.com/watch?v=CRn-Lvtg2OA) <!--06/05/2018--> 
 
@@ -2447,4 +2448,30 @@ VOD A Way Out
 [[1/1]](https://www.youtube.com/watch?v=LIpeS8j66Fs) <!--08/05/2018--> 
 
 VOD Day of Infamy 
-[[1/1]](https://www.youtube.com/watch?v=S44wkaUoDcI) <!--09/05/2018-->
+[[1/1]](https://www.youtube.com/watch?v=S44wkaUoDcI) <!--09/05/2018--> 
+
+* **[ON EST PERDUS À BOUTROUX (GeoGuessr)](https://www.youtube.com/watch?v=6NdSF9Ni0Mk)** : 
+VOD GeoGuessr 
+[[1/1]](https://www.youtube.com/watch?v=zQ3EXrpLz8Q) <!--10/05/2018--> 
+
+VOD Remothered 
+[[1/1]](https://www.youtube.com/watch?v=TMhyXs75gq8) <!--11/05/2018--> 
+
+VOD Sea of Thieves 
+[[1/1]](https://www.youtube.com/watch?v=QKKCmhPvt-M) <!--12/05/2018--> 
+
+VOD SOS 
+[[1/1]](https://www.youtube.com/watch?v=BenB84T8zkg) <!--13/05/2018--> 
+
+VOD The Evil Within 2 
+[[1/1]](https://www.youtube.com/watch?v=-3xYIIPI0rM) <!--14/05/2018--> 
+
+VOD Warhammer: Vermintide 2 
+[[1/1]](https://www.youtube.com/watch?v=7W_OO3Jnp0A) <!--15/05/2018--> 
+
+* **[LE JEU IMPOSSIBLE !!! (Getting Over It)](https://www.youtube.com/watch?v=WBG1pp44Ueg)** : 
+VOD Getting Over It 
+[[1/1]](https://www.youtube.com/watch?v=hH0ji8eV3qY) <!--16/05/2018--> 
+
+VOD Hunt: Showdown 
+[[1/1]](https://www.youtube.com/watch?v=sQlnmI1hw6M) <!--17/05/2018--> 
