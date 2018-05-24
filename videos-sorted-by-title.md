@@ -1,4 +1,4 @@
-Update: 20180517
+Update: 20180524
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 150000€ ! Le don historique d'Amhai pour Wankil
@@ -50,6 +50,7 @@ Update: 20180517
 * C'est la chanson, de l’agression ! (Battlefield 3)
 * C'EST LA GUERRE !!! (DayZ RP) #4 FINAL
 * C'EST MOCHE MAIS C'EST RIGOLO (Unturned) ft. Guzz et Gydias
+* C'EST MOI LA NOUVELLE INFIRMIÈRE (Remothered)
 * C'EST N'IMPORTE QUOI
 * C'est pas bon mais c'est drôle (Saucisses Lentilles)
 * C'EST PAS UN JEU DE TAPETTES (Dying Light)
@@ -480,6 +481,7 @@ Update: 20180517
 * SPARTIATES VS TORTUES (Ultimate Epic Battle Simulator)
 * STAILLE HIRE !!! (DayZ)
 * STANNAH C'EST PLUS FORT QUE TOI !!! (Happy Wheels 3D)
+* STOP, NE BOUGEZ PLUS !!! (Get Even)
 * STUNT, DÉLIRE ET FAILS (Miscreated)
 * Stunts, Délires et Fails (Half-Life 2 en COOP)
 * StupidiCLASH - Juillet 2013 - Worms Revolution
