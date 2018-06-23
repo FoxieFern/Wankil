@@ -1,6 +1,7 @@
-Update: 20180524
+Update: 20180623
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
+* 1 + 1 = JE SAIS PAS (The Escape)
 * 150000€ ! Le don historique d'Amhai pour Wankil
 * 200000 ABONNÉS !
 * À BOUÈRE, J'AI CHAUD ! (CS:GO)
@@ -35,12 +36,14 @@ Update: 20180524
 * BOGEEEEEEY (Golf With Your Friends)
 * BRAQUAGE DE LA BANQUE (Arma 3 RP) ft. Bibix et MR
 * Braquages, courses, football et arcades (Sushi Maki)
+* ÇA FAIT UN AN QU'ON ATTEND DE FAIRE CETTE VIDÉO !
 * CAPTURER LES MEILLEURS POKÉMON
 * CARMAGEDDON (GTA IV) ft. Guzz et Porto
 * ÇA S'EST PAS PASSÉ COMME PRÉVU BORDEL
 * CATAPULTE DE CACAS ENFLAMMÉS (Gears of War 4)
 * CE BÂTARD DE BOB L'ÉPONGE (Gmod Deathrun) ft. Guzz et Gydias
 * Celui qui gagne a baisé la sœur de l'autre (Mario Kart)
+* CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
 * Ce n'est que charme et sorcellerie monseigneur ! (Chivalry: Medieval Warfare)
 * C'EST BEAUCOUP TROP CHAUD (Can't Drive This)
@@ -137,6 +140,7 @@ Update: 20180524
 * IL FAUT SAUVER DAME TERRINE (Assassin's Creed Unity)
 * IL FAUT SAUVER LE SOLDAT FLANTIER (Verdun)
 * IL ME MONTRE SON GROS DECK (Hand of the Gods)
+* IL N'EN RESTERA QU'UN (PUBG)
 * IL PENSE QUE LA CHAÎNE VA ÊTRE SUPPRIMÉE
 * ILS SONT SOUS LA MAISON !!! (7 Days To Die) #EP4
 * IL VOUS MANQUE UN BRAS MADAME (Dishonored 2)
@@ -238,6 +242,7 @@ Update: 20180524
 * L'échec infini (Splinter Cell: Blacklist)
 * Le club des Papillons Verts (DayZ Origins)
 * LE CONCOURS DE LANCER DE SAC (PAYDAY 2) ft. Guzz et Gydias
+* LE CONTRÔLE FISCAL TOURNE MAL (CS:GO Coop)
 * LE CORBEAU CASSE-COUILLES (The Black Death RP)
 * LE COUPABLE C'EST LE NAIN (Spy Party)
 * LE DÉBUT DE NOTRE CARRIÈRE E-SPORT (CS:GO)
@@ -387,11 +392,13 @@ Update: 20180524
 * NE FAITES PAS ÇA À VOTRE POTE (SportsBar VR)
 * NE FERMEZ PAS LES YEUX... (Stay Close)
 * NELSON MONFORT ET LA PLANÈTE DES SINGES (Rocket League)
+* NE MANGEZ PAS VOTRE PROPRE BIOMASSE (Memories of Mars)
 * NETTOYER LES TOILETTES DANS LE FUTUR (The Surge)
 * NORAJ LES FANBOYS (Rocket League)
 * NOS SECRETS DE YOUTUBERS (Fond vert)
 * Nos Youtubers préférés en puzzle (Tabletop Simulator)
 * Notre décollage totalement réussi (DayZ Origins)
+* NOTRE PROPRE PARCOURS DE GOLF (Salade Tomates Oignons)
 * OK J'VEUX BIEN SORTIR AVEC TOI (Far Cry 5)
 * ON A DES CHOSES À VOUS DIRE
 * ON A DOUBLÉ UN FILM (ft. Sofyan)
@@ -454,6 +461,7 @@ Update: 20180524
 * POUET POUET (GTA V)
 * POURSUIVIS PAR DES SQUELETTES (Stairs)
 * PROBLEMES GASTRIQUES (DayZ) ft. Guzz
+* QUAND TA PROPRE ODEUR TE DÉRANGE (CS:GO)
 * QUAND TON COÉQUIPIER EST UN ENFANT (CS:GO)
 * QUAND TU VAS CHEZ MICROMANIA
 * QUAND UN POTE T'ENVOIE LES PIRES COLIS
@@ -505,7 +513,6 @@ Update: 20180524
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
 * UNE NUIT D'HORREUR (Animation)
-* UNE QUEUE ET DES BOULES (Pool Nation)
 * UNE ROUTE QU'ON AURAIT PAS DÛ PRENDRE... (DayZ RP) #2
 * Une tarte avec des morceaux de jeux à l'intérieur (Tarte Tatin)
 * UN HOMME DE HACHE !!! (Cry of Fear)
