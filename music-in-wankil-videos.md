@@ -1,4 +1,6 @@
-Update: 20180623
+Update: 20180624
+
+* **J'APPELLE MA MÈRE POUR GAGNER 150000€ (Qui veut gagner des millions)**
 
 * **CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)**
 
@@ -83,13 +85,13 @@ Update: 20180623
 	* _Musique inconnue à 2:11_
 	* _Quirky Adventure_ par Geoff Harvey
 	* _Gonna Fly Now (Theme from Rocky)_ par [Bill Conti](https://en.wikipedia.org/wiki/Bill_Conti)
-	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Monkeys Spinning Monkeys_ par Kevin MacLeod - licence CC BY 3.0
 	* _Musique inconnue à 3:28_
 	* _Musique inconnue à 3:36_
 	* _Musique inconnue à 4:39_
 	* _Musique inconnue à 5:26_
 	* _Musique inconnue à 5:37_
-	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Scheming Weasel (faster version)_ par Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Musique inconnue à 8:28_
 	* _Musique inconnue à 8:52_
@@ -1312,9 +1314,19 @@ Update: 20180623
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _White Tiger (FlicFlac Remix)_ par [Izzy Bizu](https://en.wikipedia.org/wiki/Izzy_Bizu)
 
-* **IL A PRIS DU FERME (CS:GO)**
+* **[IL A PRIS DU FERME (CS:GO)](https://www.youtube.com/watch?v=egTsPJrR1qQ)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Japanese Beggar_ par [Peter Pitches](https://soundcloud.com/peterpitches)
+	* _Du ferme_ par [La Fouine](https://fr.wikipedia.org/wiki/La_Fouine)
+	* _Paddling Out (KeyRose Remix)_ par [Miike Snow](https://en.wikipedia.org/wiki/Miike_Snow)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Thumbs Up (For Rock N' Roll)_ par [Kill The Noise](https://soundcloud.com/killthenoise) & Feed Me
 
-* **Dans la peau du Slenderman (Slender)**
+* **[Dans la peau du Slenderman (Slender)](https://www.youtube.com/watch?v=A0KYC6HVjzc)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _River Valley Breakdown_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Slender (Original Mix)_ par [Mr. Straightface](https://soundcloud.com/kaseythompson)
 
 * **[L'INCROYABLE NOVA (CS:GO)](https://www.youtube.com/watch?v=PMF_NIWphbc)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -1538,29 +1550,69 @@ Update: 20180623
 	* _Musique inconnue à 6:08_
 	* _I Do Love You_ par [Kill Paris](https://soundcloud.com/killparis)
 
-* **Le Camion Explosif (Half-Life 2 en COOP)**
+* **[Le Camion Explosif (Half-Life 2 en COOP)](https://www.youtube.com/watch?v=WfFF506z6rw)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Ridin'_ par [Chamillionaire](https://en.wikipedia.org/wiki/Chamillionaire) ft. [Krayzie Bone](https://en.wikipedia.org/wiki/Krayzie_Bone)
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Course Poursuite_ par Waek
 
-* **Stunts, Délires et Fails (Half-Life 2 en COOP)**
+* **[Stunts, Délires et Fails (Half-Life 2 en COOP)](https://www.youtube.com/watch?v=NvI6yDw5ZDM)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Dilemma_ par [Nelly](https://en.wikipedia.org/wiki/Nelly) ft. [Kelly Rowland](https://en.wikipedia.org/wiki/Kelly_Rowland)
+	* _Ridin'_ par [Chamillionaire](https://en.wikipedia.org/wiki/Chamillionaire) ft. [Krayzie Bone](https://en.wikipedia.org/wiki/Krayzie_Bone)
+	* _D.R.E.A.M_ par [The Noisy Freaks](https://soundcloud.com/thenoisyfreaks)
 
-* **StupidiCLASH - Mai 2013 - Need for Speed: Hot Pursuit**
+* **[StupidiCLASH - Mai 2013 - Need for Speed: Hot Pursuit](https://www.youtube.com/watch?v=C9GGrFUnymQ)**
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Musique inconnue à 0:17_
+	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
 
-* **Rondelle Movie (Half-Life 2 en COOP)**
+* **[Rondelle Movie (Half-Life 2 en COOP)](https://www.youtube.com/watch?v=8tIzEGkOUFU)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Victime Boloss_ par DJ Soke
+	* _Larva (Far Away) (Pegboard Nerds Remix)_ par [Morten Breum](https://en.wikipedia.org/wiki/Morten_Breum)
+	* _Musique inconnue à 7:06_
 
-* **Le Beau Pétard (Half-Life 2 en COOP)**
+* **[Le Beau Pétard (Half-Life 2 en COOP)](https://www.youtube.com/watch?v=CtqRi4L9S8U)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Victime Boloss_ par DJ Soke
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Bounce (Destroid)_ par [Excision](https://en.wikipedia.org/wiki/Excision_(musician)) & [Space Laces](https://soundcloud.com/space-laces)
+	* _Michael Jackson (The Beat Goes On)_ par [Cash Cash](https://en.wikipedia.org/wiki/Cash_Cash)
 
-* **ET J'AI CRAMÉ (Half-Life 2 en COOP)**
+* **[ET J'AI CRAMÉ (Half-Life 2 en COOP)](https://www.youtube.com/watch?v=i-ELRMO3vHQ)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Musique inconnue à 10:20_
+	* _Bounce (Destroid)_ par [Excision](https://en.wikipedia.org/wiki/Excision_(musician)) & [Space Laces](https://soundcloud.com/space-laces)
 
-* **L'insurrection en prison ! (CS:Source)**
+* **[L'insurrection en prison ! (CS:Source)](https://www.youtube.com/watch?v=QX24-fHvXBw)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Young, Wild & Free_ par [Wiz Khalifa](https://en.wikipedia.org/wiki/Wiz_Khalifa) et [Snoop Dogg](https://en.wikipedia.org/wiki/Snoop_Dogg) ft. [Bruno Mars](https://en.wikipedia.org/wiki/Bruno_Mars)
+	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
+	* _Musique inconnue à 8:12_
 
-* **Les vacances et les zombies (Dead Island Riptide)**
+* **[Les vacances et les zombies (Dead Island Riptide)](https://www.youtube.com/watch?v=vRnm6BVaofQ)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Where the Hood At?_ par [DMX](https://en.wikipedia.org/wiki/DMX_(rapper))
+	* _Bad News (Virtual Riot Remix)_ par [Lock N Bounce](https://soundcloud.com/locknbounce)
 
-* **C'est la chanson, de l’agression ! (Battlefield 3)**
+* **[C'est la chanson, de l’agression ! (Battlefield 3)](https://www.youtube.com/watch?v=SQN7T8BslTg)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Get Lucky (PELUSSJE Remix)_ par [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk)
 
-* **YO MISTER WHITE ! OH BITCH... (No More Room In Hell) ft. Guzz et Porto**
+* **[YO MISTER WHITE ! OH BITCH... (No More Room In Hell) ft. Guzz et Porto](https://www.youtube.com/watch?v=QpzFQJ-53-o)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Broken (Culture Code Remix)_ par Young London
 
-* **LE CACHE-CACHE QUI FAIT SE FAIRE PIPI DESSUS (The Hidden: Source)**
+* **[LE CACHE-CACHE QUI FAIT SE FAIRE PIPI DESSUS (The Hidden: Source)](https://www.youtube.com/watch?v=XHE_ScumPOk)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Power Glove_ par [Knife Party](https://soundcloud.com/knifepartyinc)
 
-* **110km/h de puissance DANS TA GUEULE ! (DayZ)**
+* **[110km/h de puissance DANS TA GUEULE ! (DayZ)](https://www.youtube.com/watch?v=z_tbe8xpeC4)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _The Rise (Original Mix)_ par [Pelussje](https://soundcloud.com/pelussjeofficial)
+	* _Dancing Plague (Pelussje Remix)_ par [Macrowave](https://soundcloud.com/macrowave/)
 
 * **[CARMAGEDDON (GTA IV) ft. Guzz et Porto](https://www.youtube.com/watch?v=TLx1oOYoolM)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)

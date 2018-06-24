@@ -1,4 +1,4 @@
-Update: 20180623
+Update: 20180624
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -157,6 +157,7 @@ Update: 20180623
 * J'AI PO 8 ANS ! (Prop Hunt)
 * J'AI RETROUVÉ SES PIRES PHOTOS !
 * JAMAIS PRENDRE SA DOUCHE EN PRISON (The Escapists 2)
+* J'APPELLE MA MÈRE POUR GAGNER 150000€ (Qui veut gagner des millions)
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
 * JE ME SUIS COINCÉ UN TESTICULE (Five Nights at Freddy's)
