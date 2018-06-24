@@ -85,13 +85,13 @@ Update: 20180624
 	* _Musique inconnue à 2:11_
 	* _Quirky Adventure_ par Geoff Harvey
 	* _Gonna Fly Now (Theme from Rocky)_ par [Bill Conti](https://en.wikipedia.org/wiki/Bill_Conti)
-	* _Monkeys Spinning Monkeys_ par Kevin MacLeod - licence CC BY 3.0
+	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Musique inconnue à 3:28_
 	* _Musique inconnue à 3:36_
 	* _Musique inconnue à 4:39_
 	* _Musique inconnue à 5:26_
 	* _Musique inconnue à 5:37_
-	* _Scheming Weasel (faster version)_ par Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Musique inconnue à 8:28_
 	* _Musique inconnue à 8:52_
