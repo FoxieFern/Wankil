@@ -1,4 +1,4 @@
-Update: 20180624
+Update: 20180711
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -10,6 +10,7 @@ Update: 20180624
 * À la recherche du petit Dimitri (The Forest)
 * ALERTE BATARD (Half-Life en COOP)
 * ALFRED, C'EST TOI ? (Arma 3 RP) #EP3
+* ALLER EN PRISON À CAUSE D'UN PRANK (Escape from Tarkov)
 * ALLEZ DAMIEN - MUSIQUE (Tids Remix)
 * ALLUME... NON ÉTEINS ! (Stay Close)
 * ALORS ILS SONT FRANÇAIS - MUSIQUE (LAEKØ remix)
@@ -117,6 +118,7 @@ Update: 20180624
 * ET J'AI CRAMÉ (Half-Life 2 en COOP)
 * ET MAINTENANT, FERME TA GUEULE (DayZ)
 * ET UNE GOUTTE DE VANTARDISE ! (Trackmania Turbo)
+* ÉVITEZ DE CONDUIRE SANS PERMIS (The Crew 2) ft. Jiraya
 * EXCLUSIF : BIGFOOT EST VEGAN (Finding Bigfoot)
 * EXPÉRIENCE SOCIALE TOURNE MAL (H1Z1)
 * EXPLORATION D'UN BUNKER SOUTERRAIN ABANDONNÉ
@@ -423,6 +425,7 @@ Update: 20180624
 * ON JOUE À UN MOBA PTDR (Paragon)
 * ON OFFRE LES PIRES CADEAUX DE NOËL
 * ON OUVRE VOS COLIS, ÇA FAIT MAL !
+* ON OUVRE VOS COLIS, C'EST LA FÊTE DES BEAUFS !
 * ON OUVRE VOS COLIS, VOUS ÊTES DES MALADES !
 * ON PARIE NOS PARTIES DU CORPS (CS:GO)
 * On part à la chasse ! (The Hunter)
@@ -511,6 +514,7 @@ Update: 20180624
 * TROUVE LA COMBINAISON DU COFFRE-FORT (PUBG Mobile)
 * TU CONNAIS LAINK ET TERRACID ? (Antoine Daniel, Mathieu Sommet, Siphano, Jigmé...)
 * TUEZ VOS AMIS (Dead by Daylight) ft. Guzz, Hugo Délire et Gydias
+* TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
 * UNE NUIT D'HORREUR (Animation)
