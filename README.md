@@ -11,4 +11,5 @@ Miniatures
 * grep -o 'href="/watch?v=[^"]\+"' [HTML.txt] | awk -F"=" '{print $NF}' | tr -d '"' | uniq > listURL.txt
 * for url in `cat listURL.txt`; do echo $URL; curl http://img.youtube.com/vi/"$url"/sddefault.jpg > "$url".jpg; done
 * for i in `ls *.jpg`; do convert $i -trim -bordercolor Black $i; done
+* montage -geometry +1+1 -tile 5x -background none -mode concatenate $(ls *.jpg | shuf -n 50) resultat.jpg
 ```
