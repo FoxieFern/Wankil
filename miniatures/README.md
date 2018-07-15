@@ -22,6 +22,6 @@ _Disclaimer : Attention ! Warning ! Achtung ! Soyez extrêmement vigilants lorsq
 
 ```montage -geometry +1+1 -tile 5x -background none -mode concatenate $(ls *.jpg | shuf -n 50) thumbs_random50.jpg```
 
-* Assemblage des miniatures, ici [les 30 premières miniatures de la liste](thumbs_first30.jpg) réparties par ligne de 6
+* Assemblage des miniatures, ici [les 30 premières miniatures de la liste](thumbs_first30.jpg) réparties par lignes de 6
 
 ```montage -geometry +1+1 -tile 6x -background none -mode concatenate $(ls *.jpg | sort -V | head -n 30) thumbs_first30.jpg```

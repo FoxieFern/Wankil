@@ -1,4 +1,4 @@
-Update: 20180711
+Update: 20180715
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -121,6 +121,7 @@ Update: 20180711
 * ÉVITEZ DE CONDUIRE SANS PERMIS (The Crew 2) ft. Jiraya
 * EXCLUSIF : BIGFOOT EST VEGAN (Finding Bigfoot)
 * EXPÉRIENCE SOCIALE TOURNE MAL (H1Z1)
+* EXPLORATION DE TCHERNOBYL DANS LA ZONE RADIOACTIVE
 * EXPLORATION D'UN BUNKER SOUTERRAIN ABANDONNÉ
 * FAIRE UN FOOT SUR FORTNITE (Fortnite)
 * FAIT OU PAS FAIT (ft. Pierre Croce)
@@ -475,6 +476,7 @@ Update: 20180711
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
+* QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
 * RETOUR VERS LE FUTUR (GTA IV) ft. Guzz et Porto
 * Reviens Gamin ! (DayZ Origins)
 * ROBERT LA MOUCHE (Slap The Fly)
@@ -518,6 +520,7 @@ Update: 20180711
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
 * UNE NUIT D'HORREUR (Animation)
+* UNE QUEUE ET DES BOULES (Pool Nation)
 * UNE ROUTE QU'ON AURAIT PAS DÛ PRENDRE... (DayZ RP) #2
 * Une tarte avec des morceaux de jeux à l'intérieur (Tarte Tatin)
 * UN HOMME DE HACHE !!! (Cry of Fear)

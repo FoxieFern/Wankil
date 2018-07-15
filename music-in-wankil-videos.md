@@ -1,4 +1,16 @@
-Update: 20180624
+Update: 20180715
+
+* **QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)**
+
+* **EXPLORATION DE TCHERNOBYL DANS LA ZONE RADIOACTIVE**
+
+* **ÉVITEZ DE CONDUIRE SANS PERMIS (The Crew 2) ft. Jiraya**
+
+* **TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo**
+
+* **ALLER EN PRISON À CAUSE D'UN PRANK (Escape from Tarkov)**
+
+* **ON OUVRE VOS COLIS, C'EST LA FÊTE DES BEAUFS !**
 
 * **J'APPELLE MA MÈRE POUR GAGNER 150000€ (Qui veut gagner des millions)**
 
@@ -393,7 +405,7 @@ Update: 20180624
 
 * **ON A FAIT LE TOP 1 !!! (H1Z1)**
 
-<!-- * **UNE QUEUE ET DES BOULES (Pool Nation)**-->
+* **UNE QUEUE ET DES BOULES (Pool Nation)**
 
 * **EXPÉRIENCE SOCIALE TOURNE MAL (H1Z1)**
 
