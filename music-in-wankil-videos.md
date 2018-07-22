@@ -1,4 +1,6 @@
-Update: 20180720
+Update: 20180723
+
+* **C'EST FINI ON EST PLUS POTES (Uno) ft. Amixem et Cyril**
 
 * **CE SPORT EST INTERDIT (Disc Jam)**
 
@@ -1284,11 +1286,33 @@ Update: 20180720
 * **[Comment faire quand tu reçois l'appel d'un inconnu ?](https://www.youtube.com/watch?v=lo9IgtTksiU)**
 	* _Always Look on the Bright Side of Life (Monty Python)_ par [Eric Idle](https://fr.wikipedia.org/wiki/Eric_Idle)
 
-* **LA CHASSE AUX STALKERS (DayZ) ft. Guzz**
+* **[LA CHASSE AUX STALKERS (DayZ) ft. Guzz](https://www.youtube.com/watch?v=Gp-TQgAivXE)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Musique inconnue à 0:37_
+	* _Magnum Force (Team Fortress 2 Soundtrack)_ par [Lalo Schifrin](https://en.wikipedia.org/wiki/Lalo_Schifrin)
+	* _Happy_ par [Pharrell Williams](https://en.wikipedia.org/wiki/Pharrell_Williams)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Rave On!_ par [Karetus](https://soundcloud.com/karetus)
 
-* **LE MAXI BEST OF DE LAINK ET TERRACID**
+* **[LE MAXI BEST OF DE LAINK ET TERRACID](https://www.youtube.com/watch?v=6Gv6SfedS6w)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Night By Night (PELUSSJE & KISBEAT Obscu REMIX)_ par [Chromeo](https://en.wikipedia.org/wiki/Chromeo)
+	* _Victime Boloss_ par DJ Soke
+	* _C'est mon rêve_ par Damien Jean
+	* _The Pink Panther Theme_ par [Henry Mancini](https://fr.wikipedia.org/wiki/Henry_Mancini)
+	* _The Ecstasy of Gold_ par [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone)
+	* _Thunder and Blazes (Circus Theme music)_ par [Louis-Philippe Laurendeau](https://en.wikipedia.org/wiki/Louis-Philippe_Laurendeau)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Ark_ par [Rob Gasser](https://soundcloud.com/robgassermusic) & [Raider](https://soundcloud.com/raider)
 
-* **PROBLEMES GASTRIQUES (DayZ) ft. Guzz**
+* **[PROBLEMES GASTRIQUES (DayZ) ft. Guzz](https://www.youtube.com/watch?v=za4Q5ucHMk4)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Hip Hop Hooray_ par [Naughty by Nature](https://en.wikipedia.org/wiki/Naughty_by_Nature)
+	* _Encounter (Metal Gear Solid Original Game Soundtrack)_ par T. Ishiyama, J. Myung Lee, G. Meroni, K. Muraoka et H. Togo
+	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
+	* _Le Petit Bonhomme en mousse_ par [Patrick Sébastien](https://fr.wikipedia.org/wiki/Patrick_S%C3%A9bastien)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _I'm Free_ par [Kill Paris](https://soundcloud.com/killparis)
 
 * **[Comment faire quand tu as un gros ping ?](https://www.youtube.com/watch?v=W-UPCVWFwdg)**
 	* _Always Look on the Bright Side of Life (Monty Python)_ par [Eric Idle](https://fr.wikipedia.org/wiki/Eric_Idle)
@@ -1299,7 +1323,13 @@ Update: 20180720
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _I'm The One_ par [Flux Pavilion](https://en.wikipedia.org/wiki/Flux_Pavilion) & [Dillon Francis](https://soundcloud.com/dillonfrancis)
 
-* **La chasse au stalker (DayZ)**
+* **[La chasse au stalker (DayZ)](https://www.youtube.com/watch?v=VQuLIAIQp8s)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Bella_ de [Maître Gims](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_Gims)
+	* _Cycles_ par [Cyriak](http://cyriak.co.uk/animation/music/)
+	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Ark_ par [Rob Gasser](https://soundcloud.com/robgassermusic) & [Raider](https://soundcloud.com/raider)
 
 * **[MUT MUT ÉCARTEZ-VOUS (Euro Truck Simulator 2)](https://www.youtube.com/watch?v=ADUJ87Wxyp4)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -1324,14 +1354,29 @@ Update: 20180720
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _No More_ par [The Qemists](https://en.wikipedia.org/wiki/The_Qemists)
 
-* **Les critiques de Terracid #3 // Ecran LG LA6208 3D Smart**
+* **[Les critiques de Terracid #3 // Ecran LG LA6208 3D Smart](https://www.youtube.com/watch?v=vzF0_qP9wyw)**
+	* _Musique inconnue à 0:02_
 
-* **MARABOUCH'PIC ! (DayZ)**
+* **[MARABOUCH'PIC ! (DayZ)](https://www.youtube.com/watch?v=XUhXWUfMePo)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Resurrection (The Geek x Vrv Remix)_ par [Tomsize](https://soundcloud.com/tomsize) & [Simeon](https://soundcloud.com/simeon)
 
-* **LA FINE STRATÉGIE (Murder)**
-
-* **KI CÉ LE MEURTRIER (Murder)**
-
+* **[LA FINE STRATÉGIE (Murder)](https://www.youtube.com/watch?v=uvtowtZPCTw)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Won't Get Fooled Again_ par [The Who](https://en.wikipedia.org/wiki/The_Who)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Night By Night (PELUSSJE & KISBEAT Obscu REMIX)_ par [Chromeo](https://en.wikipedia.org/wiki/Chromeo)
+	
+* **[KI CÉ LE MEURTRIER (Murder)](https://www.youtube.com/watch?v=O0dCnFmxRVE)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Cycles_ par [Cyriak](http://cyriak.co.uk/animation/music/)
+	* _Derrick (TV Theme)_ par [Les Humphries singers](https://en.wikipedia.org/wiki/Les_Humphries_Singers) arr. Manfred Schneider
+	* _Victime Boloss_ par DJ Soke
+	* _River Valley Breakdown_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _The Mechanism_ par [Disclosure](https://soundcloud.com/disclosuremusic) & [Friend Within](https://soundcloud.com/FriendWithin)
+	
 * **[Soupe au Pistou avec des morceaux de jeux dedans](https://www.youtube.com/watch?v=h57Bsakp7Dg)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Journey to the Island (Jurassic Park)_ par [John Williams](https://en.wikipedia.org/wiki/John_Williams)
@@ -1374,15 +1419,41 @@ Update: 20180720
 	* _Blow (Original Mix)﻿_ par [Cyberpunkers](https://soundcloud.com/cyberpunkers)
 	* _Raptor_ par [Zomboy](https://en.wikipedia.org/wiki/Zomboy)
 
-* **Le tribunal (RUST RP)**
+* **[Le tribunal (RUST RP)](https://www.youtube.com/watch?v=Y0iGDtPsYJk)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _French Club_ par [The Noisy Freaks](https://soundcloud.com/thenoisyfreaks)
 
-* **Le PVP en slip (DayZ)**
+* **[Le PVP en slip (DayZ)](https://www.youtube.com/watch?v=AJ6BOZVy_3Y)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Besoin de personne_ par [Véronique Sanson](https://en.wikipedia.org/wiki/V%C3%A9ronique_Sanson)
+	* _I Will Survive_ par [Hermes House Band](https://fr.wikipedia.org/wiki/Hermes_House_Band)
+	* _The Pink Panther Theme_ par [Henry Mancini](https://fr.wikipedia.org/wiki/Henry_Mancini)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Zombies_ par [Designer Drugs](https://soundcloud.com/designerdrugs)
 
-* **LA RAGE PURE (CS:GO)**
+* **[LA RAGE PURE (CS:GO)](https://www.youtube.com/watch?v=WtZOKMY26_M)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Je ne suis pas un héros_ par [Daniel Balavoine](https://fr.wikipedia.org/wiki/Daniel_Balavoine)
+	* _Le Petit Bonhomme en mousse_ par [Patrick Sébastien](https://fr.wikipedia.org/wiki/Patrick_S%C3%A9bastien)
+	* _Chuppa (Mustard Pimp Remix)_ par [Missill](https://soundcloud.com/missillofficial/)
+	* _Victime Boloss_ par DJ Soke
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _One Click Headshot_ par [Feed Me](https://en.wikipedia.org/wiki/Jon_Gooch)
 
-* **Avec supplément jeux d'action svp (Kebab Mayo)**
+* **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Victime Boloss_ par DJ Soke
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Vice_ par [Dodge & Fuski](https://soundcloud.com/dodgeandfuski) VS [Culprate](https://soundcloud.com/culprate)
 
-* **La guerre. Tout nus. (RUST RP)**
+* **[La guerre. Tout nus. (RUST RP)](https://www.youtube.com/watch?v=w-WLmfOCh3o)**
+	* _Welcome To The Battlefield_ par [Versus Music](https://soundcloud.com/versusofficial) (Alex Mihulin)
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Circle of Life (The Lion King)_ par [Elton John](https://en.wikipedia.org/wiki/Elton_John)
+	* _Y.M.C.A._ par [Village People](https://en.wikipedia.org/wiki/Village_People)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Younger (Kygo Remix)_ par [Seinabo Sey](https://en.wikipedia.org/wiki/Seinabo_Sey)
 
 * **[Trop choukar le niglo (PAYDAY 2)](https://www.youtube.com/watch?v=ewav0nydHn4)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -1597,7 +1668,7 @@ Update: 20180720
 * **[LHOR, SOUKA, MOUDAK (Splinter Cell Conviction)](https://www.youtube.com/watch?v=XlheO8FPtpU)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
-	* _Musique inconnue à 7:21_
+	* _Night By Night (PELUSSJE & KISBEAT Obscu REMIX)_ par [Chromeo](https://en.wikipedia.org/wiki/Chromeo)
 	* _Fresh Prince Of Bel Air (Mustard Pimp Remix)_ par [Will Smith](https://en.wikipedia.org/wiki/Will_Smith)
 
 * **[Les Télétubbies c'est terrifiant (Slendytubbies)](https://www.youtube.com/watch?v=cNPft1SUeeM)**
