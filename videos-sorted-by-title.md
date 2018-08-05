@@ -1,4 +1,4 @@
-Update: 20180715
+Update: 20180805
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -47,10 +47,12 @@ Update: 20180715
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
 * Ce n'est que charme et sorcellerie monseigneur ! (Chivalry: Medieval Warfare)
+* CE SPORT EST INTERDIT (Disc Jam)
 * C'EST BEAUCOUP TROP CHAUD (Can't Drive This)
 * C'est bon mais ça reste dans les dents (PAYDAY 2)
 * C'EST ÇA ! - MUSIQUE (LAEKØ remix)
 * C'EST ENCORE MIEUX QUE MATRIX !
+* C'EST FINI ON EST PLUS POTES (Uno) ft. Amixem et Cyril
 * C'est la chanson, de l’agression ! (Battlefield 3)
 * C'EST LA GUERRE !!! (DayZ RP) #4 FINAL
 * C'EST MOCHE MAIS C'EST RIGOLO (Unturned) ft. Guzz et Gydias
@@ -69,6 +71,7 @@ Update: 20180715
 * CHUS DONG DAÏ (CS:GO)
 * CLUEDO ENTRE COPAINS (Murder) ft. Guzz, Porto, Amixem, Hugo Délire et Superkonar
 * COMMENT AVOIR L'AIR CON
+* COMMENT BIEN ATTRAPER LA QUEUE DE SON POTE (Unravel 2)
 * Comment bien conduire une calèche (Assassin's Creed Syndicate)
 * COMMENT DEVENIR UN REBELLE (Arma 3 RP)
 * COMMENT DEVENIR UN YOUTUBER GAMING (Youtubers Life)
@@ -125,6 +128,10 @@ Update: 20180715
 * EXPLORATION D'UN BUNKER SOUTERRAIN ABANDONNÉ
 * FAIRE UN FOOT SUR FORTNITE (Fortnite)
 * FAIT OU PAS FAIT (ft. Pierre Croce)
+* F.A.Q. // Partie 1/4 - L'IRL / la rencontre
+* F.A.Q. // Partie 2/4 - Les vidéos / le YouTube Game
+* F.A.Q. // Partie 3/4 - Le buzz / le futur / les jeux / les secrets
+* F.A.Q. // Partie 4/4 - La grotte / Twitter / les bâtards / vantardise
 * Flamenkuche remplie de différents jeux
 * Fourrée avec plein de jeux différents (Dinde de Noël)
 * GAGNER AVEC UNE SQUAD DE GOGOLES (Fortnite Battle Royale)
@@ -142,6 +149,7 @@ Update: 20180715
 * IL A PRIS DU FERME (CS:GO)
 * IL FAUT SAUVER DAME TERRINE (Assassin's Creed Unity)
 * IL FAUT SAUVER LE SOLDAT FLANTIER (Verdun)
+* IL FAUT SAUVER LES SOLDATS LAINK ET TERRACID (Post Scriptum)
 * IL ME MONTRE SON GROS DECK (Hand of the Gods)
 * IL N'EN RESTERA QU'UN (PUBG)
 * IL PENSE QUE LA CHAÎNE VA ÊTRE SUPPRIMÉE
@@ -503,6 +511,7 @@ Update: 20180715
 * SURVIVRE AVEC LA DIARRHÉE (7 Days To Die ) #EP1
 * TALABITALÈRE - MUSIQUE (Tids Remix)
 * T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish &amp; Build)
+* T'AS TOUJOURS RÊVÉ DE FAIRE ÇA (Out of The Box)
 * T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)
 * TOC TOC TOC ?! (RUST)
 * TOUCHEZ, CHRISTINA, ALLEZ-Y ! (GTA V)
@@ -532,6 +541,7 @@ Update: 20180715
 * VIS MA VIE DE POISSARD (What Remains of Edith Finch)
 * Vous avez pas vu ma femme ? (The Witcher 3)
 * VOUS AVEZ UN RHUME ? COUPEZ-VOUS LA JAMBE (911 Operator)
+* VOUS FAITES QUOI SOUS LA DOUCHE ? (CS:GO)
 * VOUS N'ARRIVEREZ PLUS À DORMIR (RE77)
 * VOYAGE AU CŒUR DE LA GALAXIE (Animation)
 * VROUM L'INTESTIN (Surgeon Simulator)
