@@ -1,4 +1,4 @@
-Update: 20180805
+Update: 20180910
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -55,6 +55,7 @@ Update: 20180805
 * C'EST FINI ON EST PLUS POTES (Uno) ft. Amixem et Cyril
 * C'est la chanson, de l’agression ! (Battlefield 3)
 * C'EST LA GUERRE !!! (DayZ RP) #4 FINAL
+* C'EST LE GROS BORDEL (Arma 3 RP)
 * C'EST MOCHE MAIS C'EST RIGOLO (Unturned) ft. Guzz et Gydias
 * C'EST MOI LA NOUVELLE INFIRMIÈRE (Remothered)
 * C'EST N'IMPORTE QUOI
@@ -106,6 +107,7 @@ Update: 20180805
 * DEUX CRÉTINS SUR UN JEU STRATÉGIQUE (Mario Lapins Cretins)
 * DEUX KÉKÉS DANS DES TANKS TUNING (Crossout)
 * DEVENIR RICHE EN 10 MINUTES (Business Tour) ft. Amixem et Cyril
+* DEVINE LE WANKUL DES YOUTUBERS
 * DIFFICILE DE NE PAS REGARDER LES NICHONS (Bloody Boobs)
 * DIRECTION LA LUNE !!! (Scrap Mechanic)
 * DO YOU WANT TO EAT MY POO ? (CS:GO)
@@ -114,6 +116,7 @@ Update: 20180805
 * EH OH ! ON BRAQUE PAS LES ÉPICIERS ! (GTA V) ft. Guzz
 * EH OUI THIERRY, IT IS A BEAUTIFUL BATAILLE SIDE BANANE ! (CS:GO)
 * EH TU VEUX M'EMBRAFFER ? (Gmod Deathrun) ft. Guzz et Gydias
+* ELLE N'A PAS SUPPORTÉ LE DIVORCE (Home Sweet Home)
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
 * Espèce d'infirme ! (GTA IV)
 * ESSAYEZ DE DEVINER CE QU'ON FAIT
@@ -151,6 +154,7 @@ Update: 20180805
 * IL FAUT SAUVER LE SOLDAT FLANTIER (Verdun)
 * IL FAUT SAUVER LES SOLDATS LAINK ET TERRACID (Post Scriptum)
 * IL ME MONTRE SON GROS DECK (Hand of the Gods)
+* IL N'AURAIT JAMAIS DÛ INSULTER LA FRANCE (CS:GO)
 * IL N'EN RESTERA QU'UN (PUBG)
 * IL PENSE QUE LA CHAÎNE VA ÊTRE SUPPRIMÉE
 * ILS SONT SOUS LA MAISON !!! (7 Days To Die) #EP4
@@ -165,6 +169,7 @@ Update: 20180805
 * J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS
 * J'AI GAGNÉ LE SUPER COUTEAU !!! (Case Opening CS:GO)
 * J'AI GLISSÉ CAPITAINE (Blackwake) ft. Squeezie, Cyril, Mickalow
+* J'AI LA PREUVE QUE LA TERRE EST PLATE (Fear The Wolves)
 * J'AI PO 8 ANS ! (Prop Hunt)
 * J'AI RETROUVÉ SES PIRES PHOTOS !
 * JAMAIS PRENDRE SA DOUCHE EN PRISON (The Escapists 2)
@@ -220,6 +225,7 @@ Update: 20180805
 * LA MOUILLETTE (CS:GO)
 * LA MOULE FRAÎCHE (CS:GO)
 * La nature secrète de Guzz
+* L'ANECDOTE DU VIEUX QUI PUE (Animation Officielle)
 * LA NÉGOCIATION DES GROS BEAUFS (Arma 3 RP)
 * LA PIRE ÉCOLE AU MONDE (Outlast 2)
 * LA PIRE INFILTRATION (Ghost Recon Wildlands)
@@ -265,6 +271,7 @@ Update: 20180805
 * LE GANT DE L'ARROGANCE (Stellar Overload)
 * LE GÂTEAU AU CACA (Animation Officielle)
 * LE GRAND KARAOKÉ (CS:GO)
+* LE GRAND TOURNOI DES YOUTUBERS
 * LE GROS BIDOU D'ALADIN (Mirage)
 * Le jeu de merde avec des cartes (Dead Space 3)
 * LE JEU D'HORREUR QUI FAIT PÉTER UN PLOMB (Pineview Drive)
@@ -316,6 +323,7 @@ Update: 20180805
 * LES DENTS DE LA MER VERSION WANKIL (Depth)
 * LES DEUX MÉCANOS BEAUFS (My Summer Car)
 * LES DEVINETTES
+* LES DIFFÉRENTS TYPES DE JOUEURS (Steep)
 * LES DONS POUR LE MATOS (BattleBlock Theater)
 * LE SECRET DE BROKEBACK MONTAGNE (7 Days To Die) #EP2
 * LE SECRET DE LA MEILLEURE RECETTE DU MONDE
@@ -401,11 +409,13 @@ Update: 20180805
 * MUT MUT ÉCARTEZ-VOUS (Euro Truck Simulator 2)
 * NAAAAAN (Rocket League)
 * N'ALLEZ SURTOUT PAS SUR CE PONT (Poly Bridge)
+* NE FAITES JAMAIS CONFIANCE AUX INCONNUS (CS:GO Coop)
 * NE FAITES PAS ÇA À VOTRE POTE (SportsBar VR)
 * NE FERMEZ PAS LES YEUX... (Stay Close)
 * NELSON MONFORT ET LA PLANÈTE DES SINGES (Rocket League)
 * NE MANGEZ PAS VOTRE PROPRE BIOMASSE (Memories of Mars)
 * NETTOYER LES TOILETTES DANS LE FUTUR (The Surge)
+* NON, VOUS NE RÊVEZ PAS (League of Legends)
 * NORAJ LES FANBOYS (Rocket League)
 * NOS SECRETS DE YOUTUBERS (Fond vert)
 * Nos Youtubers préférés en puzzle (Tabletop Simulator)
