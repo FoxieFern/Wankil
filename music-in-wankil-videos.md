@@ -1,4 +1,20 @@
-Update: 20180910
+Update: 20181007
+
+* **LIVRAISON DE PIZZA DANS UNE MAISON HANTÉE (Emily Wants to Play)**
+
+* **DESSINE-MOI COMME UNE DE TES FRANÇAISES**
+
+* **AVEZ-VOUS DÉJÀ VU UN PIRATE DU QUÉBEC ? (Sea of Thieves)**
+
+* **TU AURAIS PRÉFÉRÉ NE PAS LE SAVOIR (Rocket League)**
+
+* **EST-CE QUE TU MOUILLES TA BROSSE À DENTS ? (Don't Knock Twice)**
+
+* **LES PIRES RECETTES DE CUISINE (Desolate)**
+
+* **IL FAUT PROTÉGER LA REINE !!! (Holdfast Nations At War)**
+
+* **EST-CE QUE TU ES UN BON ÉLÈVE ? (Battlefield V)**
 
 * **DEVINE LE WANKUL DES YOUTUBERS**
 

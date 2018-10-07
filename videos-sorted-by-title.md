@@ -1,4 +1,4 @@
-Update: 20180910
+Update: 20181007
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -27,6 +27,7 @@ Update: 20180910
 * AVEC DES GENS MÉCHANTS. TOUT NUS. (Rust RP)
 * Avec supplément jeux d'action svp (Kebab Mayo)
 * AVEC SUPPLÉMENTS CS:GO, DAYZ ET THE HUNTER (Boulettes Barcelonaises)
+* AVEZ-VOUS DÉJÀ VU UN PIRATE DU QUÉBEC ? (Sea of Thieves)
 * BASTON GÉNÉRALE AVEC LES GARDIENS (Escapists 2)
 * BATAILLE D'ABRUTIS (Totally Accurate Battle Simulator)
 * BATTLE EPIC DE CUISINE CONTRE MAMYTWINK
@@ -99,6 +100,7 @@ Update: 20180910
 * DÉPÊCHE-TOI !!! (Keep Talking and Nobody Explodes + Oculus Rift)
 * DES BIÈRES, UN CANAPÉ ET DU FOOT (PES 2016) ft. Hugo Délire
 * DES MUSCLES ET DES CHINOIS (For Honor) EXCLU E3
+* DESSINE-MOI COMME UNE DE TES FRANÇAISES
 * DESSINER UNE GROSSE ZIQUETTE DANS LA NEIGE (Steep)
 * DÉTRUIRE UNE VILLE AVEC SON TÉLÉPHONE (Watch Dogs 2)
 * DEUX BOLOSSES PERDUS SUR UNE ÎLE (The Forest)
@@ -120,6 +122,8 @@ Update: 20180910
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
 * Espèce d'infirme ! (GTA IV)
 * ESSAYEZ DE DEVINER CE QU'ON FAIT
+* EST-CE QUE TU ES UN BON ÉLÈVE ? (Battlefield V)
+* EST-CE QUE TU MOUILLES TA BROSSE À DENTS ? (Don't Knock Twice)
 * ÊTES-VOUS ASSEZ FORT POUR RÉSOUDRE LES ÉNIGMES ? (We Were Here)
 * ET J'AI CRAMÉ (Half-Life 2 en COOP)
 * ET MAINTENANT, FERME TA GUEULE (DayZ)
@@ -150,6 +154,7 @@ Update: 20180910
 * HARRY, VISE LES TESTICULES !!! (Sniper Elite 4)
 * HUMILIÉ EN CONDUITE PAR UN ENFANT DE 5 ANS
 * IL A PRIS DU FERME (CS:GO)
+* IL FAUT PROTÉGER LA REINE !!! (Holdfast Nations At War)
 * IL FAUT SAUVER DAME TERRINE (Assassin's Creed Unity)
 * IL FAUT SAUVER LE SOLDAT FLANTIER (Verdun)
 * IL FAUT SAUVER LES SOLDATS LAINK ET TERRACID (Post Scriptum)
@@ -344,6 +349,7 @@ Update: 20180910
 * LES PIRES FERMIERS (Farming Simulator 2017) ft. Hugo Délire
 * LES PIRES PIRATES (Blackwake) ft. Guzz, Porto, Hugo, Gydias
 * LES PIRES PRISONNIERS DU MONDE (DayZ RP)
+* LES PIRES RECETTES DE CUISINE (Desolate)
 * LES POLICIERS HOMOPHOBES DU TEXAS (GTA V)
 * L'esprit de Noël
 * LES PROS DE L'INFILTRATION (Watch Dogs 2)
@@ -378,6 +384,7 @@ Update: 20180910
 * L'insurrection en prison ! (CS:Source)
 * LIRE L'AVENIR DANS LE JAMBON (CS:GO)
 * LIRE UNE FANFICTION +18
+* LIVRAISON DE PIZZA DANS UNE MAISON HANTÉE (Emily Wants to Play)
 * L'oeil de MERDE (Minecraft)
 * LOL AU CALME (The Forest)
 * LOS ANGELES AVEC LAINK ET TERRACID (Vlog E3)
@@ -533,6 +540,7 @@ Update: 20180910
 * TROP RELOUS LES INFIDÈLES !!! (Squad)
 * TROUBLES DIGESTIFS (ARK Survival Evolved)
 * TROUVE LA COMBINAISON DU COFFRE-FORT (PUBG Mobile)
+* TU AURAIS PRÉFÉRÉ NE PAS LE SAVOIR (Rocket League)
 * TU CONNAIS LAINK ET TERRACID ? (Antoine Daniel, Mathieu Sommet, Siphano, Jigmé...)
 * TUEZ VOS AMIS (Dead by Daylight) ft. Guzz, Hugo Délire et Gydias
 * TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo

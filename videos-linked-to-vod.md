@@ -1,4 +1,4 @@
-Update: 20180910
+Update: 20181007
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2448,6 +2448,8 @@ VOD Spy Party
 * **[NOTRE PROPRE PARCOURS DE GOLF (Salade Tomates Oignons)](https://www.youtube.com/watch?v=TriEAkuzUhk)** : 
 VOD Golf It Map Wankil 
 [[1/1]](https://www.youtube.com/watch?v=0IJVbJjv_bE) <!--07/05/2018--> 
+et VOD The Very Organized Thief 
+[[1/1]](https://www.youtube.com/watch?v=eOpsH8XLFkg) <!--07/10/2018--> 
 
 * **[ON S'ÉCHAPPE DE PRISON (A Way Out)](https://www.youtube.com/watch?v=xb-agZI268w)** : 
 VOD A Way Out 
@@ -2464,6 +2466,7 @@ VOD GeoGuessr
 VOD Remothered 
 [[1/1]](https://www.youtube.com/watch?v=TMhyXs75gq8) <!--11/05/2018--> 
 
+* **[AVEZ-VOUS DÉJÀ VU UN PIRATE DU QUÉBEC ? (Sea of Thieves)](https://www.youtube.com/watch?v=8yhyzQnTW4g)** : 
 VOD Sea of Thieves 
 [[1/1]](https://www.youtube.com/watch?v=QKKCmhPvt-M) <!--12/05/2018--> 
 
@@ -2495,6 +2498,7 @@ VOD - Terracid - Mon Petit Youtube (#1)
 VOD - Terracid - Mon Petit Youtube (#2) 
 [[1/1]](https://www.youtube.com/watch?v=5OrEsG07Q3c) <!--25/05/2018--> 
 
+* **[LES PIRES RECETTES DE CUISINE (Desolate)](https://www.youtube.com/watch?v=TY16dIHeCNQ)** : 
 VOD Desolate 
 [[1/1]](https://www.youtube.com/watch?v=8QwQUH8Y1zU) <!--08/06/2018--> 
 
@@ -2506,3 +2510,56 @@ VOD - Terracid - SCUM - L'aventure avec George
 
 VOD - Terracid - SCUM - Champion du monde 
 [[1/1]](https://www.youtube.com/watch?v=bg-PpoPPxvw) <!--03/09/2018--> 
+
+* **[VOUS AVEZ UN RHUME ? COUPEZ-VOUS LA JAMBE (911 Operator)](https://www.youtube.com/watch?v=GSZkmXMuGiM)** : 
+VOD 911 Operator 
+[[1/1]](https://www.youtube.com/watch?v=435Szrt_wBk) <!--22/09/2018--> 
+
+VOD Project Zomboid + Skribbl.io 
+[[1/1]](https://www.youtube.com/watch?v=1_W57lc2caE) <!--23/09/2018--> 
+
+* **[JE SUIS À LA RUE (Business Tour)](https://www.youtube.com/watch?v=vbKNe_zO88Y)** : 
+VOD Business Tour 
+[[1/1]](https://www.youtube.com/watch?v=eNSMaknCZ8M) <!--24/09/2018--> 
+
+VOD Le Seigneur des anneaux : Le Retour du roi COOP 
+[[1/1]](https://www.youtube.com/watch?v=ce07_bmDjxI) <!--25/09/2018--> 
+
+VOD Subrosa 
+[[1/1]](https://www.youtube.com/watch?v=aSTdDV8oSMw) <!--26/09/2018--> 
+
+VOD Business Tour 
+[[1/1]](https://www.youtube.com/watch?v=unWBZkGBfOA) <!--27/09/2018--> 
+
+* **[LIVRAISON DE PIZZA DANS UNE MAISON HANTÉE (Emily Wants to Play)](https://www.youtube.com/watch?v=yyj1ys9CIi8)** : 
+VOD Emily Wants To Play 
+[[1/1]](https://www.youtube.com/watch?v=9B7Ejka_6bY) <!--28/09/2018--> 
+
+VOD Business Tour 
+[[1/1]](https://www.youtube.com/watch?v=guYXaA-YhUM) <!--29/09/2018--> 
+
+* **[LE FESTIVAL DES BEAUFS (Far Cry 5)](https://www.youtube.com/watch?v=f2bQEO9iQT0)** : 
+VOD Far Cry 5 
+[[1/2]](https://www.youtube.com/watch?v=qkP72NVkf0A) <!--30/09/2018--> 
+
+* **[OK J'VEUX BIEN SORTIR AVEC TOI (Far Cry 5)](https://www.youtube.com/watch?v=nSLdP5R_Fj8)** : 
+VOD Far Cry 5 
+[[2/2]](https://www.youtube.com/watch?v=YG273vhumI0) <!--01/10/2018--> 
+
+* **[1 + 1 = JE SAIS PAS (The Escape)](https://www.youtube.com/watch?v=vHCVNZfH6Eg)** : 
+VOD The Escape 
+[[1/1]](https://www.youtube.com/watch?v=87lPNqFfWBk) <!--02/10/2018--> 
+
+VOD Sea of Thieves 
+[[1/1]](https://www.youtube.com/watch?v=oM2QGfUSf04) <!--03/10/2018--> 
+
+* **[VOUS FAITES QUOI SOUS LA DOUCHE ? (CS:GO)](https://www.youtube.com/watch?v=13ihIPmtWcA)** : 
+VOD CS:GO 
+[[1/1]](https://www.youtube.com/watch?v=jAg1RvmGSlg) <!--04/10/2018--> 
+
+VOD Welcome to the Game 2 
+[[1/1]](https://www.youtube.com/watch?v=2Ug1D7WExys) <!--05/10/2018--> 
+
+* **[CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)](https://www.youtube.com/watch?v=xnCCId2AMWg)** : 
+VOD Hitman Sniper Assassin 
+[[1/1]](https://www.youtube.com/watch?v=Cy-c-3F5_So) <!--06/10/2018--> 
