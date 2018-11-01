@@ -1,4 +1,4 @@
-Update: 20181007
+Update: 20181101
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2563,3 +2563,78 @@ VOD Welcome to the Game 2
 * **[CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)](https://www.youtube.com/watch?v=xnCCId2AMWg)** : 
 VOD Hitman Sniper Assassin 
 [[1/1]](https://www.youtube.com/watch?v=Cy-c-3F5_So) <!--06/10/2018--> 
+
+* **[IL N'EN RESTERA QU'UN (PUBG)](https://www.youtube.com/watch?v=Fbrd2DuRDMg)** : 
+VOD PUBG 
+[[1/1]](https://www.youtube.com/watch?v=HPvaRBl5-9Y) <!--08/10/2018--> 
+
+VOD Witch Hunt 
+[[1/2]](https://www.youtube.com/watch?v=4j8VJuMpqmA) <!--09/10/2018--> 
+[[2/2]](https://www.youtube.com/watch?v=y22RohCny7c) <!--10/10/2018--> 
+
+VOD Assassin's Creed Odyssey 
+[[1/1]](https://www.youtube.com/watch?v=BxC5gY_Dsks) <!--11/10/2018--> 
+
+VOD Beware 
+[[1/1]](https://www.youtube.com/watch?v=L2DJhBSlbMM) <!--12/10/2018--> 
+
+VOD Hot Lava 
+[[1/1]](https://www.youtube.com/watch?v=y32WmONLzOo) <!--13/10/2018--> 
+
+VOD Skynoon 
+[[1/1]](https://www.youtube.com/watch?v=cYCJF1C5H7U) <!--14/10/2018--> 
+
+* **[COMMENT BIEN ATTRAPER LA QUEUE DE SON POTE (Unravel 2)](https://www.youtube.com/watch?v=BAJBGrLs2pQ)** : 
+VOD Unravel Two 
+[[1/1]](https://www.youtube.com/watch?v=giMYdLax8gA) <!--15/10/2018--> 
+
+* **[QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)](https://www.youtube.com/watch?v=ROx9bQItnSk)** : 
+VOD FIFA 18 Finale Coupe du Monde 2018 
+[[1/1]](https://www.youtube.com/watch?v=JWIqZ8q8H-E) <!--16/10/2018--> 
+
+VOD No Man's Sky 
+[[1/1]](https://www.youtube.com/watch?v=Y4ZxS8v7XxI) <!--17/10/2018--> 
+
+VOD Wreckfest 
+[[1/2]](https://www.youtube.com/watch?v=9OpEq-iYPqI) <!--18/10/2018--> 
+[[2/2]](https://www.youtube.com/watch?v=ogUoQNiOFvY) <!--19/10/2018--> 
+
+VOD Hunt Showdown 
+[[1/1]](https://www.youtube.com/watch?v=a7kcdlvXVTg) <!--20/10/2018--> 
+
+VOD Obscure 
+[[1/1]](https://www.youtube.com/watch?v=gY6iLlfimfc) <!--22/10/2018--> 
+
+VOD Hunt Showdown 
+[[1/1]](https://www.youtube.com/watch?v=DtBVTyLXRyk) <!--23/10/2018--> 
+
+* **[TU AURAIS PRÉFÉRÉ NE PAS LE SAVOIR (Rocket League)](https://www.youtube.com/watch?v=ngMh3gooSdg)** : 
+VOD Cast Rocket League 
+[[1/1]](https://www.youtube.com/watch?v=aTruYl-nTy0) <!--24/10/2018--> 
+
+VOD CS:GO 
+[[1/1]](https://www.youtube.com/watch?v=5QfGvRMSUa4) <!--25/10/2018--> 
+
+* **[NON, VOUS NE RÊVEZ PAS (League of Legends)](https://www.youtube.com/watch?v=EIUQ_KgA_GY)** : 
+VOD League of Legends 
+[[1/1]](https://www.youtube.com/watch?v=SQJT8u1KKvg) <!--26/10/2018--> 
+
+VOD Hunt Showdown 
+[[1/1]](https://www.youtube.com/watch?v=wRxAUm7avcc) <!--27/10/2018--> 
+
+* **[C'EST LE GROS BORDEL (Arma 3 RP)](https://www.youtube.com/watch?v=7cgB-WeWbRI)** : 
+VOD Arma 3 RP 
+[[1/1]](https://www.youtube.com/watch?v=PQzO7WbBrLQ) <!--28/10/2018--> 
+
+VOD Daemonical 
+[[1/1]](https://www.youtube.com/watch?v=162NUtQh3vM) <!--29/10/2018--> 
+
+VOD SCUM 
+[[1/1]](https://www.youtube.com/watch?v=OHDq10niQE0) <!--30/10/2018--> 
+
+* **[J'AI LA PREUVE QUE LA TERRE EST PLATE (Fear The Wolves)](https://www.youtube.com/watch?v=sP68ooQZox8)** : 
+VOD Fear the Wolves 
+[[1/2]](https://www.youtube.com/watch?v=1gMOWs73uHs) <!--31/10/2018--> 
+
+VOD SCUM 
+[[1/1]](https://www.youtube.com/watch?v=eE4K5clXDYQ) <!--01/11/2018--> 

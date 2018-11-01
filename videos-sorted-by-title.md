@@ -1,4 +1,4 @@
-Update: 20181007
+Update: 20181101
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -69,6 +69,7 @@ Update: 20181007
 * CHAMPAGNE ET MINI BURGERS (Fond vert)
 * Chanson - C'est quoi Guzzproductions
 * Chasser un ours grâce à son caca (The Hunter)
+* CHAUFFEUR DE BUS DANS LA BANLIEUE (Bus Simulator)
 * CHAUSSURE !!! (Half Dead)
 * CHUS DONG DAÏ (CS:GO)
 * CLUEDO ENTRE COPAINS (Murder) ft. Guzz, Porto, Amixem, Hugo Délire et Superkonar
@@ -236,9 +237,11 @@ Update: 20181007
 * LA PIRE INFILTRATION (Ghost Recon Wildlands)
 * LA PIRE MUSIQUE AU MONDE (The Hidden) ft. Amixem et Superkonar
 * LA PIZZERIA MAUDITE (Animation)
+* LA PREUVE QUE DIEU EXISTE (PUBG)
 * LA PRISE D'OTAGE TOURNE MAL (Arma 3 RP)
 * LA PUNCHLINE SECRÈTE (CS:GO)
 * LA RAGE PURE (CS:GO)
+* LARA TU VEUX PAS PRENDRE UN VERRE ? (Shadow of the Tomb Raider)
 * La rencontre avec Babilabux (DayZ)
 * La résistance à la campagne (Half-Life 2: EP2 en COOP)
 * LA REVANCHE DES BOTS (Guess Who)
@@ -396,6 +399,7 @@ Update: 20181007
 * MAIS DIS-LE-MOI !!! (CS:GO)
 * MAIS ÉCLAIREZ-LE !!! (White Noise 2) ft. Guzz, Porto, Gydias
 * MAIS ESPÈCE DE DÉBILE !!! (World of Warships)
+* MAIS QUI VOUDRAIT ÊTRE YOUTUBER ?! (Black Ops 4)
 * MAIS TU ME JETTES DU CACA ?! (7 Days To Die) #EP3
 * Maïté Gaming (Amnesia en COOP)
 * MANGER UNE TARTINE DE FOURMIS (I Am Bread)
@@ -425,6 +429,7 @@ Update: 20181007
 * NON, VOUS NE RÊVEZ PAS (League of Legends)
 * NORAJ LES FANBOYS (Rocket League)
 * NOS SECRETS DE YOUTUBERS (Fond vert)
+* NOS SECRETS LES PLUS INAVOUABLES (Test de pureté)
 * Nos Youtubers préférés en puzzle (Tabletop Simulator)
 * Notre décollage totalement réussi (DayZ Origins)
 * NOTRE PROPRE PARCOURS DE GOLF (Salade Tomates Oignons)
@@ -502,6 +507,7 @@ Update: 20181007
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
+* RED DEAD YOUTUBERS, LES APPRENTIS COWBOYS
 * RETOUR VERS LE FUTUR (GTA IV) ft. Guzz et Porto
 * Reviens Gamin ! (DayZ Origins)
 * ROBERT LA MOUCHE (Slap The Fly)
@@ -527,7 +533,7 @@ Update: 20181007
 * StupidiCLASH - Mai 2013 - Need for Speed: Hot Pursuit
 * SURVIVRE AVEC LA DIARRHÉE (7 Days To Die ) #EP1
 * TALABITALÈRE - MUSIQUE (Tids Remix)
-* T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish &amp; Build)
+* T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish & Build)
 * T'AS TOUJOURS RÊVÉ DE FAIRE ÇA (Out of The Box)
 * T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)
 * TOC TOC TOC ?! (RUST)
@@ -545,6 +551,7 @@ Update: 20181007
 * TUEZ VOS AMIS (Dead by Daylight) ft. Guzz, Hugo Délire et Gydias
 * TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
+* UNBOXING DES PIRES COLIS À OFFRIR
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
 * UNE NUIT D'HORREUR (Animation)
 * UNE QUEUE ET DES BOULES (Pool Nation)
