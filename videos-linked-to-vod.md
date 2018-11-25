@@ -2575,6 +2575,7 @@ VOD Witch Hunt
 VOD Assassin's Creed Odyssey 
 [[1/1]](https://www.youtube.com/watch?v=BxC5gY_Dsks) <!--11/10/2018--> 
 
+* **[ON SE FAIT POURSUIVRE PAR LES FORAINS (Beware)](https://www.youtube.com/watch?v=yKkwy8LDuek)** : 
 VOD Beware 
 [[1/1]](https://www.youtube.com/watch?v=L2DJhBSlbMM) <!--12/10/2018--> 
 
@@ -2635,6 +2636,68 @@ VOD SCUM
 * **[J'AI LA PREUVE QUE LA TERRE EST PLATE (Fear The Wolves)](https://www.youtube.com/watch?v=sP68ooQZox8)** : 
 VOD Fear the Wolves 
 [[1/2]](https://www.youtube.com/watch?v=1gMOWs73uHs) <!--31/10/2018--> 
+[[2/2]](https://www.youtube.com/watch?v=Wz2_j4cJjD8) <!--02/11/2018--> 
 
 VOD SCUM 
 [[1/1]](https://www.youtube.com/watch?v=eE4K5clXDYQ) <!--01/11/2018--> 
+
+VOD Arma 3 RP 
+[[1/1]](https://www.youtube.com/watch?v=khdlPUbUl3s) <!--03/11/2018--> 
+
+VOD Blackout 
+[[1/1]](https://www.youtube.com/watch?v=V3olMp5WuZs) <!--04/11/2018--> 
+
+VOD SCUM 
+[[1/1]](https://www.youtube.com/watch?v=FBO0SX7YXyU) <!--05/11/2018--> 
+
+VOD Battlefield V Beta 
+[[1/1]](https://www.youtube.com/watch?v=48YeYIjjBXI) <!--06/11/2018--> 
+
+VOD SCUM 
+[[1/1]](https://www.youtube.com/watch?v=9KQix1lHkGk) <!--07/11/2018--> 
+
+VOD SCUM 
+[[1/1]](https://www.youtube.com/watch?v=gjuvFBDAxOw) <!--08/11/2018--> 
+
+VOD Shadow of the Tomb Raider 
+[[1/1]](https://www.youtube.com/watch?v=TA270u-dgQg) <!--09/11/2018--> 
+
+VOD Golf It 
+[[1/1]](https://www.youtube.com/watch?v=wH11xH__MTE) <!--10/11/2018--> 
+
+VOD Works of Mercy 
+[[1/1]](https://www.youtube.com/watch?v=YCaszLyuLgo) <!--14/11/2018--> 
+
+VOD Quake Champions 
+[[1/1]](https://www.youtube.com/watch?v=BWwntx6lWyE) <!--15/11/2018--> 
+
+VOD TEST DE PURETÉ DES STREAMERS AU ZEVENT (Eye Tracking) 
+[[1/1]](https://www.youtube.com/watch?v=dvwwQpHhAP0) <!--16/11/2018--> 
+
+VOD CS:GO 
+[[1/1]](https://www.youtube.com/watch?v=2azgcwnLhsw) <!--17/11/2018--> 
+
+VOD Sea of Thieves 
+[[1/1]](https://www.youtube.com/watch?v=DFC43eeXTZg) <!--18/11/2018--> 
+
+VOD The Conjuring House 
+[[1/1]](https://www.youtube.com/watch?v=FEE2BEh3Gig) <!--19/11/2018--> 
+
+VOD SCUM 
+[[1/1]](https://www.youtube.com/watch?v=LLh4tGiPi8A) <!--20/11/2018--> 
+
+* **[LA PLUS BELLE FEMME DU CHAMP DE BATAILLE (Conqueror's Blade)](https://www.youtube.com/watch?v=zjLIyNYjJm4)** : 
+VOD Conqueror's Blade + Skribbl.io 
+[[1/1]](https://www.youtube.com/watch?v=D7wiWD7f2OE) <!--21/11/2018--> 
+
+VOD Sea of Thieves: Forsaken Shores 
+[[1/1]](https://www.youtube.com/watch?v=NZzi_W2wGSU) <!--22/11/2018--> 
+
+VOD Visage 
+[[1/1]](https://www.youtube.com/watch?v=8dqDsdfg2Xw) <!--23/11/2018--> 
+
+VOD OVERKILL's The Walking Dead 
+[[1/1]](https://www.youtube.com/watch?v=8m_ABo_07Lg) <!--24/11/2018--> 
+
+VOD Call of Cthulhu 
+[[1/1]](https://www.youtube.com/watch?v=Mrb3feuaoMM) <!--25/11/2018--> 
