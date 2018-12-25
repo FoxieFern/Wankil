@@ -1,4 +1,20 @@
-Update: 20181125
+Update: 20181225
+
+* **C'EST TRÈS GÊNANT (SCUM)**
+
+* **ON INFILTRE ILLÉGALEMENT LA MAISON DE GOTAGA (Hitman 2)**
+
+* **LES CHOSES À NE SURTOUT PAS FAIRE (Red Dead Redemption 2) ft. Amixem, Cyril**
+
+* **OH NON PAS LUI !!! (CS:GO)**
+
+* **VOUS DESCENDEZ DE MON DISCO-BUS !!! (Bus Simulator)**
+
+* **CE JEU EST COMPLÈTEMENT DINGUE !!! (Isotopium Tchernobyl)**
+
+* **MAIS QUI VOUDRAIT ALLER DANS CE LYCÉE ?! (Obscure)**
+
+* **LA TÉLÉ-RÉALITÉ VA TROP LOIN (SOS)**
 
 * **DEVINE LE WANKUL DES YOUTUBERS 2**
 

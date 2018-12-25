@@ -1,4 +1,4 @@
-Update: 20181125
+Update: 20181225
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -44,6 +44,7 @@ Update: 20181125
 * ÇA S'EST PAS PASSÉ COMME PRÉVU BORDEL
 * CATAPULTE DE CACAS ENFLAMMÉS (Gears of War 4)
 * CE BÂTARD DE BOB L'ÉPONGE (Gmod Deathrun) ft. Guzz et Gydias
+* CE JEU EST COMPLÈTEMENT DINGUE !!! (Isotopium Tchernobyl)
 * Celui qui gagne a baisé la sœur de l'autre (Mario Kart)
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
@@ -63,6 +64,7 @@ Update: 20181125
 * C'est pas bon mais c'est drôle (Saucisses Lentilles)
 * C'EST PAS UN JEU DE TAPETTES (Dying Light)
 * C'EST TOI QU'A PÉTÉ - LES AVENTURES WANKULS (Animation Officielle)
+* C'EST TRÈS GÊNANT (SCUM)
 * C'EST TROP DAAAR LA REP' (Need for Speed) ft. Amixem, Superkonar et Hugo Délire
 * C'est un méchant ? (DayZ)
 * CETTE VIDÉO NE DEVAIT PAS SORTIR
@@ -251,6 +253,7 @@ Update: 20181125
 * LA SÉPARATION DE WANKIL (H1Z1)
 * La suite du défi Pot-au-feu (DayZ)
 * LA SURVIE. TOUT NUS. (Rust RP)
+* LA TÉLÉ-RÉALITÉ VA TROP LOIN (SOS)
 * La Traque (DayZ RP - partie 3)
 * LA TRAQUE DE PABLO ESCOBAR
 * L'ATTAQUE DU CAMP (Animation)
@@ -321,6 +324,7 @@ Update: 20181125
 * LES BÊTISES À LA MONTAGNE
 * Les bêtises en war (CS:Source)
 * LES CHAUSSURES DES ABONNÉS (Half Dead)
+* LES CHOSES À NE SURTOUT PAS FAIRE (Red Dead Redemption 2) ft. Amixem, Cyril
 * LES COMMUNISTES NOUS METTENT EN PRISON (DayZ RP) #3
 * L'ESCOUADE DISCO (H1Z1) ft. Squeezie, Mickalow, Gotaga
 * Les courses de chiens, mais en moto (Trials Fusion)
@@ -405,6 +409,7 @@ Update: 20181125
 * MAIS DIS-LE-MOI !!! (CS:GO)
 * MAIS ÉCLAIREZ-LE !!! (White Noise 2) ft. Guzz, Porto, Gydias
 * MAIS ESPÈCE DE DÉBILE !!! (World of Warships)
+* MAIS QUI VOUDRAIT ALLER DANS CE LYCÉE ?! (Obscure)
 * MAIS QUI VOUDRAIT ÊTRE YOUTUBER ?! (Black Ops 4)
 * MAIS TU ME JETTES DU CACA ?! (7 Days To Die) #EP3
 * Maïté Gaming (Amnesia en COOP)
@@ -439,6 +444,7 @@ Update: 20181125
 * Nos Youtubers préférés en puzzle (Tabletop Simulator)
 * Notre décollage totalement réussi (DayZ Origins)
 * NOTRE PROPRE PARCOURS DE GOLF (Salade Tomates Oignons)
+* OH NON PAS LUI !!! (CS:GO)
 * OK J'VEUX BIEN SORTIR AVEC TOI (Far Cry 5)
 * ON A DES CHOSES À VOUS DIRE
 * ON A DOUBLÉ UN FILM (ft. Sofyan)
@@ -459,6 +465,7 @@ Update: 20181125
 * On est un peu bourrés (Battlefield 4)
 * ON FAIT UN ÉNORME SHOW LE 11 NOVEMBRE
 * On flippe nos races (Slender)
+* ON INFILTRE ILLÉGALEMENT LA MAISON DE GOTAGA (Hitman 2)
 * ON JOUE À UN MOBA PTDR (Paragon)
 * ON OFFRE LES PIRES CADEAUX DE NOËL
 * ON OUVRE VOS COLIS, ÇA FAIT MAL !
@@ -540,7 +547,7 @@ Update: 20181125
 * StupidiCLASH - Mai 2013 - Need for Speed: Hot Pursuit
 * SURVIVRE AVEC LA DIARRHÉE (7 Days To Die ) #EP1
 * TALABITALÈRE - MUSIQUE (Tids Remix)
-* T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish & Build)
+* T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish &amp; Build)
 * T'AS TOUJOURS RÊVÉ DE FAIRE ÇA (Out of The Box)
 * T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)
 * TOC TOC TOC ?! (RUST)
@@ -573,6 +580,7 @@ Update: 20181125
 * VIS MA VIE DE POISSARD (What Remains of Edith Finch)
 * Vous avez pas vu ma femme ? (The Witcher 3)
 * VOUS AVEZ UN RHUME ? COUPEZ-VOUS LA JAMBE (911 Operator)
+* VOUS DESCENDEZ DE MON DISCO-BUS !!! (Bus Simulator)
 * VOUS FAITES QUOI SOUS LA DOUCHE ? (CS:GO)
 * VOUS N'ARRIVEREZ PLUS À DORMIR (RE77)
 * VOYAGE AU CŒUR DE LA GALAXIE (Animation)

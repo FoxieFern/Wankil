@@ -1,4 +1,4 @@
-Update: 20181101
+Update: 20181225
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2701,3 +2701,45 @@ VOD OVERKILL's The Walking Dead
 
 VOD Call of Cthulhu 
 [[1/1]](https://www.youtube.com/watch?v=Mrb3feuaoMM) <!--25/11/2018--> 
+
+VOD Fallout 76 Beta 
+[[1/1]](https://www.youtube.com/watch?v=7vEYutN5KVQ) <!--26/11/2018--> 
+
+VOD BO4 Blackout + Zombies 
+[[1/1]](https://www.youtube.com/watch?v=ZIS7_lPL7Fs) <!--27/11/2018--> 
+
+VOD Un Live Dont Vous Êtes Le Héros #1 (Le Manoir de l'Enfer) 
+[[1/1]](https://www.youtube.com/watch?v=G9LpKCiE6SE) <!--07/12/2018--> 
+
+VOD Isotopium Chernobyl 
+[[1/1]](https://www.youtube.com/watch?v=2Uz6bsKy0C8) <!--10/12/2018--> 
+
+VOD Thief Simulator 
+[[1/1]](https://www.youtube.com/watch?v=47D7TBkWeZM) <!--11/12/2018--> 
+
+VOD Hunt: Showdown 
+[[1/1]](https://www.youtube.com/watch?v=3iybHU1UsdI) <!--12/12/2018--> 
+
+VOD Who Must Die 
+[[1/1]](https://www.youtube.com/watch?v=3tIyqpRF_pU) <!--13/12/2018--> 
+
+VOD Treasure Hunter 
+[[1/1]](https://www.youtube.com/watch?v=nQOCMGHve-4) <!--14/12/2018--> 
+
+VOD The Breakout Club 
+[[1/1]](https://www.youtube.com/watch?v=bRXNY2uyJ_I) <!--15/12/2018--> 
+
+VOD TOP 1 = 500 repas aux Restos du Cœur (ft. Hugo Délire) 
+[[1/1]](https://www.youtube.com/watch?v=auCLT-ptqXk) <!--16/12/2018--> 
+
+VOD Red Dead Online 
+[[1/1]](https://www.youtube.com/watch?v=4bEyiSW7apY) <!--17/12/2018--> 
+
+VOD Trikz + Maps de Terracid sur CSS 
+[[1/1]](https://www.youtube.com/watch?v=z-eiPSUIaWI) <!--18/12/2018--> 
+
+VOD Hunt: Showdown 
+[[1/1]](https://www.youtube.com/watch?v=eWox-0eHKd8) <!--19/12/2018--> 
+
+VOD DÉFI LEGO #1 (Star Wars - First Order Star Destroyer) 
+[[1/1]](https://www.youtube.com/watch?v=qQCeVHWhRNE) <!--20/12/2018--> 
