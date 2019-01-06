@@ -1,4 +1,4 @@
-Update: 20181225
+Update: 20190106
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2470,6 +2470,7 @@ VOD Remothered
 VOD Sea of Thieves 
 [[1/1]](https://www.youtube.com/watch?v=QKKCmhPvt-M) <!--12/05/2018--> 
 
+* **[LA TÉLÉ-RÉALITÉ VA TROP LOIN (SOS)](https://www.youtube.com/watch?v=wvB8QUMiepg)** : 
 VOD SOS 
 [[1/1]](https://www.youtube.com/watch?v=BenB84T8zkg) <!--13/05/2018--> 
 
@@ -2596,6 +2597,7 @@ VOD FIFA 18 Finale Coupe du Monde 2018
 VOD No Man's Sky 
 [[1/1]](https://www.youtube.com/watch?v=Y4ZxS8v7XxI) <!--17/10/2018--> 
 
+* **[COURSE DE BEAUF COMME AUX USA (Wreckfest)](https://www.youtube.com/watch?v=KJ0jSbEdsFc)** : 
 VOD Wreckfest 
 [[1/2]](https://www.youtube.com/watch?v=9OpEq-iYPqI) <!--18/10/2018--> 
 [[2/2]](https://www.youtube.com/watch?v=ogUoQNiOFvY) <!--19/10/2018--> 
@@ -2603,6 +2605,11 @@ VOD Wreckfest
 VOD Hunt Showdown 
 [[1/1]](https://www.youtube.com/watch?v=a7kcdlvXVTg) <!--20/10/2018--> 
 
+* **[MAIS QUI VOUDRAIT ALLER DANS CE LYCÉE ?! (Obscure)](https://www.youtube.com/watch?v=9xvpxagL0gQ)** : 
+VOD Obscure 
+[[1/1]](https://www.youtube.com/watch?v=gY6iLlfimfc) <!--22/10/2018--> 
+
+* **[NE REGARDE PAS SOUS LA JUPE DE NATACHA (Obscure)](https://www.youtube.com/watch?v=XrJUghVKDCw)** : 
 VOD Obscure 
 [[1/1]](https://www.youtube.com/watch?v=gY6iLlfimfc) <!--22/10/2018--> 
 
@@ -2630,6 +2637,7 @@ VOD Arma 3 RP
 VOD Daemonical 
 [[1/1]](https://www.youtube.com/watch?v=162NUtQh3vM) <!--29/10/2018--> 
 
+* **[C'EST TRÈS GÊNANT (SCUM)](https://www.youtube.com/watch?v=PThjgm0E_Jg)** : 
 VOD SCUM 
 [[1/1]](https://www.youtube.com/watch?v=OHDq10niQE0) <!--30/10/2018--> 
 
@@ -2659,6 +2667,7 @@ VOD SCUM
 VOD SCUM 
 [[1/1]](https://www.youtube.com/watch?v=gjuvFBDAxOw) <!--08/11/2018--> 
 
+* **[LARA TU VEUX PAS PRENDRE UN VERRE ? (Shadow of the Tomb Raider)](https://www.youtube.com/watch?v=YOBkGZi12mg)** : 
 VOD Shadow of the Tomb Raider 
 [[1/1]](https://www.youtube.com/watch?v=TA270u-dgQg) <!--09/11/2018--> 
 
@@ -2702,15 +2711,18 @@ VOD OVERKILL's The Walking Dead
 VOD Call of Cthulhu 
 [[1/1]](https://www.youtube.com/watch?v=Mrb3feuaoMM) <!--25/11/2018--> 
 
+* **[OUPS J'AI FABRIQUÉ UNE BOMBE ATOMIQUE (Fallout 76)](https://www.youtube.com/watch?v=qdEBa-Rl0FY)** : 
 VOD Fallout 76 Beta 
 [[1/1]](https://www.youtube.com/watch?v=7vEYutN5KVQ) <!--26/11/2018--> 
 
+* **[MAIS QUI VOUDRAIT ÊTRE YOUTUBER ?! (Black Ops 4)](https://www.youtube.com/watch?v=kl1EVkx02wA)** : 
 VOD BO4 Blackout + Zombies 
 [[1/1]](https://www.youtube.com/watch?v=ZIS7_lPL7Fs) <!--27/11/2018--> 
 
 VOD Un Live Dont Vous Êtes Le Héros #1 (Le Manoir de l'Enfer) 
 [[1/1]](https://www.youtube.com/watch?v=G9LpKCiE6SE) <!--07/12/2018--> 
 
+* **[CE JEU EST COMPLÈTEMENT DINGUE !!! (Isotopium Tchernobyl)](https://www.youtube.com/watch?v=8gnp0z6TFpw)** : 
 VOD Isotopium Chernobyl 
 [[1/1]](https://www.youtube.com/watch?v=2Uz6bsKy0C8) <!--10/12/2018--> 
 
@@ -2743,3 +2755,8 @@ VOD Hunt: Showdown
 
 VOD DÉFI LEGO #1 (Star Wars - First Order Star Destroyer) 
 [[1/1]](https://www.youtube.com/watch?v=qQCeVHWhRNE) <!--20/12/2018--> 
+
+VOD - Laink - Mafia 
+[[1/3]](https://www.youtube.com/watch?v=K3AwJF1EReI) <!--05/01/2019--> 
+[[2/3]](https://www.youtube.com/watch?v=4TcL18F-aEA) <!--05/01/2019--> 
+[[3/3]](https://www.youtube.com/watch?v=Wna6hwG0NAA) <!--05/01/2019--> 

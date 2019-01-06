@@ -1,4 +1,4 @@
-Update: 20181225
+Update: 20190106
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -58,6 +58,7 @@ Update: 20181225
 * C'est la chanson, de l’agression ! (Battlefield 3)
 * C'EST LA GUERRE !!! (DayZ RP) #4 FINAL
 * C'EST LE GROS BORDEL (Arma 3 RP)
+* C'EST LE MOMENT DE VÉRITÉ
 * C'EST MOCHE MAIS C'EST RIGOLO (Unturned) ft. Guzz et Gydias
 * C'EST MOI LA NOUVELLE INFIRMIÈRE (Remothered)
 * C'EST N'IMPORTE QUOI
@@ -94,6 +95,7 @@ Update: 20181225
 * COMMENT NE PAS S'OCCUPER D'UN BÉBÉ (Who's Your Daddy)
 * COMMENT TRICHER AU BACCALAURÉAT ? (CS:GO)
 * CORENTIN - MUSIQUE (YouTunes Remix)
+* COURSE DE BEAUF COMME AUX USA (Wreckfest)
 * COURSE EXTRÊME DE BAGELS (I Am Bread)
 * COURSE POURSUITE AVEC LA POLICE (Arma 3 RP)
 * Dans la peau du Slenderman (Slender)
@@ -436,6 +438,7 @@ Update: 20181225
 * NE FERMEZ PAS LES YEUX... (Stay Close)
 * NELSON MONFORT ET LA PLANÈTE DES SINGES (Rocket League)
 * NE MANGEZ PAS VOTRE PROPRE BIOMASSE (Memories of Mars)
+* NE REGARDE PAS SOUS LA JUPE DE NATACHA (Obscure)
 * NETTOYER LES TOILETTES DANS LE FUTUR (The Surge)
 * NON, VOUS NE RÊVEZ PAS (League of Legends)
 * NORAJ LES FANBOYS (Rocket League)
@@ -490,6 +493,7 @@ Update: 20181225
 * ON VOLE AU DESSUS DES RAGEUX (Paladins)
 * ON VOUS OFFRE DES GROS CADEAUX !
 * OPÉRATION LAMA (Ghost Recon Wildlands) ft. Guzz et Hugo Délire
+* OÙ EST CHARLIE QUE JE LUI METTE UNE BALLE ? (CS:GO Coop)
 * OUPS J'AI FABRIQUÉ UNE BOMBE ATOMIQUE (Fallout 76)
 * OUVREZ LES ÉCOUTILLES DE BALLES ! (CS:GO)
 * PANIQUE EN CUISINE (Overcooked)
@@ -547,7 +551,7 @@ Update: 20181225
 * StupidiCLASH - Mai 2013 - Need for Speed: Hot Pursuit
 * SURVIVRE AVEC LA DIARRHÉE (7 Days To Die ) #EP1
 * TALABITALÈRE - MUSIQUE (Tids Remix)
-* T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish &amp; Build)
+* T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish & Build)
 * T'AS TOUJOURS RÊVÉ DE FAIRE ÇA (Out of The Box)
 * T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)
 * TOC TOC TOC ?! (RUST)

@@ -1,4 +1,12 @@
-Update: 20181225
+Update: 20190106
+
+* ** C'EST LE MOMENT DE VÉRITÉ**
+
+* **COURSE DE BEAUF COMME AUX USA (Wreckfest)**
+
+* **OÙ EST CHARLIE QUE JE LUI METTE UNE BALLE ? (CS:GO Coop)**
+
+* **NE REGARDE PAS SOUS LA JUPE DE NATACHA (Obscure)**
 
 * **C'EST TRÈS GÊNANT (SCUM)**
 
@@ -152,7 +160,7 @@ Update: 20181225
 
 * **TROUVE LA COMBINAISON DU COFFRE-FORT (PUBG Mobile)**
 
-* **T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish &amp; Build)**
+* **T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish & Build)**
 
 * **MAIS C'EST INJUUUUUUSTE !!! (Mount Your Friends 3D)**
 
@@ -165,7 +173,7 @@ Update: 20181225
 * **[LE GÂTEAU AU CACA (Animation Officielle)](https://www.youtube.com/watch?v=W0PLtD8Df9w)**
 	* _Indicatif de l'émission Le Meilleur Pâtissier_ par [Tom Howe](http://www.tomhowe.co.uk/)
 	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _Musique inconnue à 0:49_
+	* _Where's My Banjo?_ par Rimsky
 
 * **T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)**
 
@@ -186,14 +194,14 @@ Update: 20181225
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Eye of the Tiger_ par [Survivor](https://en.wikipedia.org/wiki/Survivor_(band))
 	* _Another day at the office - AM_ par Michael Huang
-	* _Musique inconnue à 2:11_
+	* _Animal Crossing (11 AM)_ par Kazumi Totaka, Kenta Nagata, Toru Minegishi et Shinobu Tanaka
 	* _Quirky Adventure_ par Geoff Harvey
 	* _Gonna Fly Now (Theme from Rocky)_ par [Bill Conti](https://en.wikipedia.org/wiki/Bill_Conti)
 	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Musique inconnue à 3:28_
 	* _Musique inconnue à 3:36_
 	* _Musique inconnue à 4:39_
-	* _Musique inconnue à 5:26_
+	* _Mad World_ par [Gary Jules](https://en.wikipedia.org/wiki/Gary_Jules)
 	* _Musique inconnue à 5:37_
 	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
@@ -206,8 +214,8 @@ Update: 20181225
 	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
-	* _Patience_ par [Zerolex](https://soundcloud.com/zerolex) 
-	
+	* _Patience_ par [Zerolex](https://soundcloud.com/zerolex)
+
 * **J'AI GLISSÉ CAPITAINE (Blackwake) ft. Squeezie, Cyril, Mickalow**
 
 * **DEVENIR RICHE EN 10 MINUTES (Business Tour) ft. Amixem et Cyril**
@@ -387,7 +395,7 @@ Update: 20181225
 
 * **VOUS N'ARRIVEREZ PLUS À DORMIR (RE77)**
 
-* ON A DOUBLÉ UN FILM (ft. Sofyan)
+* **ON A DOUBLÉ UN FILM (ft. Sofyan)**
 
 * **LES DEUX MÉCANOS BEAUFS (My Summer Car)**
 
@@ -580,7 +588,7 @@ Update: 20181225
 
 * **NE FERMEZ PAS LES YEUX... (Stay Close)**
 
-* C'EST ÇA ! - MUSIQUE (LAEKØ remix)
+* **C'EST ÇA ! - MUSIQUE (LAEKØ remix)**
 
 * **LES VOISINS RELOUS (Hello Neighbor)**
 
@@ -691,7 +699,7 @@ Update: 20181225
 
 * **VALÉRIE NOUS FAIT PEUR POUR HALLOWEEN (Stairs)**
 
-* ALORS ILS SONT FRANÇAIS - MUSIQUE (LAEKØ remix)
+* **ALORS ILS SONT FRANÇAIS - MUSIQUE (LAEKØ remix)**
 
 * **LES YOUTUBERS À LA FERME**
 
@@ -748,13 +756,13 @@ Update: 20181225
 
 * **ON VA SE FAIRE SIMONE (Youtubers Life)**
 
-* CORENTIN - MUSIQUE (YouTunes Remix)
+* **CORENTIN - MUSIQUE (YouTunes Remix)**
 
 * **ON PART POUR UNE AVENTURE ! (Miscreated)**
 
 * **UN JEU DE MALADE MENTAL (Human: Fall Flat)**
 
-* LE RAP DU FEUTRE - MUSIQUE (Ashur4D Remix)
+* **LE RAP DU FEUTRE - MUSIQUE (Ashur4D Remix)**
 
 * **[LA PUNCHLINE SECRÈTE (CS:GO)](https://www.youtube.com/watch?v=lHnRuCFJ2gc)**
 	* _Rock n Roll (Will Take You to the Mountain)_ par [Skrillex](https://en.wikipedia.org/wiki/Skrillex)
@@ -914,7 +922,7 @@ Update: 20181225
 
 * **ÉPLUCHE MA CAROTTE (Plants vs. Zombies)**
 
-* PAS AVEC LES DOIGTS - MUSIQUE (Tids Remix)
+* **PAS AVEC LES DOIGTS - MUSIQUE (Tids Remix)**
 
 * **EH MAMAN, CHIENS DES BOIS ! (Lucius)**
 
@@ -927,8 +935,8 @@ Update: 20181225
 	* _Derrick (TV Theme)_ par [Les Humphries singers](https://en.wikipedia.org/wiki/Les_Humphries_Singers) arr. Manfred Schneider
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _Incoming Love_ par [Lope & Kantola](https://soundcloud.com/lopekantola)
-	
-* TALABITALÈRE - MUSIQUE (Tids Remix)
+
+* **TALABITALÈRE - MUSIQUE (Tids Remix)**
 
 * **CHAUSSURE !!! (Half Dead)**
 
@@ -957,7 +965,7 @@ Update: 20181225
 
 * **LE GRAND KARAOKÉ (CS:GO)**
 
-* ALLEZ DAMIEN - MUSIQUE (Tids Remix)
+* **ALLEZ DAMIEN - MUSIQUE (Tids Remix)**
 
 * **[AU MENU : MOPED, LE BISOU ET LA NEIGE (Couscous)](https://www.youtube.com/watch?v=iaVfS3lIZKU)**
 	* _The Next Episode_ par [Dr. Dre](https://en.wikipedia.org/wiki/Dr._Dre) ft. [Snoop Dogg](https://en.wikipedia.org/wiki/Snoop_Dogg), [Kurupt](https://en.wikipedia.org/wiki/Kurupt) et [Nate Dogg](https://en.wikipedia.org/wiki/Nate_Dogg)
@@ -986,9 +994,25 @@ Update: 20181225
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _Red Forest_ par [CloZee](https://soundcloud.com/clozee)
 
-* **Peut-on conduire sans permis ? (Project CARS)**
+* **[Peut-on conduire sans permis ? (Project CARS)](https://www.youtube.com/watch?v=1jOKciA2pzY)**
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Praise You_ par [King Arthur](https://soundcloud.com/kingarthurmusic) ft. [Michael Meaco](https://soundcloud.com/michaelmeaco)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
+	* _Funny Walk_ par Ilya Kaplan
+	* _Trinkets_ par Skip Peck
 
-* **Nos Youtubers préférés en puzzle (Tabletop Simulator)**
+* **[Nos Youtubers préférés en puzzle (Tabletop Simulator)](https://www.youtube.com/watch?v=Nk-6uN7aSuo)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Never, Never Gonna Give Ya Up_ par [Barry White](https://en.wikipedia.org/wiki/Barry_White)
+	* _Another day at the office - AM_ par Michael Huang
+	* _Entre nous_ par [Chimène Badi](https://fr.wikipedia.org/wiki/Chim%C3%A8ne_Badi)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Move_ par [Toby Green](https://soundcloud.com/tobygreen)
 
 * **[La greffe de cœur pour les nuls (Surgeon Simulator)](https://www.youtube.com/watch?v=-Uwaq8Z42O4)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -1005,7 +1029,7 @@ Update: 20181225
 
 * **COMMENT EST FABRIQUÉE LA MAUVAISE FOI ? (CS:GO)**
 
-* QUAND TU VAS CHEZ MICROMANIA
+* **QUAND TU VAS CHEZ MICROMANIA**
 
 * **NELSON MONFORT ET LA PLANÈTE DES SINGES (Rocket League)**
 
@@ -1053,7 +1077,12 @@ Update: 20181225
 
 * **QUAND TON COÉQUIPIER EST UN ENFANT (CS:GO)**
 
-* **Laink et Terracid à la PGW 2015**
+* **[Laink et Terracid à la PGW 2015](https://www.youtube.com/watch?v=9nkuLbmnwGA)**
+	* _Antipixel_ par [Panda Eyes](https://en.wikipedia.org/wiki/Panda_Eyes)
+	* _One Look_ par [LVTHER](https://soundcloud.com/lvther) ft. [Mammals](https://soundcloud.com/mammalsofficial)
+	* _Funny Walk_ par Ilya Kaplan
+	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
+	* _ROUGH & TUMBLE 60sec underscore_ par Alec Makinson
 
 * **LE DRAGON DE LA GRANDE TOUR (Savage Lands)**
 
@@ -1185,7 +1214,16 @@ Update: 20181225
 
 * **J'me bats contre une asperge géante (Dungeon Hunter 5)**
 
-* **LA VOITURE LA PLUS RIDICULE DU MONDE (GTA V) ft. Guzz**
+* **[LA VOITURE LA PLUS RIDICULE DU MONDE (GTA V) ft. Guzz](https://www.youtube.com/watch?v=DY9rsryGKpg)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Only Time_ par [Enya](https://en.wikipedia.org/wiki/Enya)
+	* _Le Beau Danube bleu_ par [Johann Strauss II](https://en.wikipedia.org/wiki/Johann_Strauss_II)
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Indicatif de l'émission [Les Animaux du monde](https://fr.wikipedia.org/wiki/Les_Animaux_du_monde)_ par Daniel Faure
+	* _Another day at the office - AM_ par Michael Huang
+	* _Thunder and Blazes (Circus Theme music)_ par [Louis-Philippe Laurendeau](https://en.wikipedia.org/wiki/Louis-Philippe_Laurendeau)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Bullseye_ par [KDrew](https://soundcloud.com/kdrewmusic)
 
 * **J'ESSAYE DE GAGNER LES MEILLEURES ARMES (Case Opening CS:GO)**
 
@@ -1202,7 +1240,7 @@ Update: 20181225
 * **[J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS](https://www.youtube.com/watch?v=6r3fpmM1Zdo)**
 	* _Another day at the office - AM_ par Michael Huang
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
-	* _Musique inconnue à 0:38_
+	* _Indicatif de l'émission [Les Animaux du monde](https://fr.wikipedia.org/wiki/Les_Animaux_du_monde)_ par Daniel Faure
 	* _Funny Walk_ par Ilya Kaplan
 	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
 	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
@@ -1910,6 +1948,24 @@ Update: 20181225
 	* _Young, Wild & Free_ par [Wiz Khalifa](https://en.wikipedia.org/wiki/Wiz_Khalifa) et [Snoop Dogg](https://en.wikipedia.org/wiki/Snoop_Dogg) ft. [Bruno Mars](https://en.wikipedia.org/wiki/Bruno_Mars)
 	* _Get Lucky_ par [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) ft. [Pharrell Williams](https://en.wikipedia.org/wiki/Pharrell_Williams)
 	* _Bit Strings_ par [Maionitas Electro](https://soundcloud.com/maionitas-electro)
+
+* **[F.A.Q. // Partie 4/4 - La grotte / Twitter / les bâtards / vantardise](https://www.youtube.com/watch?v=UlSIbUyokkg)**
+	* _Livin' in the Sunlight, Lovin' in the Moonlight (cover)_ par [Tiny Tim](https://en.wikipedia.org/wiki/Tiny_Tim_(musician))
+	* _La Foule_ par [Ty'neg of DrumDreamers](https://soundcloud.com/tyneg_of_drumdreamers)
+	* _Victime Boloss_ par DJ Soke
+	* _Bullseye_ par [KDrew](https://soundcloud.com/kdrewmusic)
+
+* **[F.A.Q. // Partie 3/4 - Le buzz / le futur / les jeux / les secrets](https://www.youtube.com/watch?v=2wG2RWit7iw)**
+	* _La Foule_ par [Ty'neg of DrumDreamers](https://soundcloud.com/tyneg_of_drumdreamers)
+
+* **[F.A.Q. // Partie 2/4 - Les vidéos / le YouTube Game](https://www.youtube.com/watch?v=V3He9WisBmA)**
+	* _11h30_ par [Danger](https://fr.wikipedia.org/wiki/Danger_(artiste))
+	* _La Foule_ par [Ty'neg of DrumDreamers](https://soundcloud.com/tyneg_of_drumdreamers)
+
+* **[F.A.Q. // Partie 1/4 - L'IRL / la rencontre](https://www.youtube.com/watch?v=lI9Yi4YrZdc)**
+	* _La Foule_ par [Ty'neg of DrumDreamers](https://soundcloud.com/tyneg_of_drumdreamers)
+	* _The Kids Aren't Alright_ par [The Offspring](https://en.wikipedia.org/wiki/The_Offspring)
+	* _Let's go_ par [Trick Daddy](https://en.wikipedia.org/wiki/Trick_Daddy)
 
 * **[L'AFFRONTEMENT PAS SÉRIEUX (CS:GO) ft. Guzz et Porto](https://www.youtube.com/watch?v=ikDSPHhXEYI)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
