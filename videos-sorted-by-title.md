@@ -1,4 +1,4 @@
-Update: 20190106
+Update: 20190216
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -44,7 +44,6 @@ Update: 20190106
 * ÇA S'EST PAS PASSÉ COMME PRÉVU BORDEL
 * CATAPULTE DE CACAS ENFLAMMÉS (Gears of War 4)
 * CE BÂTARD DE BOB L'ÉPONGE (Gmod Deathrun) ft. Guzz et Gydias
-* CE JEU EST COMPLÈTEMENT DINGUE !!! (Isotopium Tchernobyl)
 * Celui qui gagne a baisé la sœur de l'autre (Mario Kart)
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
@@ -180,11 +179,12 @@ Update: 20190106
 * J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS
 * J'AI GAGNÉ LE SUPER COUTEAU !!! (Case Opening CS:GO)
 * J'AI GLISSÉ CAPITAINE (Blackwake) ft. Squeezie, Cyril, Mickalow
+* J'AI INVENTÉ UN NOUVEAU SPORT (CSS)
 * J'AI LA PREUVE QUE LA TERRE EST PLATE (Fear The Wolves)
 * J'AI PO 8 ANS ! (Prop Hunt)
 * J'AI RETROUVÉ SES PIRES PHOTOS !
 * JAMAIS PRENDRE SA DOUCHE EN PRISON (The Escapists 2)
-* J'APPELLE MA MÈRE POUR GAGNER 150000€ (Qui veut gagner des millions)
+* J'APPELLE MA MÈRE POUR GAGNER LE MILLION (Qui veut gagner des millions)
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
 * JE ME SUIS COINCÉ UN TESTICULE (Five Nights at Freddy's)
@@ -194,6 +194,7 @@ Update: 20190106
 * JE SUIS À LA RUE (Business Tour)
 * Je suis un props
 * Je suis un tuyau pompompom (Splinter Cell Conviction)
+* JE SUIS VOTRE CHOSE REINE FATIMA (CS:GO)
 * JE VAIS TE MOUSSER ! (Prey)
 * JE VOIS DES CHOSES... (Far Cry 4)
 * J'me bats contre une asperge géante (Dungeon Hunter 5)
@@ -309,9 +310,11 @@ Update: 20190106
 * LE PIRE CAMBRIOLAGE (Klepto)
 * LE PIRE PARC D'ATTRACTION DU MONDE (Planet Coaster)
 * LE PLAN DIABOLIQUE DU DOCTEUR VANTROUDKU (Zombie COD)
+* LE PLUS GROS MYTHOMANE DU MONDE (Arma 3 RP)
 * LE PROCHAIN FILM DE BRUCE WILLIS EN EXCLU (BeamNG Drive)
 * LE P'TIT RONDIN (CS:GO)
 * Le PVP en slip (DayZ)
+* LEQUEL DE NOUS DEUX AURA LE PLUS PEUR ? (Hide and Shriek)
 * L'ÉQUIPE DES JOLIES FESSES (Friday the 13th) ft. Le Bled'Art
 * Le quiz Seigneur des Anneaux avec les viewers (CS:Source)
 * Le racisme et l'intolérance (Insurgency)
@@ -393,6 +396,7 @@ Update: 20190106
 * L'homme-vélo (DayZ)
 * LHOR, SOUKA, MOUDAK (Splinter Cell Conviction)
 * L'île maudite de merde (The Forest)
+* L'IMPASSE MEXICAINE TOURNE MAL (Hand Simulator) ft. Amixem, Cyril
 * L'INCROYABLE NOVA (CS:GO)
 * L'INFILTRATION CHEZ LES RUSSES (DayZ RP - partie 1)
 * L'insurrection en prison ! (CS:Source)
@@ -405,12 +409,14 @@ Update: 20190106
 * LOUIS LE YOUTUBER GAMING (Youtubers Life)
 * L'UNBOXING CHARCUTERIE DE TERRACID
 * L'UNBOXING FROMAGER DE LAINK
+* L'UN DE NOUS TROIS EST HUMILIÉ À VIE (World of Tanks) ft. Hugo
 * MA GRANDE SŒUR M'A MALTRAITÉ (House Flipper)
 * MAIS C'EST INJUUUUUUSTE !!! (Mount Your Friends 3D)
 * MAIS DÉGAGE DE LÀ !!!! (Stick Fight)
 * MAIS DIS-LE-MOI !!! (CS:GO)
 * MAIS ÉCLAIREZ-LE !!! (White Noise 2) ft. Guzz, Porto, Gydias
 * MAIS ESPÈCE DE DÉBILE !!! (World of Warships)
+* MAIS PARTAGE LES RESSOURCES BORDEL !!! (Stellar Overload)
 * MAIS QUI VOUDRAIT ALLER DANS CE LYCÉE ?! (Obscure)
 * MAIS QUI VOUDRAIT ÊTRE YOUTUBER ?! (Black Ops 4)
 * MAIS TU ME JETTES DU CACA ?! (7 Days To Die) #EP3
@@ -420,6 +426,7 @@ Update: 20190106
 * Marcel, faut sortir de la boue ! (Spintires)
 * MARTINE C'EST UNE SALOPE (Viscera Cleanup Detail)
 * MARTINE ET JEANINE FONT LE MÉNAGE (Viscera Cleanup Detail)
+* MARTINE VA À LA VIE SCOLAIRE (Home Sweet Home)
 * MAYDAY YOLO (Battlefield 3)
 * ME LACHE PAS ! (Gang Beasts)
 * METS TA CAM BB (CS:GO)
@@ -427,6 +434,8 @@ Update: 20190106
 * MinecraFUUU
 * MinecraFUUU #2
 * MinecraFUUU #3
+* MISSION CACA EN HAUT DU BARRAGE (SCUM)
+* MONSIEUR JOUBERT VEUT SE JETER DE L'IMMEUBLE (Stayin Alive)
 * MOST EPIC STUNT EVER JUST CAUSE 3 !!!!
 * M'sieur Frodon (Minecraft)
 * MUT MUT (DayZ)
@@ -477,6 +486,7 @@ Update: 20190106
 * ON PARIE NOS PARTIES DU CORPS (CS:GO)
 * On part à la chasse ! (The Hunter)
 * ON PART POUR UNE AVENTURE ! (Miscreated)
+* ON PILOTE DE VRAIS TANKS À TCHERNOBYL !!! (Isotopium)
 * ON RACKETTE QUELQU'UN (Arma 3 RP)
 * ON REGARDE NOS PREMIÈRES VIDÉOS
 * ON RENCONTRE LES ABONNÉS SUR OMEGLE
@@ -513,6 +523,7 @@ Update: 20190106
 * Plus de fête ! Pour tout le monde ! (Dying Light)
 * PONT DE MERDE (Poly Bridge)
 * POUET POUET (GTA V)
+* POURQUOI LE GOLF DÉTRUIT DES AMITIÉS (Golf It) ft. Hugo
 * POURSUIVIS PAR DES SQUELETTES (Stairs)
 * PROBLEMES GASTRIQUES (DayZ) ft. Guzz
 * QUAND TA PROPRE ODEUR TE DÉRANGE (CS:GO)

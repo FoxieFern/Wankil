@@ -1,6 +1,28 @@
-Update: 20190106
+Update: 20190216
 
-* ** C'EST LE MOMENT DE VÉRITÉ**
+* **MONSIEUR JOUBERT VEUT SE JETER DE L'IMMEUBLE (Stayin Alive)**
+
+* **POURQUOI LE GOLF DÉTRUIT DES AMITIÉS (Golf It) ft. Hugo**
+
+* **LE PLUS GROS MYTHOMANE DU MONDE (Arma 3 RP)**
+
+* **MAIS PARTAGE LES RESSOURCES BORDEL !!! (Stellar Overload)**
+
+* **L'IMPASSE MEXICAINE TOURNE MAL (Hand Simulator) ft. Amixem, Cyril**
+
+* **J'AI INVENTÉ UN NOUVEAU SPORT (CSS)**
+
+* **MISSION CACA EN HAUT DU BARRAGE (SCUM)**
+
+* **LEQUEL DE NOUS DEUX AURA LE PLUS PEUR ? (Hide and Shriek)**
+
+* **L'UN DE NOUS TROIS EST HUMILIÉ À VIE (World of Tanks) ft. Hugo**
+
+* **JE SUIS VOTRE CHOSE REINE FATIMA (CS:GO)**
+
+* **MARTINE VA À LA VIE SCOLAIRE (Home Sweet Home)**
+
+* **C'EST LE MOMENT DE VÉRITÉ**
 
 * **COURSE DE BEAUF COMME AUX USA (Wreckfest)**
 
@@ -18,7 +40,7 @@ Update: 20190106
 
 * **VOUS DESCENDEZ DE MON DISCO-BUS !!! (Bus Simulator)**
 
-* **CE JEU EST COMPLÈTEMENT DINGUE !!! (Isotopium Tchernobyl)**
+* **ON PILOTE DE VRAIS TANKS À TCHERNOBYL !!! (Isotopium)**
 
 * **MAIS QUI VOUDRAIT ALLER DANS CE LYCÉE ?! (Obscure)**
 
@@ -112,7 +134,7 @@ Update: 20190106
 
 * **ON OUVRE VOS COLIS, C'EST LA FÊTE DES BEAUFS !**
 
-* **J'APPELLE MA MÈRE POUR GAGNER 150000€ (Qui veut gagner des millions)**
+* **J'APPELLE MA MÈRE POUR GAGNER LE MILLION (Qui veut gagner des millions)**
 
 * **CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)**
 
