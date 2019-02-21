@@ -1,4 +1,8 @@
-Update: 20190216
+Update: 20190221
+
+* **NE VA PAS DANS LA CAVE (Visage)**
+
+* **ENVOLE-TOI MON GROS COCHON (Unruly Heroes)**
 
 * **MONSIEUR JOUBERT VEUT SE JETER DE L'IMMEUBLE (Stayin Alive)**
 
@@ -405,7 +409,7 @@ Update: 20190216
 
 * **ON FAIT UN ÉNORME SHOW LE 11 NOVEMBRE**
 
-* **GAGNER AVEC UNE SQUAD DE GOGOLES (Fortnite Battle Royale)**
+* **GAGNER AVEC UNE SQUAD DE GOGOLES (Fortnite)**
 
 * **IL ME MONTRE SON GROS DECK (Hand of the Gods)**
 

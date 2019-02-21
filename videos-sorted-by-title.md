@@ -1,4 +1,4 @@
-Update: 20190216
+Update: 20190221
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -124,6 +124,7 @@ Update: 20190216
 * EH OUI THIERRY, IT IS A BEAUTIFUL BATAILLE SIDE BANANE ! (CS:GO)
 * EH TU VEUX M'EMBRAFFER ? (Gmod Deathrun) ft. Guzz et Gydias
 * ELLE N'A PAS SUPPORTÉ LE DIVORCE (Home Sweet Home)
+* ENVOLE-TOI MON GROS COCHON (Unruly Heroes)
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
 * Espèce d'infirme ! (GTA IV)
 * ESSAYEZ DE DEVINER CE QU'ON FAIT
@@ -146,7 +147,7 @@ Update: 20190216
 * F.A.Q. // Partie 4/4 - La grotte / Twitter / les bâtards / vantardise
 * Flamenkuche remplie de différents jeux
 * Fourrée avec plein de jeux différents (Dinde de Noël)
-* GAGNER AVEC UNE SQUAD DE GOGOLES (Fortnite Battle Royale)
+* GAGNER AVEC UNE SQUAD DE GOGOLES (Fortnite)
 * Go-fast à clicli
 * Gollum le mécano lèche tout ce qu'il trouve (Mad Max)
 * GROS DÉBATS AVEC LES ABONNÉS (Comedy Night)
@@ -449,6 +450,7 @@ Update: 20190216
 * NE MANGEZ PAS VOTRE PROPRE BIOMASSE (Memories of Mars)
 * NE REGARDE PAS SOUS LA JUPE DE NATACHA (Obscure)
 * NETTOYER LES TOILETTES DANS LE FUTUR (The Surge)
+* NE VA PAS DANS LA CAVE (Visage)
 * NON, VOUS NE RÊVEZ PAS (League of Legends)
 * NORAJ LES FANBOYS (Rocket League)
 * NOS SECRETS DE YOUTUBERS (Fond vert)

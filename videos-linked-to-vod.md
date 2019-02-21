@@ -2721,6 +2721,7 @@ VOD Conqueror's Blade + Skribbl.io
 VOD Sea of Thieves: Forsaken Shores 
 [[1/1]](https://www.youtube.com/watch?v=NZzi_W2wGSU) <!--22/11/2018--> 
 
+* **[NE VA PAS DANS LA CAVE (Visage)](https://www.youtube.com/watch?v=S6uEtmfwd-U)** : 
 VOD Visage 
 [[1/1]](https://www.youtube.com/watch?v=8dqDsdfg2Xw) <!--23/11/2018--> 
 
@@ -2741,7 +2742,7 @@ VOD BO4 Blackout + Zombies
 VOD Un Live Dont Vous Êtes Le Héros #1 (Le Manoir de l'Enfer) 
 [[1/1]](https://www.youtube.com/watch?v=G9LpKCiE6SE) <!--07/12/2018--> 
 
-* **[CE JEU EST COMPLÈTEMENT DINGUE !!! (Isotopium Tchernobyl)](https://www.youtube.com/watch?v=8gnp0z6TFpw)** : 
+* **[ON PILOTE DE VRAIS TANKS À TCHERNOBYL !!! (Isotopium)](https://www.youtube.com/watch?v=8gnp0z6TFpw)** : 
 VOD Isotopium Chernobyl 
 [[1/1]](https://www.youtube.com/watch?v=2Uz6bsKy0C8) <!--10/12/2018--> 
 
