@@ -1,4 +1,4 @@
-Update: 20190221
+Update: 20190310
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -193,6 +193,7 @@ Update: 20190221
 * J'ESSAYE DE GAGNER LES MEILLEURES ARMES (Case Opening CS:GO)
 * JESSICA FAIS VOIR TA KIKINE ! (Outlast 2)
 * JE SUIS À LA RUE (Business Tour)
+* JE SUIS UNE GROSSE TRUIE (Trials Rising)
 * Je suis un props
 * Je suis un tuyau pompompom (Splinter Cell Conviction)
 * JE SUIS VOTRE CHOSE REINE FATIMA (CS:GO)
@@ -225,6 +226,7 @@ Update: 20190221
 * LA GROSSE CONFÉRENCE
 * LA GUERRE DE FLANTIER (Animation)
 * La guerre en bicyclette (Heroes and Generals)
+* LA GUERRE EST DÉCLARÉE CONTRE AMIXEM ET JOYCA
 * La guerre. Tout nus. (RUST RP)
 * #lainkapété
 * Laink et Terracid #1 // Battlefield BC2
@@ -235,6 +237,7 @@ Update: 20190221
 * Laink et Terracid à la PGW 2015
 * LA LÉGENDE !!! (Rocket League)
 * LA MAISON CONSTRUITE PAR UN ENFANT (RUST)
+* LA MEILLEURE TECHNIQUE POUR SÉDUIRE (Tacos 3 viandes)
 * LA MOUILLETTE (CS:GO)
 * LA MOULE FRAÎCHE (CS:GO)
 * La nature secrète de Guzz
@@ -284,11 +287,12 @@ Update: 20190221
 * Le défi Pot-au-feu (DayZ)
 * LE DRAGON DE LA GRANDE TOUR (Savage Lands)
 * LE FESTIVAL DES BEAUFS (Far Cry 5)
+* LE FESTIVAL DES DÉBILOS (Warface)
 * Le fou rire de la biscotte (Splinter Cell: Blacklist)
 * LE GANT DE L'ARROGANCE (Stellar Overload)
 * LE GÂTEAU AU CACA (Animation Officielle)
 * LE GRAND KARAOKÉ (CS:GO)
-* LE GRAND TOURNOI DES YOUTUBERS
+* LE GRAND TOURNOI DES YOUTUBERS (Mario tennis)
 * LE GROS BIDOU D'ALADIN (Mirage)
 * Le jeu de merde avec des cartes (Dead Space 3)
 * LE JEU D'HORREUR QUI FAIT PÉTER UN PLOMB (Pineview Drive)
@@ -539,6 +543,7 @@ Update: 20190221
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
+* QUI VEUT GAGNER DES BITCOINS ?
 * RETOUR VERS LE FUTUR (GTA IV) ft. Guzz et Porto
 * Reviens Gamin ! (DayZ Origins)
 * ROBERT LA MOUCHE (Slap The Fly)
@@ -566,7 +571,7 @@ Update: 20190221
 * TALABITALÈRE - MUSIQUE (Tids Remix)
 * T'AS DÉJÀ RÊVÉ DE TOUT EXPLOSER ?  (Demolish & Build)
 * T'AS TOUJOURS RÊVÉ DE FAIRE ÇA (Out of The Box)
-* T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)
+* T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf With Your Friends)
 * TOC TOC TOC ?! (RUST)
 * TOUCHEZ, CHRISTINA, ALLEZ-Y ! (GTA V)
 * Toujours aussi chanceux ! (Case Opening CS:GO)

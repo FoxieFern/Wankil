@@ -1,4 +1,14 @@
-Update: 20190221
+Update: 20190310
+
+* **LA MEILLEURE TECHNIQUE POUR SÉDUIRE (Tacos 3 viandes)**
+
+* **JE SUIS UNE GROSSE TRUIE (Trials Rising)**
+
+* **LA GUERRE EST DÉCLARÉE CONTRE AMIXEM ET JOYCA**
+
+* **LE FESTIVAL DES DÉBILOS (Warface)**
+
+* **QUI VEUT GAGNER DES BITCOINS ?**
 
 * **NE VA PAS DANS LA CAVE (Visage)**
 
@@ -52,7 +62,30 @@ Update: 20190221
 
 * **DEVINE LE WANKUL DES YOUTUBERS 2**
 
-* **MA GRANDE SŒUR M'A MALTRAITÉ (House Flipper)**
+* **[MA GRANDE SŒUR M'A MALTRAITÉ (House Flipper)](https://www.youtube.com/watch?v=6b6Q6zuqLtk)**
+	* _Quirky Adventure_ par Geoff Harvey
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _House Flipper Main Menu theme_ par [Draco Nared](http://draconared.com/)
+	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Gnome Dance_ par [Håkan Eriksson](http://hakan-eriksson.com/)
+	* _Cyprien Clash Cortex - Instrumental_ par [Nodey](https://soundcloud.com/nodeynguyen)
+	* _Pet Animals 2_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Musique inconnue à 6:50_
+	* _It's Always Funny in Philadelphia_ par [Haim Mazar](http://haimmazar.com/)
+	* _Clowning Around_ par Shaun Frearson
+	* _Goofy Silent Film_ par Peter McIsaac
+	* _Breaking and Entering_ par [Ron Komie](http://ronkomie.com/)
+	* _Funny Walk_ par Ilya Kaplan
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Life is Beautiful (Deadly Premonition OST)_ par Riyou Kinugasa, Takuya Kobayashi et Hiromi Mizutani
+	* _Another day at the office - AM_ par Michael Huang
+	* _Tomfoolery (SpongeBob SquarePants Production Music)_ par David Snell
+	* _Baby Steps_ par [Skip Peck](https://www.neosounds.com/royalty-free-music/artists/skippeck)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Comeback_ par [Falcon Funk](https://soundcloud.com/falcon-funk) & [Bossfight](https://soundcloud.com/bossfightswe)
 
 * **LE PROCHAIN FILM DE BRUCE WILLIS EN EXCLU (BeamNG Drive)**
 
@@ -66,8 +99,39 @@ Update: 20190221
 
 * **LES YOUTUBERS AU FAR WEST**
 
-* **NOS SECRETS LES PLUS INAVOUABLES (Test de pureté)**
-
+* **[NOS SECRETS LES PLUS INAVOUABLES (Test de pureté)](https://www.youtube.com/watch?v=Qqy_G1SJFko)**
+	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Local Forecast - Elevator_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Adventure_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Morning After 3_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Boulangerie_ par [Jeremy Sherman](https://www.deezer.com/fr/artist/3265671)
+	* _Sad Romance (a.k.a. Sad Violin)_ par Ji PyeongKyeon
+	* _Quirky Adventure_ par Geoff Harvey
+	* _Another day at the office - AM_ par Michael Huang
+	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Pet Animals 2_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Gnome Dance_ par [Håkan Eriksson](http://hakan-eriksson.com/)
+	* _Baby Steps_ par [Skip Peck](https://www.neosounds.com/royalty-free-music/artists/skippeck)
+	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Mouse Walk_ par Johan Hynynen
+	* _The Time Is Now_ par [John Cena](https://en.wikipedia.org/wiki/John_Cena)
+	* _Goofy Silent Film_ par Peter McIsaac
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Funny Walk_ par Ilya Kaplan
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Jumping Cricket 2_ par [Martin Gauffin](https://cargocollective.com/martingauffin)
+	* _Suspicious Behavior_ par [Alice Hive](https://alicehive.bandcamp.com/)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Je t'aime_ par [Lara Fabian](https://fr.wikipedia.org/wiki/Lara_Fabian)
+	* _Clowning Around_ par Shaun Frearson
+	* _Yey!_ par Yaron Daffan
+	* _Deathbeds_ par [Bring Me the Horizon](https://en.wikipedia.org/wiki/Bring_Me_the_Horizon)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Drama_ par [NoMBe](https://en.wikipedia.org/wiki/NoMBe) ft. [Big Data](https://en.wikipedia.org/wiki/Big_Data_(band))
+	
 * **UNBOXING DES PIRES COLIS À OFFRIR**
 
 * **MAIS QUI VOUDRAIT ÊTRE YOUTUBER ?! (Black Ops 4)**
@@ -102,7 +166,13 @@ Update: 20190221
 
 * **C'EST LE GROS BORDEL (Arma 3 RP)**
 
-* **L'ANECDOTE DU VIEUX QUI PUE (Animation Officielle)**
+* **[L'ANECDOTE DU VIEUX QUI PUE (Animation Officielle)](https://www.youtube.com/watch?v=BSI1Zi1dPus)**
+	* _Musique inconnue à 0:16_
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Clowning Around_ par Shaun Frearson
+	* _Jerry Left a Note_ par [Fredrik Thalberg](http://www.fredrikthalberg.com/)
+	* _Boulangerie_ par [Jeremy Sherman](https://www.deezer.com/fr/artist/3265671)
 
 * **ELLE N'A PAS SUPPORTÉ LE DIVORCE (Home Sweet Home)**
 
@@ -110,7 +180,7 @@ Update: 20190221
 
 * **LES DIFFÉRENTS TYPES DE JOUEURS (Steep)**
 
-* **LE GRAND TOURNOI DES YOUTUBERS**
+* **LE GRAND TOURNOI DES YOUTUBERS (Mario tennis)**
 
 * **NE FAITES JAMAIS CONFIANCE AUX INCONNUS (CS:GO Coop)**
 
@@ -201,7 +271,7 @@ Update: 20190221
 	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Where's My Banjo?_ par Rimsky
 
-* **T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf It)**
+* **T'ES VRAIMENT QU'UN GROS FILS DE **** !!! (Golf With Your Friends)**
 
 * **LES CRÉATURES PARANORMALES QU'ON VOUS CACHE (SCP)**
 
@@ -216,7 +286,7 @@ Update: 20190221
 * **SOLDATS EN FORMATION ZIQUETTE !!! (Total War)**
 
 * **[LE JEU IMPOSSIBLE !!! (Getting Over It)](https://www.youtube.com/watch?v=WBG1pp44Ueg)**
-	* _Sneaky Stitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Eye of the Tiger_ par [Survivor](https://en.wikipedia.org/wiki/Survivor_(band))
 	* _Another day at the office - AM_ par Michael Huang
@@ -224,17 +294,17 @@ Update: 20190221
 	* _Quirky Adventure_ par Geoff Harvey
 	* _Gonna Fly Now (Theme from Rocky)_ par [Bill Conti](https://en.wikipedia.org/wiki/Bill_Conti)
 	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _Musique inconnue à 3:28_
+	* _Jumping Cricket 2_ par [Martin Gauffin](https://cargocollective.com/martingauffin)
 	* _Musique inconnue à 3:36_
-	* _Musique inconnue à 4:39_
+	* _Mouse Walk_ par Johan Hynynen
 	* _Mad World_ par [Gary Jules](https://en.wikipedia.org/wiki/Gary_Jules)
 	* _Musique inconnue à 5:37_
 	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _Musique inconnue à 8:28_
-	* _Musique inconnue à 8:52_
+	* _Robotic cartoon 1_ par Michael Huang
+	* _Gnome Dance_ par [Håkan Eriksson](http://hakan-eriksson.com/)
 	* _Thunder and Blazes (Circus Theme music)_ par [Louis-Philippe Laurendeau](https://en.wikipedia.org/wiki/Louis-Philippe_Laurendeau)
-	* _Musique inconnue à 9:29_
+	* _Pet Animals 2_ par [Magnus Ringblom](http://magnusringblom.com/)
 	* _Musique inconnue à 9:54_
 	* _Musique inconnue à 10:04_
 	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
@@ -276,9 +346,9 @@ Update: 20190221
 
 * **[C'EST BEAUCOUP TROP CHAUD (Can't Drive This)](https://www.youtube.com/watch?v=LY3fsBqipqA)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* _Musique inconnue à 1:00_
+	* _Pirate Lagoon (Diddy Kong Racing)_ par [David Wise](https://en.wikipedia.org/wiki/David_Wise_(composer))
 	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _Musique inconnue à 3:28_
+	* _It's Always Funny in Philadelphia_ par [Haim Mazar](http://haimmazar.com/)
 	* _Baby Steps_ par [Skip Peck](https://www.neosounds.com/royalty-free-music/artists/skippeck)
 	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Clowning Around_ par Shaun Frearson
@@ -298,11 +368,11 @@ Update: 20190221
 	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
 	* _Sneaky Adventure_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _Musique inconnue à 2:56_
+	* _Jumping Cricket 2_ par [Martin Gauffin](https://cargocollective.com/martingauffin)
 	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Musique inconnue à 3:24_
 	* _Getting There_ par mdeman / MDM Music
-	* _Musique inconnue à 3:57_
+	* _Life In Tinseltown 1_ par [Magnus Ringblom](http://magnusringblom.com/)
 	* _Musique inconnue à 4:16_
 	* _Musique inconnue à 4:56_
 	* _Life is Beautiful (Deadly Premonition OST)_ par Riyou Kinugasa, Takuya Kobayashi et Hiromi Mizutani
@@ -350,14 +420,39 @@ Update: 20190221
 
 * **WANKIL SHOW POUR LES 1 MILLION D'ABONNÉS**
 
-* **LE RETOUR DU RP AVEC JAKOV ET RICHUS (DayZ RP) #1**
+* **[LE RETOUR DU RP AVEC JAKOV ET RICHUS (DayZ RP) #1](https://www.youtube.com/watch?v=Zoh8P-X7aR8)**
+	* _Echo_ par [Twelve Titans Music](https://soundcloud.com/twelve-titans-music)
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Baby Steps_ par [Skip Peck](https://www.neosounds.com/royalty-free-music/artists/skippeck)
+	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Careless Whisper_ par [George Michael](https://fr.wikipedia.org/wiki/George_Michael)
+	* _Thunder and Blazes (Circus Theme music)_ par [Louis-Philippe Laurendeau](https://en.wikipedia.org/wiki/Louis-Philippe_Laurendeau)
+	* _Musique inconnue à 5:52_
+	* _Nightcall (Drive)_ par [Kavinsky](https://en.wikipedia.org/wiki/Kavinsky)
+	* _Zulu Territory (Epic Orchestra Vol.1)_ par Movie Soundtracks
+	* _Gaslamp Funworks_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Dance of the Hours_ par [Amilcare Ponchielli](https://en.wikipedia.org/wiki/Amilcare_Ponchielli)
+	* _Another day at the office - AM_ par Michael Huang
+	* _Rough & Tumble 60sec underscore_ par Alec Makinson
+	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Life In Tinseltown 1_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Hymne de l'Union soviétique_ par [Alexander Vasilyevich Alexandrov](https://en.wikipedia.org/wiki/Alexander_Vasilyevich_Alexandrov)
+	* _Life is Beautiful (Deadly Premonition OST)_ par Riyou Kinugasa, Takuya Kobayashi et Hiromi Mizutani
+	* _The Merry-Go-Round Broke Down (Looney Tunes)_ par [Cliff Friend](https://en.wikipedia.org/wiki/Cliff_Friend) et [Dave Franklin](https://en.wikipedia.org/wiki/Dave_Franklin)
+	* _Les Sardines_ par [Patrick Sébastien](https://fr.wikipedia.org/wiki/Patrick_S%C3%A9bastien)
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _The Legend of Zelda: Ocarina of Time (original soundtrack)_
+	* _Colossal Trailer Music - Sickle Cut (Dunkirk)_ par [Nick Road](https://soundcloud.com/nickroad)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Demons (Dzeko & Torres Remix)_ par [Imagine Dragons](https://en.wikipedia.org/wiki/Imagine_Dragons)
 
 * **DÉGUSTER LA PETITE (CS:GO)**
 
 * **[LE PIRE CAMBRIOLAGE (Klepto)](https://www.youtube.com/watch?v=3rpaRyZnf4Y)**
 	* _Local Forecast - Elevator_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* _Musique inconnue à 0:58_
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
 	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Clubbed to Death (Matrix)_ par [Rob Dougan](https://en.wikipedia.org/wiki/Rob_Dougan)
@@ -391,7 +486,7 @@ Update: 20190221
 	* _Game Over_ par [Vitaa](https://fr.wikipedia.org/wiki/Vitaa) ft. [Maître Gims](https://fr.wikipedia.org/wiki/Ma%C3%AEtre_Gims)
 	* _Musique inconnue à 10:29_
 	* _Wrecking Ball_ par [Miley Cyrus](https://en.wikipedia.org/wiki/Miley_Cyrus)
-	* _Nightcall_ par [Kavinsky](https://en.wikipedia.org/wiki/Kavinsky) (Drive)
+	* _Nightcall (Drive)_ par [Kavinsky](https://en.wikipedia.org/wiki/Kavinsky)
 	* _Swimming Pools (Drank)_ par [Kendrick Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar)
 	* _Ces soirées-là_ par [Yannick](https://fr.wikipedia.org/wiki/Yannick_(rappeur))
 
@@ -487,7 +582,35 @@ Update: 20190221
 
 * **MAIS ESPÈCE DE DÉBILE !!! (World of Warships)**
 
-* **QUAND UN POTE T'ENVOIE LES PIRES COLIS**
+* **[QUAND UN POTE T'ENVOIE LES PIRES COLIS](https://www.youtube.com/watch?v=zqZTFbpyORQ)**
+	* _Another day at the office_ par Michael Huang
+	* _Local Forecast - Elevator_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Clowning Around_ par Shaun Frearson
+	* _Tomfoolery (SpongeBob SquarePants Production Music)_ par David Snell
+	* _Money, Money, Money_ par [ABBA](https://en.wikipedia.org/wiki/ABBA)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Yey!_ par Yaron Daffan
+	* _Where's My Banjo?_ par Rimsky
+	* _Musique inconnue à 3:44_
+	* _Musique inconnue à 4:30_
+	* _Musique inconnue à 4:49_
+	* _Quirky Little Character main_ par Alec Makinson
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Morning After 3_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Gnome Dance_ par [Håkan Eriksson](http://hakan-eriksson.com/)
+	* _Jumping Cricket 2_ par [Martin Gauffin](https://cargocollective.com/martingauffin)
+	* _Life In Tinseltown 1_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Sad Romance (a.k.a. Sad Violin)_ par Ji PyeongKyeon
+	* _Getting There_ par mdeman / MDM Music
+	* _Dernière Danse_ par [Kyo](https://en.wikipedia.org/wiki/Kyo_(band))
+	* _Le Chemin_ par [Kyo](https://en.wikipedia.org/wiki/Kyo_(band)) ft. [Sita](https://en.wikipedia.org/wiki/Sita_(singer))
+	* _Mouse Walk_ par Johan Hynynen
+	* _Musique inconnue à 9:31_
+	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Goofy Silent Film_ par Peter McIsaac
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Only You_ par [Jolyon Petch](https://soundcloud.com/jolyon-petch) et [Mind Electric](https://soundcloud.com/mind-electric) ft. [Kings](https://en.wikipedia.org/wiki/Kings_(musician))
 
 * **LES MEILLEURES PUNITIONS (Layers of Fear)**
 
@@ -503,7 +626,25 @@ Update: 20190221
 
 * **LE GROS BIDOU D'ALADIN (Mirage)**
 
-* **BERNARD, VISE LE CROUPION ! (The Hunter)**
+* **[BERNARD, VISE LE CROUPION ! (The Hunter)](https://www.youtube.com/watch?v=YnGOuhhM6-c)**
+	* _La cartouche_ par [Sébastien Patoche](https://fr.wikipedia.org/wiki/Cartman_(animateur))
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Another day at the office_ par Michael Huang
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Boulangerie_ par [Jeremy Sherman](https://www.deezer.com/fr/artist/3265671)
+	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Robotic cartoon 1_ par Michael Huang
+	* _Clowning Around_ par Shaun Frearson
+	* _Qui de nous deux ?_ par [-M-](https://fr.wikipedia.org/wiki/Matthieu_Chedid)
+	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Still D.R.E._ par [Dr. Dre](https://en.wikipedia.org/wiki/Dr._Dre) ft. [Snoop Dogg](https://en.wikipedia.org/wiki/Snoop_Dogg)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Musique inconnue à 11:46_
+	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Yellowstone_ par [Zerolex](https://soundcloud.com/zerolex)
 
 * **LES PIRES PIRATES (Blackwake) ft. Guzz, Porto, Hugo, Gydias**
 
@@ -519,7 +660,19 @@ Update: 20190221
 
 * **LE PIRE PARC D'ATTRACTION DU MONDE (Planet Coaster)**
 
-* **NE FAITES PAS ÇA À VOTRE POTE (SportsBar VR)**
+* **[NE FAITES PAS ÇA À VOTRE POTE (SportsBar VR)](https://www.youtube.com/watch?v=P75KL5ty6ig)**
+	* _Where's My Banjo?_ par Rimsky
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Trinkets_ par Skip Peck
+	* _Mad World_ par [Gary Jules](https://en.wikipedia.org/wiki/Gary_Jules)
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _In the Hall of the Mountain King_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Goofy Silent Film_ par Peter McIsaac
+	* _Clowning Around_ par Shaun Frearson
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Belong_ par [EDX](https://soundcloud.com/edxmusic)
 
 * **QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril**
 
@@ -540,15 +693,15 @@ Update: 20190221
 	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _One_ par Julio Kladniew
-	* _Musique inconnue à 0:56_
+	* _Boulangerie_ par [Jeremy Sherman](https://www.deezer.com/fr/artist/3265671)
 	* _Think! (Jeopardy Theme)_ par Merv Griffin
 	* _Musique inconnue à 1:53_
-	* _Musique inconnue à 2:32_
-	* _QUIRKY LITTLE CHARACTER main_ par Alec Makinson
+	* _Robotic cartoon 1_ par Michael Huang
+	* _Quirky Little Character main_ par Alec Makinson
 	* _Quirky Adventure_ par Geoff Harvey
 	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Pirate Lagoon (Diddy Kong Racing)_ par [David Wise](https://en.wikipedia.org/wiki/David_Wise_(composer))
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _Musique inconnue à 7:03_
 	* _Where's My Banjo?_ par Rimsky
 	* _I Keep Holding On (My Hope Will Never Die)_ par Dr
@@ -594,7 +747,23 @@ Update: 20190221
 
 * **COMMENT DEVENIR UN YOUTUBER GAMING (Youtubers Life)**
 
-* **HUMILIÉ EN CONDUITE PAR UN ENFANT DE 5 ANS**
+* **[HUMILIÉ EN CONDUITE PAR UN ENFANT DE 5 ANS](https://www.youtube.com/watch?v=7CESfiTHFBI)**
+	* _Where's My Banjo?_ par Rimsky
+	* _T-Shirt_ par [Migos](https://en.wikipedia.org/wiki/Migos)
+	* _BruxellesVie_ par [Damso](https://fr.wikipedia.org/wiki/Damso)
+	* _Goofy Silent Film_ par Peter McIsaac
+	* _Africa_ par [Toto](https://fr.wikipedia.org/wiki/Toto_(groupe))
+	* _Booty Bounce﻿_ par [Tujamo](https://en.wikipedia.org/wiki/Tujamo)
+	* _Clowning Around_ par Shaun Frearson
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _The Less I Know the Better_ par [Tame Impala](https://en.wikipedia.org/wiki/Tame_Impala)
+	* _Musique inconnue à 6:39_
+	* _Another day at the office_ par Michael Huang
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Pirate Lagoon (Diddy Kong Racing)_ par [David Wise](https://en.wikipedia.org/wiki/David_Wise_(composer))
+	* _I Will Survive_ par [Hermes House Band](https://fr.wikipedia.org/wiki/Hermes_House_Band)
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
 
 * **ALLUME... NON ÉTEINS ! (Stay Close)**
 
@@ -627,10 +796,10 @@ Update: 20190221
 * **[IL PENSE QUE LA CHAÎNE VA ÊTRE SUPPRIMÉE](https://www.youtube.com/watch?v=_kscM6OwLTs)**
 	* _Perfect Opening ver. 2_ par Alan Paul Ett
 	* _Jingle Bells_ par [Frank Sinatra](https://en.wikipedia.org/wiki/Frank_Sinatra)
-	* _Sneaky Stitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Goofy Silent Film_ par Peter McIsaac
 	* _Local Forecast - Elevator_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 
 * **AU MENU: GENOUX, PAYSANS ET CAFARD (Bûche de Noël)**
 
@@ -657,10 +826,10 @@ Update: 20190221
 	* _Where's My Banjo?_ par Rimsky
 	* _Trinkets_ par Skip Peck
 	* _Musique inconnue à 9:28_
-	* _Sneaky Stitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _QUIRKY LITTLE CHARACTER main_ par Alec Makinson
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Quirky Little Character main_ par Alec Makinson
 	* _Little Waltz_ par [Alexander Blu](https://www.jamendo.com/artist/87/alexander-blu)
-	* _Musique inconnue à 14:17_
+	* _Boulangerie_ par [Jeremy Sherman](https://www.deezer.com/fr/artist/3265671)
 
 * **[J'AI RETROUVÉ SES PIRES PHOTOS !](https://www.youtube.com/watch?v=y_beomyvLQU)**
 	* _Goofy Silent Film_ par Peter McIsaac
@@ -668,15 +837,15 @@ Update: 20190221
 	* _Allumer Le Feu_ par [Johnny Hallyday](https://fr.wikipedia.org/wiki/Johnny_Hallyday)
 	* _Where's My Banjo?_ par Rimsky
 	* _Clowning Around_ par Shaun Frearson
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
 	* _Musique inconnue à 5:18_
 	* _Trinkets_ par Skip Peck
 	* _Requiem for a Tower_ par [Clint Mansell](https://en.wikipedia.org/wiki/Clint_Mansell)
-	* _ROUGH & TUMBLE 60sec underscore_ par Alec Makinson
+	* _Rough & Tumble 60sec underscore_ par Alec Makinson
 	* _Perfect Opening ver. 2_ par Alan Paul Ett
-	* _Sneaky Stitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _Musique inconnue à 15:49_
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Who Likes to Party_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Local Forecast - Elevator_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
@@ -723,11 +892,49 @@ Update: 20190221
 
 * **PANIQUE EN CUISINE (Overcooked)**
 
-* **VALÉRIE NOUS FAIT PEUR POUR HALLOWEEN (Stairs)**
+* **[VALÉRIE NOUS FAIT PEUR POUR HALLOWEEN (Stairs)](https://www.youtube.com/watch?v=_ZbYy4XGYg8)**
+	* _Musique inconnue à 0:01_
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Main Titles (Dead Silence Soundtrack)_ par [Charlie Clouser](https://en.wikipedia.org/wiki/Charlie_Clouser)
+	* _Blood (Dead Silence Soundtrack)_ par [Charlie Clouser](https://en.wikipedia.org/wiki/Charlie_Clouser)
+	* _The Conjuring (Original Motion Picture Soundtrack)_ par [Joseph Bishara](https://en.wikipedia.org/wiki/Joseph_Bishara)
+	* _Musique inconnue à 4:04_
+	* _Musique inconnue à 6:15_
+	* _Musique inconnue à 7:39_
+	* _void figure 7 (Insidious Soundtrack)_ par [Joseph Bishara](https://en.wikipedia.org/wiki/Joseph_Bishara)
+	* _Musique inconnue à 8:21_
+	* _Musique inconnue à 9:49_
+	* _West Side Lane (Kung Fury Soundtrack)_ par Lost Years
+	* _Musique inconnue à 12:16_
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Far Away (Phantom Sage Remix)_ par [Different Heaven](https://soundcloud.com/different-heaven)
 
 * **ALORS ILS SONT FRANÇAIS - MUSIQUE (LAEKØ remix)**
 
-* **LES YOUTUBERS À LA FERME**
+* **[LES YOUTUBERS À LA FERME](https://www.youtube.com/watch?v=9I_Z_IIq3M0)**
+	* _Haven't Met You Yet_ par [Michael Bublé](https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Gorilla_ par [Will Sparks](https://en.wikipedia.org/wiki/Will_Sparks), [Tyron Hapi](https://soundcloud.com/tyronhapiofficial1) et [Luciana](https://en.wikipedia.org/wiki/Luciana_Caporaso)
+	* _Ding Dong Song_ par [Günther](https://en.wikipedia.org/wiki/G%C3%BCnther_(singer))
+	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
+	* _Goodbye My Lover_ par [James Blunt](https://en.wikipedia.org/wiki/James_Blunt)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Theme from Superman (Main Title)_ par [John Williams](https://en.wikipedia.org/wiki/John_Williams)
+	* _Reality_ par [Richard Sanderson](https://fr.wikipedia.org/wiki/Richard_Sanderson)
+	* _Sheguey 7 (On n'est pas tout seul)_ par [Gradur](https://fr.wikipedia.org/wiki/Gradur) ft. Ixzo
+	* _Suspicious Behavior_ par [Alice Hive](https://alicehive.bandcamp.com/)
+	* _Another day at the office - AM_ par Michael Huang
+	* _Musique inconnue à 21:00_
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Mad World_ par [Gary Jules](https://en.wikipedia.org/wiki/Gary_Jules)
+	* _Rough & Tumble 60sec underscore_ par Alec Makinson
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Yey!_ par Yaron Daffan
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Groove_ par Liu
 
 * **BATAILLE D'ABRUTIS (Totally Accurate Battle Simulator)**
 
@@ -737,8 +944,8 @@ Update: 20190221
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
 	* _The Andy Griffith Theme_ par [Earle Hagen](https://en.wikipedia.org/wiki/Earle_Hagen) et [Herbert W. Spencer](https://en.wikipedia.org/wiki/Herbert_W._Spencer)
-	* _Musique inconnue à 2:14_
-	* _QUIRKY LITTLE CHARACTER main_ par Alec Makinson
+	* _Robotic cartoon 1_ par Michael Huang
+	* _Quirky Little Character main_ par Alec Makinson
 	* _Toujours debout_ par [Renaud](https://fr.wikipedia.org/wiki/Renaud)
 	* _Quirky Adventure_ par Geoff Harvey
 	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
@@ -850,7 +1057,7 @@ Update: 20190221
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _Du hast_ par [Rammstein](https://en.wikipedia.org/wiki/Rammstein)
 	* _Let the Music Play_ par [Barry White](https://en.wikipedia.org/wiki/Barry_White)
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
@@ -861,11 +1068,32 @@ Update: 20190221
 * **[LE TRIBUNAL - LES AVENTURES WANKULS (Animation Officielle)](https://www.youtube.com/watch?v=J25NWino_Fs)**
 	* _Dancing Flute_ par [Thomas - Frost](https://soundcloud.com/t-frost)
 
-* **ON CONTRÔLE TOUS LES DEUX LE MÊME JOUEUR (CS:GO)**
+* **[ON CONTRÔLE TOUS LES DEUX LE MÊME JOUEUR (CS:GO)](https://www.youtube.com/watch?v=Vr4ki2yIUHU)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Movin_ par [KRNE](https://soundcloud.com/krane)
+	* _Another day at the office_ par Michael Huang
+	* _Yey!_ par Yaron Daffan
+	* _First Of The Year (Equinox)_ par [Skrillex](https://en.wikipedia.org/wiki/Skrillex)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Into The Fire_ par [VINAI](https://soundcloud.com/wearevinai) ft. Anjulie
 
-* **ON RENCONTRE LES ABONNÉS SUR OMEGLE**
+* **[ON RENCONTRE LES ABONNÉS SUR OMEGLE](https://www.youtube.com/watch?v=_9fGu8efyWE)**
+	* _Yey!_ par Yaron Daffan
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _You Can Leave Your Hat On_ par [Joe Cocker](https://en.wikipedia.org/wiki/Joe_Cocker)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Expérience n°25 - Le Tube de l'été 2016 avec Clara Doxal_ par [PV Nova](https://fr.wikipedia.org/wiki/PV_Nova)
 
-* **SERPENTARD !!! (Rocket League)**
+* **[SERPENTARD !!! (Rocket League)](https://www.youtube.com/watch?v=3Ygjcqzxd-4)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Another day at the office_ par Michael Huang
+	* _Musique inconnue à 4:59_
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Kaibu_ par [Killercats](https://soundcloud.com/kcatsofficial)
 
 * **LOS ANGELES AVEC LAINK ET TERRACID (Vlog E3)**
 
@@ -883,15 +1111,15 @@ Update: 20190221
 	* _Suspicious Behavior_ par [Alice Hive](https://alicehive.bandcamp.com/)
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _The Good, the Bad and the Ugly (main title)_ par [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone)
 	* _Getting There_ par mdeman / MDM Music
 	* _Another day at the office_ par Michael Huang
 	* _Trinkets_ par Skip Peck
 	* _Musique inconnue à 8:53_
-	* _Musique inconnue à 9:34_
+	* _Robotic cartoon 1_ par Michael Huang
 	* _Robot Rock_ par [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk)
-	* _QUIRKY LITTLE CHARACTER main_ par Alec Makinson
+	* _Quirky Little Character main_ par Alec Makinson
 	* _Perfect Opening ver. 2_ par Alan Paul Ett
 	* _Quirky Adventure_ par Geoff Harvey
 	* _Funny Walk_ par Ilya Kaplan
@@ -938,7 +1166,13 @@ Update: 20190221
 
 * **LE GANT DE L'ARROGANCE (Stellar Overload)**
 
-* **NORAJ LES FANBOYS (Rocket League)**
+* **[NORAJ LES FANBOYS (Rocket League)](https://www.youtube.com/watch?v=T7d_gq9HdsE)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Another day at the office - AM_ par Michael Huang
+	* _Elle me contrôle_ par [M. Pokora](https://fr.wikipedia.org/wiki/M._Pokora)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Fresh Air_ par [Wyatt Estes](https://soundcloud.com/wyattestes)
 
 * **TOC TOC TOC ?! (RUST)**
 
@@ -952,7 +1186,11 @@ Update: 20190221
 
 * **EH MAMAN, CHIENS DES BOIS ! (Lucius)**
 
-* **LE MEC RELOU QUI TE PREND LA MANETTE (The Room)**
+* **[LE MEC RELOU QUI TE PREND LA MANETTE (The Room)](https://www.youtube.com/watch?v=9OdH95n6_hk)**
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Ways_ par [Catas](https://soundcloud.com/catas97)
 
 * **LE BÉBÉ BARBU (Layers of Fear)**
 
@@ -1024,7 +1262,7 @@ Update: 20190221
 	* _Perfect Opening ver. 2_ par Alan Paul Ett
 	* _Praise You_ par [King Arthur](https://soundcloud.com/kingarthurmusic) ft. [Michael Meaco](https://soundcloud.com/michaelmeaco)
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
 	* _Funny Walk_ par Ilya Kaplan
 	* _Trinkets_ par Skip Peck
@@ -1033,7 +1271,7 @@ Update: 20190221
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Perfect Opening ver. 2_ par Alan Paul Ett
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _Never, Never Gonna Give Ya Up_ par [Barry White](https://en.wikipedia.org/wiki/Barry_White)
 	* _Another day at the office - AM_ par Michael Huang
 	* _Entre nous_ par [Chimène Badi](https://fr.wikipedia.org/wiki/Chim%C3%A8ne_Badi)
@@ -1108,7 +1346,7 @@ Update: 20190221
 	* _One Look_ par [LVTHER](https://soundcloud.com/lvther) ft. [Mammals](https://soundcloud.com/mammalsofficial)
 	* _Funny Walk_ par Ilya Kaplan
 	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
-	* _ROUGH & TUMBLE 60sec underscore_ par Alec Makinson
+	* _Rough & Tumble 60sec underscore_ par Alec Makinson
 
 * **LE DRAGON DE LA GRANDE TOUR (Savage Lands)**
 
@@ -1198,10 +1436,28 @@ Update: 20190221
 
 * **INFILTRATION DE LÂCHE AVEC AMIXEM (Rainbow Six Siege) exclu Gamescom**
 
-* **On contrôle la voiture à deux ! (Trackmania Turbo) exclu Gamescom**
+* **[On contrôle la voiture à deux ! (Trackmania Turbo) exclu Gamescom](https://www.youtube.com/watch?v=D3LCjlgPPYw)**
+	* _Indicatif de l'émission [Les Animaux du monde](https://fr.wikipedia.org/wiki/Les_Animaux_du_monde)_ par Daniel Faure
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Musique inconnue à 0:17_
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Yes!_ par [Jack Holiday](https://en.wikipedia.org/wiki/Jack_Holiday)
 
-* **POUET POUET (GTA V)**
-
+* **[POUET POUET (GTA V)](https://www.youtube.com/watch?v=ifDCcR5T6fM)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _The Throne Room and End Title (Star Wars)_ par [John Williams](https://en.wikipedia.org/wiki/John_Williams)
+	* _Rollin' (Urban Assault Vehicle)_ par [Limp Bizkit](https://en.wikipedia.org/wiki/Limp_Bizkit)
+	* _Fous ta cagoule_ par [Fatal Bazooka](https://fr.wikipedia.org/wiki/Fatal_Bazooka)
+	* _Musique inconnue à 3:06_
+	* _Victime Boloss_ par DJ Soke
+	* _La chevauchée des Walkyries (Die Walküre)_ par [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner)
+	* _Yey!_ par Yaron Daffan
+	* _Another day at the office - AM_ par Michael Huang
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Remember The Name (NHYX Remix)_ par [Fort Minor](https://en.wikipedia.org/wiki/Fort_Minor)
+	
 * **[La France au GTX Challenge](https://www.youtube.com/watch?v=0uCpzAC-vMg)**
 	* _Mountains (Interstellar)_ par [Hans Zimmer](https://en.wikipedia.org/wiki/Hans_Zimmer)
 	* _S.T.A.Y. (Interstellar)_ par Hans Zimmer
@@ -1236,9 +1492,20 @@ Update: 20190221
 
 * **TROUBLES DIGESTIFS (ARK Survival Evolved)**
 
-* **ROBERT PÂTÉ, PROFESSEUR DE PHILOSOPHIE (School RP)**
+* **[ROBERT PÂTÉ, PROFESSEUR DE PHILOSOPHIE (School RP)](https://www.youtube.com/watch?v=PbFTbkJd4tc)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Stay Crunchy_ par [Ronald Jenkees](https://en.wikipedia.org/wiki/Ronald_Jenkees)
 
-* **J'me bats contre une asperge géante (Dungeon Hunter 5)**
+* **[J'me bats contre une asperge géante (Dungeon Hunter 5)](https://www.youtube.com/watch?v=U78tw3vAK6w)**
+	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
+	* _Ding Dong Song_ par [Günther](https://en.wikipedia.org/wiki/G%C3%BCnther_(singer))
+	* _Musique inconnue à 0:10_
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Musique inconnue à 1:12_
+	* _Psycho - A Narrative For Orchestra_ par [Bernard Herrmann](https://en.wikipedia.org/wiki/Bernard_Herrmann)
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Pump It Up_ par [Joe Budden](https://en.wikipedia.org/wiki/Joe_Budden)
 
 * **[LA VOITURE LA PLUS RIDICULE DU MONDE (GTA V) ft. Guzz](https://www.youtube.com/watch?v=DY9rsryGKpg)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -1251,29 +1518,69 @@ Update: 20190221
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _Bullseye_ par [KDrew](https://soundcloud.com/kdrewmusic)
 
-* **J'ESSAYE DE GAGNER LES MEILLEURES ARMES (Case Opening CS:GO)**
+* **[J'ESSAYE DE GAGNER LES MEILLEURES ARMES (Case Opening CS:GO)](https://www.youtube.com/watch?v=vgGqcqmxZPY)**
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Rap Money_ par Pooca Leroy
+	* _Musique inconnue à 2:40_
 
 * **AVEC DES GENS MÉCHANTS. TOUT NUS. (Rust RP)**
 
-* **Quelques verres de whisky avant un braquage (GTA V)**
+* **[Quelques verres de whisky avant un braquage (GTA V)](https://www.youtube.com/watch?v=jltyNLMePqI)**
+	* _Hollaback Girl_ par [Gwen Stefani](https://en.wikipedia.org/wiki/Gwen_Stefani)
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Indicatif de l'émission [Les Animaux du monde](https://fr.wikipedia.org/wiki/Les_Animaux_du_monde)_ par Daniel Faure
+	* _Une seule vie (Marcher dans le sable)_ par [Gérald de Palmas](https://fr.wikipedia.org/wiki/G%C3%A9rald_de_Palmas)
+	* _Victime Boloss_ par DJ Soke
+	* _Ridin'_ par [Chamillionaire](https://en.wikipedia.org/wiki/Chamillionaire) ft. [Krayzie Bone](https://en.wikipedia.org/wiki/Krayzie_Bone)
+	* _Never, Never Gonna Give Ya Up_ par [Barry White](https://en.wikipedia.org/wiki/Barry_White)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Superstition (The Noisy Freaks Remix)_ par [Stevie Wonder](https://en.wikipedia.org/wiki/Stevie_Wonder)
 
-* **LE JEU QUI FAIT FAIRE PIPI DANS SON PANTALON (Damned)**
+* **[LE JEU QUI FAIT FAIRE PIPI DANS SON PANTALON (Damned)](https://www.youtube.com/watch?v=9IQ6l4XQ4-g)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Another day at the office - AM_ par Michael Huang
+	* _The Entertainer_ par [Scott Joplin](https://en.wikipedia.org/wiki/Scott_Joplin)
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _The Entertainer (BigTune Remix)_ par [Scott Joplin](https://en.wikipedia.org/wiki/Scott_Joplin)
 
-* **À la recherche du petit Dimitri (The Forest)**
+* **[À la recherche du petit Dimitri (The Forest)](https://www.youtube.com/watch?v=Wn0wFetvr30)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
+	* _Musique inconnue à 8:16_
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Shades Of Grey_ par [Oliver Heldens](https://en.wikipedia.org/wiki/Oliver_Heldens) et [Shaun Frank](https://en.wikipedia.org/wiki/Shaun_Frank) ft. Delaney Jane
 
-* **QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)**
+* **[QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)](https://www.youtube.com/watch?v=_qnkUjgVmFg)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Nocturne op.9 No.2_ par [Frédéric Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin)
+	* _Lonely Mountain_ par [Feed Me](https://soundcloud.com/feedme)
+	* _Solferino (Cyberpunkers Remix)_ par The Blisters Boyz
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Never, Never Gonna Give Ya Up_ par [Barry White](https://en.wikipedia.org/wiki/Barry_White)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Un croissant s'il vous plaît_ par [Ultrasyd](https://soundcloud.com/ultrasyd)
 
 * **[J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS](https://www.youtube.com/watch?v=6r3fpmM1Zdo)**
 	* _Another day at the office - AM_ par Michael Huang
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
 	* _Indicatif de l'émission [Les Animaux du monde](https://fr.wikipedia.org/wiki/Les_Animaux_du_monde)_ par Daniel Faure
 	* _Funny Walk_ par Ilya Kaplan
-	* _SUNSHINE SHAKEOUT (MAIN MIX)_ par Alec Makinson
+	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
 	* _Musique inconnue à 1:59_
 	* _Musique inconnue à 2:02_
 
-* **AU MENU : ZOMBIES, TERRORISTES, CHIENS ET DINOSAURES (Fondue Savoyarde)**
+* **[AU MENU : ZOMBIES, TERRORISTES, CHIENS ET DINOSAURES (Fondue Savoyarde)](https://www.youtube.com/watch?v=n6_2BSp0aEU)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
+	* _The Legend of Zelda: Ocarina of Time (original soundtrack)_
+	* _Won't Get Fooled Again_ par [The Who](https://en.wikipedia.org/wiki/The_Who)
+	* _Sad Romance (a.k.a. Sad Violin)_ par Ji PyeongKyeon
+	* _Robotic cartoon 1_ par Michael Huang
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Colors_ par [Y&V](https://soundcloud.com/itsyandv)
 
 * **LE VOYAGE SANS RETOUR (The Forest)**
 
@@ -1283,7 +1590,15 @@ Update: 20190221
 
 * **Plus de fête ! Pour tout le monde ! (Dying Light)**
 
-* **Pêche et violence gratuite (DayZ)**
+* **[Pêche et violence gratuite (DayZ)](https://www.youtube.com/watch?v=k75LbS2VeOg)**
+	* _Another day at the office - AM_ par Michael Huang
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Black_ par [Kari Kimmel](https://en.wikipedia.org/wiki/Kari_Kimmel)
+	* _Trinkets_ par Skip Peck
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Musique inconnue à 10:23_
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Dreamscape_ par [Savant](https://en.wikipedia.org/wiki/Savant_(musician))
 
 * **INFILTRATION RATÉE DANS LA PRISON (GTA V)**
 
@@ -1345,8 +1660,14 @@ Update: 20190221
 
 * **Fourrée avec plein de jeux différents (Dinde de Noël)**
 
-* **Marcel, faut sortir de la boue ! (Spintires)**
-
+* **[Marcel, faut sortir de la boue ! (Spintires)](https://www.youtube.com/watch?v=G_w1c_psMUA)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Another day at the office - AM_ par Michael Huang
+	* _Boogie Body_ (indicatif de l'émission C'est pas sorcier) par Rock the Factory
+	* _Trinkets_ par Skip Peck
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _I Like Your Booty_ par [Shiba San](https://www.shibasan.com/)
+	
 * **[L'esprit de Noël](https://www.youtube.com/watch?v=wUC6QF_wYGA)**
 	* _Happy Stroll_ par Geoff Harvey
 	* _Funny Walk_ par Michael Crowther
@@ -1414,7 +1735,11 @@ Update: 20190221
 
 * **Laink et Terracid à la Gamescom 2014**
 
-* **La rencontre avec Babilabux (DayZ)**
+* **[La rencontre avec Babilabux (DayZ)](https://www.youtube.com/watch?v=UkhI10MKi_4)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Always Look on the Bright Side of Life (Monty Python)_ par [Eric Idle](https://fr.wikipedia.org/wiki/Eric_Idle)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Must Be The Feeling (Delta Heavy Remix)_ par [Nero](https://en.wikipedia.org/wiki/Nero_(band))
 
 * **[DO YOU WANT TO EAT MY POO ? (CS:GO)](https://www.youtube.com/watch?v=UkpTzJTEDDE)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -1427,13 +1752,35 @@ Update: 20190221
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _Pomslap_ par [Pomrad](https://soundcloud.com/pomrad)
 
-* **Braquages, courses, football et arcades (Sushi Maki)**
+* **[Braquages, courses, football et arcades (Sushi Maki)](https://www.youtube.com/watch?v=fb89x2Sk3pw)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Les derniers seront les premiers_ par [Booba](https://fr.wikipedia.org/wiki/Booba)
+	* _Musique inconnue à 12:32_
+	* _Victime Boloss_ par DJ Soke
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Polyhymnia_ par Scout McMillan
 
-* **La caisse qui fait *bip bip* (Nether)**
+* **[La caisse qui fait *bip bip* (Nether)](https://www.youtube.com/watch?v=Ry7U7xS6Zl8)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _007 Theme_ par [John Barry](https://en.wikipedia.org/wiki/John_Barry_(composer))
+	* _Mauvais garçon_ par [Booba](https://fr.wikipedia.org/wiki/Booba)
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Bounce (Destroid)_ par [Excision](https://en.wikipedia.org/wiki/Excision_(musician)) & [Space Laces](https://soundcloud.com/space-laces)
+	* _I Will Survive_ par [Hermes House Band](https://fr.wikipedia.org/wiki/Hermes_House_Band)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Aspiration (EH!DE Remix)_ par [Blaze](https://soundcloud.com/blazemoosic)
 
-* **Il y a DES POULES ! DES PUTAINS DE POULES ! (CS:GO)**
+* **[Il y a DES POULES ! DES PUTAINS DE POULES ! (CS:GO)](https://www.youtube.com/watch?v=_jHaNC-yPsU)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Victime Boloss_ par DJ Soke
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Musique inconnue à 11:18_
 
-* **Jacques, le Squelette Sympa (Half-Life 2: EP2 en COOP)**
+* **[Jacques, le Squelette Sympa (Half-Life 2: EP2 en COOP)](https://www.youtube.com/watch?v=jHhlbjs60D4)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Goodbye My Lover_ par [James Blunt](https://en.wikipedia.org/wiki/James_Blunt)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Into The Wild_ par [Kick The Habit](https://soundcloud.com/kickthehabit)
 
 * **[Comment faire quand tu reçois l'appel d'un inconnu ?](https://www.youtube.com/watch?v=lo9IgtTksiU)**
 	* _Always Look on the Bright Side of Life (Monty Python)_ par [Eric Idle](https://fr.wikipedia.org/wiki/Eric_Idle)
@@ -1499,7 +1846,7 @@ Update: 20190221
 	* _Samba de Janeiro_ par [Bellini](https://en.wikipedia.org/wiki/Bellini_(German_band))
 	* _Musique inconnue à 8:00_
 	* _That's My Name_ par [Lil' Bow Wow](https://fr.wikipedia.org/wiki/Bow_Wow) ft. [Snoop Dogg](https://fr.wikipedia.org/wiki/Snoop_Dogg)
-	* _Musique inconnue à 8:23_
+	* _La Bomba_ par [King África](https://fr.wikipedia.org/wiki/King_%C3%81frica)
 	* _My Name Is_ par [Eminem](https://fr.wikipedia.org/wiki/Eminem)
 	* _Bananaphone_ par [Raffi](https://en.wikipedia.org/wiki/Raffi)
 	* _Kung Fu Fighting_ par [Carl Douglas](https://fr.wikipedia.org/wiki/Carl_Douglas)
