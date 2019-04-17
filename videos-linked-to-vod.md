@@ -1,4 +1,4 @@
-Update: 20190310
+Update: 20190417
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -1633,8 +1633,14 @@ VOD Rust
 VOD Layers of Fear 
 [[1/7]](https://www.youtube.com/watch?v=Nz6HEm3YQ5c) <!--01/06/2016--> 
 [[2/7]](https://www.youtube.com/watch?v=tqCIQHP_WMg) <!--02/06/2016--> 
+
+* **[QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)](https://www.youtube.com/watch?v=QIkfD-xfEtA)** : 
+VOD Layers of Fear 
+[[2/7]](https://www.youtube.com/watch?v=tqCIQHP_WMg) <!--02/06/2016--> 
 [[3/7]](https://www.youtube.com/watch?v=x21Uenlka6c) <!--03/06/2016--> 
 [[4/7]](https://www.youtube.com/watch?v=bSeEXEdOXG4) <!--04/06/2016--> 
+
+VOD Layers of Fear 
 [[5/7]](https://www.youtube.com/watch?v=bDW4TiluG1U) <!--05/06/2016--> 
 [[6/7]](https://www.youtube.com/watch?v=iRdWUzTcUUk) <!--06/06/2016--> 
 [[7/7]](https://www.youtube.com/watch?v=GWH0GVVY_t8) <!--07/06/2016--> 
@@ -2571,6 +2577,7 @@ VOD CS:GO
 et 
 ... 
 
+* **[JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)](https://www.youtube.com/watch?v=EUtcyVdSzWE)** : 
 VOD Welcome to the Game 2 
 [[1/1]](https://www.youtube.com/watch?v=2Ug1D7WExys) <!--05/10/2018--> 
 
@@ -2871,3 +2878,37 @@ VOD - Laink - Mafia 2
 
 VOD Star Citizen 
 [[1/1]](https://www.youtube.com/watch?v=ciuHf29uGRM) <!--10/03/2019--> 
+
+VOD Apex Legends 
+[[1/1]](https://www.youtube.com/watch?v=iX5X1kA6VaU) <!--11/03/2019--> 
+
+* **[TU PRÉFÈRES TE COUPER UN BRAS OU UNE JAMBE ? (The Division 2)](https://www.youtube.com/watch?v=npkOXkrWIzw)** : 
+VOD The Division 2 BETA 
+[[1/2]](https://www.youtube.com/watch?v=ZmqWB6HH6dI) <!--13/03/2019--> 
+[[2/2]](https://www.youtube.com/watch?v=3R07DWCOEYI) <!--15/03/2019--> 
+
+VOD #CopyComic - Wankil Studio VS Cyprien et Squeezie 
+[[1/1]](https://www.youtube.com/watch?v=n6KtKwbmRPA) <!--26/03/2019--> 
+
+* **[JE SUIS UNE GROSSE TRUIE (Trials Rising)](https://www.youtube.com/watch?v=UMlW1scH1B4)** : 
+VOD Trials Rising 
+[[1/1]](https://www.youtube.com/watch?v=t-g-Cy_o21M) <!--10/04/2019--> 
+
+VOD Apex Legends 
+[[1/1]](https://www.youtube.com/watch?v=eoQFHF-3swk) <!--12/04/2019--> 
+
+VOD Half Dead 2 
+[[1/1]](https://www.youtube.com/watch?v=35ZfvEQLfvY) <!--13/04/2019--> 
+
+VOD Hunt: Showdown 
+[[1/1]](https://www.youtube.com/watch?v=giomy9vB1mQ) <!--14/04/2019--> 
+
+* **[OUPS J'AI TIRÉ SUR LA VIEILLE FOLLE (Loco Parentis)](https://www.youtube.com/watch?v=V2pH0NnsqyM)** : 
+VOD Loco Parentis 
+[[1/1]](https://www.youtube.com/watch?v=ZOTCulcf3EM) <!--15/04/2019--> 
+
+VOD - Laink - Dog's Quest 
+[[1/1]](https://www.youtube.com/watch?v=4coqiukxh4A) <!--16/04/2019--> 
+
+VOD Pacify 
+[[1/1]](https://www.youtube.com/watch?v=Sohz0_252p8) <!--17/04/2019--> 

@@ -6,5 +6,5 @@
 Mémo commandes :
 ```
 Titres
-* grep -o 'title="[^"]\+"' [HTML.txt] | awk '{ gsub ("title=", "", $0); print}' | sort | cut -c 2- | rev | cut -c 2- | rev | perl -ne 'print "* " . $_'
+grep -o 'title="[^"]\+"' HTML.txt | awk '{ gsub ("title=", "", $0); print}' | sort | cut -c 2- | rev | cut -c 2- | rev | perl -ne 'print "* " . $_'
 ```

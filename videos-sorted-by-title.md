@@ -1,4 +1,4 @@
-Update: 20190310
+Update: 20190417
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -14,6 +14,7 @@ Update: 20190310
 * ALLEZ DAMIEN - MUSIQUE (Tids Remix)
 * ALLUME... NON ÉTEINS ! (Stay Close)
 * ALORS ILS SONT FRANÇAIS - MUSIQUE (LAEKØ remix)
+* AMIXEM ET JOYCA vs WANKIL (Wanklash #1)
 * Annonce - Chaîne secondaire
 * APPUIE SUR SHIFT ! (Worms Revolution) ft. Guzz et Porto
 * ARMES, DROGUE ET PORN  (Welcome to the Game)
@@ -55,6 +56,7 @@ Update: 20190310
 * C'EST ENCORE MIEUX QUE MATRIX !
 * C'EST FINI ON EST PLUS POTES (Uno) ft. Amixem et Cyril
 * C'est la chanson, de l’agression ! (Battlefield 3)
+* C'EST LA FOIRE À LA SAUCISSE (Golf It)
 * C'EST LA GUERRE !!! (DayZ RP) #4 FINAL
 * C'EST LE GROS BORDEL (Arma 3 RP)
 * C'EST LE MOMENT DE VÉRITÉ
@@ -67,6 +69,7 @@ Update: 20190310
 * C'EST TRÈS GÊNANT (SCUM)
 * C'EST TROP DAAAR LA REP' (Need for Speed) ft. Amixem, Superkonar et Hugo Délire
 * C'est un méchant ? (DayZ)
+* C'ÉTAIT UNE TRÈS MAUVAISE IDÉE (SCUM)
 * CETTE VIDÉO NE DEVAIT PAS SORTIR
 * CHAMPAGNE ET MINI BURGERS (Fond vert)
 * Chanson - C'est quoi Guzzproductions
@@ -145,6 +148,7 @@ Update: 20190310
 * F.A.Q. // Partie 2/4 - Les vidéos / le YouTube Game
 * F.A.Q. // Partie 3/4 - Le buzz / le futur / les jeux / les secrets
 * F.A.Q. // Partie 4/4 - La grotte / Twitter / les bâtards / vantardise
+* FIN DE WANKIL, EXPLICATION
 * Flamenkuche remplie de différents jeux
 * Fourrée avec plein de jeux différents (Dinde de Noël)
 * GAGNER AVEC UNE SQUAD DE GOGOLES (Fortnite)
@@ -177,6 +181,7 @@ Update: 20190310
 * INFILTRATION RATÉE DANS LA PRISON (GTA V)
 * Iniesta, Ashley Young, Lee, Guy Roux (FIFA 13)
 * Jacques, le Squelette Sympa (Half-Life 2: EP2 en COOP)
+* J'AI CACHÉ MA BELLE-MÈRE DANS LE BUNKER (House Flipper)
 * J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS
 * J'AI GAGNÉ LE SUPER COUTEAU !!! (Case Opening CS:GO)
 * J'AI GLISSÉ CAPITAINE (Blackwake) ft. Squeezie, Cyril, Mickalow
@@ -189,6 +194,7 @@ Update: 20190310
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
 * JE ME SUIS COINCÉ UN TESTICULE (Five Nights at Freddy's)
+* JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)
 * Je saute en parachute comme Rico Rodriguez (Just Cause 3)
 * J'ESSAYE DE GAGNER LES MEILLEURES ARMES (Case Opening CS:GO)
 * JESSICA FAIS VOIR TA KIKINE ! (Outlast 2)
@@ -257,6 +263,7 @@ Update: 20190310
 * La résistance à la campagne (Half-Life 2: EP2 en COOP)
 * LA REVANCHE DES BOTS (Guess Who)
 * L'ARNAQUEUR ET LA ZENTORNO (GTA V)
+* LA ROULETTE DE SES MORTS !!! (Apex Legends) Ft. Hugo
 * LA SÉPARATION DE WANKIL (H1Z1)
 * La suite du défi Pot-au-feu (DayZ)
 * LA SURVIE. TOUT NUS. (Rust RP)
@@ -453,6 +460,7 @@ Update: 20190310
 * NELSON MONFORT ET LA PLANÈTE DES SINGES (Rocket League)
 * NE MANGEZ PAS VOTRE PROPRE BIOMASSE (Memories of Mars)
 * NE REGARDE PAS SOUS LA JUPE DE NATACHA (Obscure)
+* NE RENTRE PAS DANS CE PLACARD (Gmod Murder) ft. Squeezie, Cyril
 * NETTOYER LES TOILETTES DANS LE FUTUR (The Surge)
 * NE VA PAS DANS LA CAVE (Visage)
 * NON, VOUS NE RÊVEZ PAS (League of Legends)
@@ -511,6 +519,7 @@ Update: 20190310
 * OPÉRATION LAMA (Ghost Recon Wildlands) ft. Guzz et Hugo Délire
 * OÙ EST CHARLIE QUE JE LUI METTE UNE BALLE ? (CS:GO Coop)
 * OUPS J'AI FABRIQUÉ UNE BOMBE ATOMIQUE (Fallout 76)
+* OUPS J'AI TIRÉ SUR LA VIEILLE FOLLE (Loco Parentis)
 * OUVREZ LES ÉCOUTILLES DE BALLES ! (CS:GO)
 * PANIQUE EN CUISINE (Overcooked)
 * PAPI NOUS PARLE DES ALLEMANDS (World Of Tanks) ft. Hugo
@@ -540,6 +549,7 @@ Update: 20190310
 * QUELQU'UN A VOLÉ NOTRE TROPHÉE YOUTUBE
 * QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
+* QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
@@ -586,6 +596,7 @@ Update: 20190310
 * TU CONNAIS LAINK ET TERRACID ? (Antoine Daniel, Mathieu Sommet, Siphano, Jigmé...)
 * TUEZ VOS AMIS (Dead by Daylight) ft. Guzz, Hugo Délire et Gydias
 * TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo
+* TU PRÉFÈRES TE COUPER UN BRAS OU UNE JAMBE ? (The Division 2)
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
 * UNBOXING DES PIRES COLIS À OFFRIR
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
@@ -611,3 +622,4 @@ Update: 20190310
 * Y A PAS D'CALCAIRE ! (Hurtworld)
 * YO MISTER WHITE ! OH BITCH... (No More Room In Hell) ft. Guzz et Porto
 * You like blood transfusion ? (DayZ)
+

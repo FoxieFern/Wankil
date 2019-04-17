@@ -1,4 +1,29 @@
-Update: 20190310
+Update: 20190417
+
+* **[AMIXEM ET JOYCA vs WANKIL (Wanklash #1)](https://www.youtube.com/watch?v=HTMwO14BkZs)**
+	* _Deep Southern Dirt 1_ par [Victor Olsson](https://soundcloud.com/victor-olsson-music)
+	* _Blue Texas Trucker 1_ par [Victor Olsson](https://soundcloud.com/victor-olsson-music)
+	* ...
+
+* **C'ÉTAIT UNE TRÈS MAUVAISE IDÉE (SCUM)**
+
+* **NE RENTRE PAS DANS CE PLACARD (Gmod Murder) ft. Squeezie, Cyril**
+
+* **QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)**
+
+* **JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)**
+
+* **OUPS J'AI TIRÉ SUR LA VIEILLE FOLLE (Loco Parentis)**
+
+* **J'AI CACHÉ MA BELLE-MÈRE DANS LE BUNKER (House Flipper)**
+
+* **LA ROULETTE DE SES MORTS !!! (Apex Legends) Ft. Hugo**
+
+* **C'EST LA FOIRE À LA SAUCISSE (Golf It)**
+
+* **TU PRÉFÈRES TE COUPER UN BRAS OU UNE JAMBE ? (The Division 2)**
+
+* **FIN DE WANKIL, EXPLICATION**
 
 * **LA MEILLEURE TECHNIQUE POUR SÉDUIRE (Tacos 3 viandes)**
 
@@ -36,7 +61,38 @@ Update: 20190310
 
 * **MARTINE VA À LA VIE SCOLAIRE (Home Sweet Home)**
 
-* **C'EST LE MOMENT DE VÉRITÉ**
+* **[C'EST LE MOMENT DE VÉRITÉ](https://www.youtube.com/watch?v=nSmy9uNM7_g)**
+	* _Clowning Around_ par Shaun Frearson
+	* _Bob-Omb Battlefield (Super Mario 64)_ par [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+	* _Fluffing a Duck_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _SpongeBob Closing Theme_ par Steve Belfer
+	* _Goofy Silent Film_ par Peter McIsaac
+	* _Mouse Walk_ par Johan Hynynen
+	* _Robotic cartoon 1_ par Michael Huang
+	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Brazilian Flower_ par [Jean-Jacques Perrey](https://fr.wikipedia.org/wiki/Jean-Jacques_Perrey)
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Gnome Dance_ par [Håkan Eriksson](http://hakan-eriksson.com/)
+	* _Musique inconnue à 5:45_
+	* _Pet Animals 2_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
+	* _Funny Walk_ par Ilya Kaplan
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Quirky Adventure_ par Geoff Harvey
+	* _Pirate Lagoon (Diddy Kong Racing)_ par [David Wise](https://en.wikipedia.org/wiki/David_Wise_(composer))
+	* _Jumping Cricket 2_ par [Martin Gauffin](https://cargocollective.com/martingauffin)
+	* _Another day at the office - AM_ par Michael Huang
+	* _Thunder and Blazes (Circus Theme music)_ par [Louis-Philippe Laurendeau](https://en.wikipedia.org/wiki/Louis-Philippe_Laurendeau)
+	* _Suspicious Behavior_ par [Alice Hive](https://alicehive.bandcamp.com/)
+	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _The Legend of Zelda: Ocarina of Time (original soundtrack)_
+	* _Boulangerie_ par [Jeremy Sherman](https://www.deezer.com/fr/artist/3265671)
+	* _Musique inconnue à 11:47_
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Musique inconnue à 12:16_
 
 * **COURSE DE BEAUF COMME AUX USA (Wreckfest)**
 
@@ -306,7 +362,6 @@ Update: 20190310
 	* _Thunder and Blazes (Circus Theme music)_ par [Louis-Philippe Laurendeau](https://en.wikipedia.org/wiki/Louis-Philippe_Laurendeau)
 	* _Pet Animals 2_ par [Magnus Ringblom](http://magnusringblom.com/)
 	* _Musique inconnue à 9:54_
-	* _Musique inconnue à 10:04_
 	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
@@ -825,7 +880,7 @@ Update: 20190310
 	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
 	* _Where's My Banjo?_ par Rimsky
 	* _Trinkets_ par Skip Peck
-	* _Musique inconnue à 9:28_
+	* _Sneak in_ par FullScore
 	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Quirky Little Character main_ par Alec Makinson
 	* _Little Waltz_ par [Alexander Blu](https://www.jamendo.com/artist/87/alexander-blu)
@@ -1116,7 +1171,7 @@ Update: 20190310
 	* _Getting There_ par mdeman / MDM Music
 	* _Another day at the office_ par Michael Huang
 	* _Trinkets_ par Skip Peck
-	* _Musique inconnue à 8:53_
+	* _Sneak in_ par FullScore
 	* _Robotic cartoon 1_ par Michael Huang
 	* _Robot Rock_ par [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk)
 	* _Quirky Little Character main_ par Alec Makinson
@@ -1217,7 +1272,11 @@ Update: 20190310
 
 * **ON S’ÉCHAPPE D'UN MANOIR HANTÉ**
 
-* **LES ÉMO VEULENT DÉTRUIRE L'UNIVERS (Destiny)**
+* **[LES ÉMO VEULENT DÉTRUIRE L'UNIVERS (Destiny)](https://www.youtube.com/watch?v=QqUSIz55Iy8)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Tahiti_ par Mathieu Leguern (Velvet Lab)
+	* _Mammoth_ par [MOGUAI](https://en.wikipedia.org/wiki/Moguai) et [Dimitri Vegas & Like Mike](https://en.wikipedia.org/wiki/Dimitri_Vegas_%26_Like_Mike)
 
 * **[ROBERT LA MOUCHE (Slap The Fly)](https://www.youtube.com/watch?v=g0BXpma10WE)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -1432,7 +1491,20 @@ Update: 20190310
 
 * **Toujours aussi chanceux ! (Case Opening CS:GO)**
 
-* **LES JEUX DE SOCIÉTÉ POUR ENFANTS (Tabletop Simulator)**
+* **[LES JEUX DE SOCIÉTÉ POUR ENFANTS (Tabletop Simulator)](https://www.youtube.com/watch?v=L6ROUdH0TIY)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Perfect Opening ver. 2_ par Alan Paul Ett
+	* _Whistlin' Tune_ par [Richard Hardelstein](https://www.allmusic.com/artist/richard-hardelstein-mn0002367364) et [Scott Ligget](http://themusiccollective.com/scott-liggett/)
+	* _Indicatif de l'émission [Les Animaux du monde](https://fr.wikipedia.org/wiki/Les_Animaux_du_monde)_ par Daniel Faure
+	* _Musique inconnue à 5:22_
+	* _Générique de Yu-Gi-Oh! Duel Monsters_
+	* _Another day at the office - AM_ par Michael Huang
+	* _Getting There_ par mdeman / MDM Music
+	* _Sad Romance (a.k.a. Sad Violin)_ par Ji PyeongKyeon
+	* _Trinkets_ par Skip Peck
+	* _Musique inconnue à 14:28_ (JAMES HORNER)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _See You Again (Absence Remix)_ par [Wiz Khalifa](https://en.wikipedia.org/wiki/Wiz_Khalifa) ft. [Charlie Puth](https://en.wikipedia.org/wiki/Charlie_Puth)
 
 * **INFILTRATION DE LÂCHE AVEC AMIXEM (Rainbow Six Siege) exclu Gamescom**
 
@@ -1704,23 +1776,41 @@ Update: 20190310
 	* _Can't Get Enough of Your Love, Babe_ par [Barry White](https://en.wikipedia.org/wiki/Barry_White)
 	* _Business (Matoma Remix)_ par [Eminem](https://fr.wikipedia.org/wiki/Eminem)
 
-* **ET MAINTENANT, FERME TA GUEULE (DayZ)**
+* **[ET MAINTENANT, FERME TA GUEULE (DayZ)](https://www.youtube.com/watch?v=80jDpdh4wBc)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Think! (Jeopardy Theme)_ par Merv Griffin
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Oh Snap_ par [Eptic](https://soundcloud.com/eptic)
 
 * **[QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)](https://www.youtube.com/watch?v=ZJilcNrw-uc)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _Impressions_ par [Curious Kontrol](https://soundcloud.com/curiouskontrol)
 
-* **ON AURAIT JAMAIS DÛ FAIRE DES PARIS... (CS:GO)**
+* **[ON AURAIT JAMAIS DÛ FAIRE DES PARIS... (CS:GO)](https://www.youtube.com/watch?v=PNla8ifZ3W4)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Victime Boloss_ par DJ Soke
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Revenge_ par [Habstrakt](https://soundcloud.com/adam-habstrakt) & [Megalodon](https://soundcloud.com/megalodon)
 
 * **La guerre en bicyclette (Heroes and Generals)**
 
-* **AVEC SUPPLÉMENTS CS:GO, DAYZ ET THE HUNTER (Boulettes Barcelonaises)**
+* **[AVEC SUPPLÉMENTS CS:GO, DAYZ ET THE HUNTER (Boulettes Barcelonaises)](https://www.youtube.com/watch?v=m5FPGPtGIxc)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
+	* _Victime Boloss_ par DJ Soke
+	* _007 Theme (James Bond)_ par [John Barry](https://en.wikipedia.org/wiki/John_Barry_(composer))
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Aspiration_ par [Blaze](https://soundcloud.com/blazemoosic)
 
 * **[Les critiques de Laink #3 // L'Oculus Rift](https://www.youtube.com/watch?v=RwxZQ_SAipw)**
 	* _SpongeBob Closing Theme_ par Steve Belfer
 
-* **On part à la chasse ! (The Hunter)**
+* **[On part à la chasse ! (The Hunter)](https://www.youtube.com/watch?v=VSmq1N1U_dU)**
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Baby Got Back_ par [Sir Mix-a-Lot](https://en.wikipedia.org/wiki/Sir_Mix-a-Lot)
+	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
+	* _Sick Bubblegum (Skrillex Remix)_ par [Rob Zombie](https://en.wikipedia.org/wiki/Rob_Zombie)
 
 * **[#lainkapété](https://www.youtube.com/watch?v=OK-p4DcZkC8)**
 	* _Breathe Me_ par [Sia](https://fr.wikipedia.org/wiki/Sia_(chanteuse))
@@ -1762,7 +1852,7 @@ Update: 20190310
 
 * **[La caisse qui fait *bip bip* (Nether)](https://www.youtube.com/watch?v=Ry7U7xS6Zl8)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* _007 Theme_ par [John Barry](https://en.wikipedia.org/wiki/John_Barry_(composer))
+	* _007 Theme (James Bond)_ par [John Barry](https://en.wikipedia.org/wiki/John_Barry_(composer))
 	* _Mauvais garçon_ par [Booba](https://fr.wikipedia.org/wiki/Booba)
 	* _Think! (Jeopardy Theme)_ par Merv Griffin
 	* _Bounce (Destroid)_ par [Excision](https://en.wikipedia.org/wiki/Excision_(musician)) & [Space Laces](https://soundcloud.com/space-laces)
@@ -2106,7 +2196,7 @@ Update: 20190310
 * **[Les critiques de Laink #1 // Rayman](https://www.youtube.com/watch?v=pCQmAfylRiA)**
 	* _SpongeBob Closing Theme_ par Steve Belfer
 
-* Chanson - C'est quoi Guzzproductions
+* **Chanson - C'est quoi Guzzproductions**
 
 * **[La Traque (DayZ RP - partie 3)](https://www.youtube.com/watch?v=s4hKAcRSL0c)**
 	* _Le Ter Ter m'a rendu Zehef_ par Mc Parkinson
@@ -2130,7 +2220,7 @@ Update: 20190310
 	* _50K (Original Mix)_ par [Calvertron](https://soundcloud.com/calvertron)
 
 * **[StupidiCLASH - Juillet 2013 - Worms Revolution](https://www.youtube.com/watch?v=CfmLq-tTcl4)**
-	* GUZZ GOO-ZEE-GOO (Original Porto version)
+	* _GUZZ GOO-ZEE-GOO (Original Porto version)_
 
 * **[Maïté Gaming (Amnesia en COOP)](https://www.youtube.com/watch?v=fboSpO0m_T0)**
 	* _U Can't Touch This_ par [MC Hammer](https://en.wikipedia.org/wiki/MC_Hammer)
@@ -2160,7 +2250,7 @@ Update: 20190310
 	* _Victime Boloss_ par DJ Soke
 	* _A Little Less Conversation (remix Elvis vs JXL)_ par [Elvis Presley](https://en.wikipedia.org/wiki/Elvis_Presley)
 	* _Clocks_ (Terracid) par [Coldplay](https://en.wikipedia.org/wiki/Coldplay)
-	* _Musique inconnue à 10:46_
+	* _Sonate pour piano n°14_ de [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 	* _The Entertainer_ (Terracid) par [Scott Joplin](https://en.wikipedia.org/wiki/Scott_Joplin)
 	* _Musique inconnue à 12:45_
 
@@ -2233,7 +2323,6 @@ Update: 20190310
 
 * **[Le quiz Seigneur des Anneaux avec les viewers (CS:Source)](https://www.youtube.com/watch?v=scNbw-P3jFw)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* _Musique inconnue à 6:08_
 	* _I Do Love You_ par [Kill Paris](https://soundcloud.com/killparis)
 
 * **[Le Camion Explosif (Half-Life 2 en COOP)](https://www.youtube.com/watch?v=WfFF506z6rw)**
@@ -2401,7 +2490,7 @@ Update: 20190310
 
 * **[Celui qui gagne a baisé la sœur de l'autre (Mario Kart)](https://www.youtube.com/watch?v=KvHVqPYn7-w)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* Merry Go par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Merry Go_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 * **[Une tarte avec des morceaux de jeux à l'intérieur (Tarte Tatin)](https://www.youtube.com/watch?v=u9Xm87nmekU)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
