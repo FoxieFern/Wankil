@@ -1,4 +1,4 @@
-Update: 20190417
+Update: 20190508
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -60,6 +60,7 @@ Update: 20190417
 * C'EST LA GUERRE !!! (DayZ RP) #4 FINAL
 * C'EST LE GROS BORDEL (Arma 3 RP)
 * C'EST LE MOMENT DE VÉRITÉ
+* C'EST LES SOLDES CHEZ LES ZOMBIES (World War Z)
 * C'EST MOCHE MAIS C'EST RIGOLO (Unturned) ft. Guzz et Gydias
 * C'EST MOI LA NOUVELLE INFIRMIÈRE (Remothered)
 * C'EST N'IMPORTE QUOI
@@ -127,6 +128,7 @@ Update: 20190417
 * EH OUI THIERRY, IT IS A BEAUTIFUL BATAILLE SIDE BANANE ! (CS:GO)
 * EH TU VEUX M'EMBRAFFER ? (Gmod Deathrun) ft. Guzz et Gydias
 * ELLE N'A PAS SUPPORTÉ LE DIVORCE (Home Sweet Home)
+* ELLE VA SE CALMER LA BLONDASSE (Le Seigneur des Anneaux)
 * ENVOLE-TOI MON GROS COCHON (Unruly Heroes)
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
 * Espèce d'infirme ! (GTA IV)
@@ -195,6 +197,7 @@ Update: 20190417
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
 * JE ME SUIS COINCÉ UN TESTICULE (Five Nights at Freddy's)
 * JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)
+* JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)
 * Je saute en parachute comme Rico Rodriguez (Just Cause 3)
 * J'ESSAYE DE GAGNER LES MEILLEURES ARMES (Case Opening CS:GO)
 * JESSICA FAIS VOIR TA KIKINE ! (Outlast 2)
@@ -415,6 +418,7 @@ Update: 20190417
 * LIRE L'AVENIR DANS LE JAMBON (CS:GO)
 * LIRE UNE FANFICTION +18
 * LIVRAISON DE PIZZA DANS UNE MAISON HANTÉE (Emily Wants to Play)
+* LIVRAISON DIABOLIQUE À DOMICILE (CS:GO)
 * L'oeil de MERDE (Minecraft)
 * LOL AU CALME (The Forest)
 * LOS ANGELES AVEC LAINK ET TERRACID (Vlog E3)
@@ -518,6 +522,7 @@ Update: 20190417
 * ON VOUS OFFRE DES GROS CADEAUX !
 * OPÉRATION LAMA (Ghost Recon Wildlands) ft. Guzz et Hugo Délire
 * OÙ EST CHARLIE QUE JE LUI METTE UNE BALLE ? (CS:GO Coop)
+* OUI MA BELLE REGARDE L'OBJECTIF (Visage)
 * OUPS J'AI FABRIQUÉ UNE BOMBE ATOMIQUE (Fallout 76)
 * OUPS J'AI TIRÉ SUR LA VIEILLE FOLLE (Loco Parentis)
 * OUVREZ LES ÉCOUTILLES DE BALLES ! (CS:GO)
@@ -597,6 +602,7 @@ Update: 20190417
 * TUEZ VOS AMIS (Dead by Daylight) ft. Guzz, Hugo Délire et Gydias
 * TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo
 * TU PRÉFÈRES TE COUPER UN BRAS OU UNE JAMBE ? (The Division 2)
+* TUTO: QUE FAIRE QUAND MON AMIE EST BOURRÉE (Drunk friend)
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
 * UNBOXING DES PIRES COLIS À OFFRIR
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)

@@ -1,4 +1,41 @@
-Update: 20190417
+Update: 20190508
+
+* **[TUTO: QUE FAIRE QUAND MON AMIE EST BOURRÉE (Drunk friend)](https://www.youtube.com/watch?v=aTluvTvTmIY)**
+	* _Trinkets_ par Skip Peck
+	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	* _Deadly Roulette_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Pet Animals 2_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Sneaky Adventure_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Mouse Walk_ par Johan Hynynen
+	* _Animal Crossing (11 AM)_ par Kazumi Totaka, Kenta Nagata, Toru Minegishi et Shinobu Tanaka
+	* _Sneaky Snitch_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Musique inconnue à 7:15_
+	* _Clowning Around_ par Shaun Frearson
+	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Mission Start_ par [Lee Dongkun](https://soundcloud.com/donguy)
+	* _Monkeys Spinning Monkeys_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Another day at the office - AM_ par Michael Huang
+	* _Morning After 3_ par [Magnus Ringblom](http://magnusringblom.com/)
+	* _Musique inconnue à 12:20_
+	* _Scheming Weasel (faster version)_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Hidden Agenda_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+	* _Quirky Adventure_ par Geoff Harvey
+	* _Boulangerie_ par [Jeremy Sherman](https://www.deezer.com/fr/artist/3265671)
+	* _Ciabatta Dance ver. 1_ par Alan Paul Ett
+	* _Tension_ par [D. J. Pinto](https://www.hooksounds.com/author/djpinto/)
+	* _Musique inconnue à 21:02_
+	* _Musique inconnue à 22:06_
+	* _Flying High_ par [Fredji](https://soundcloud.com/fredjimusic)
+
+* **JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)**
+
+* **LIVRAISON DIABOLIQUE À DOMICILE (CS:GO)**
+
+* **OUI MA BELLE REGARDE L'OBJECTIF (Visage)**
+
+* **C'EST LES SOLDES CHEZ LES ZOMBIES (World War Z)**
+
+* **ELLE VA SE CALMER LA BLONDASSE (Le Seigneur des Anneaux)**
 
 * **[AMIXEM ET JOYCA vs WANKIL (Wanklash #1)](https://www.youtube.com/watch?v=HTMwO14BkZs)**
 	* _Deep Southern Dirt 1_ par [Victor Olsson](https://soundcloud.com/victor-olsson-music)

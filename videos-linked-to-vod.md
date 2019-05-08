@@ -1,4 +1,4 @@
-Update: 20190417
+Update: 20190508
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2532,6 +2532,7 @@ VOD Project Zomboid + Skribbl.io
 VOD Business Tour 
 [[1/1]](https://www.youtube.com/watch?v=eNSMaknCZ8M) <!--24/09/2018--> 
 
+* **[ELLE VA SE CALMER LA BLONDASSE (Le Seigneur des Anneaux)](https://www.youtube.com/watch?v=-SvCVB43OBQ)** : 
 VOD Le Seigneur des anneaux : Le Retour du roi COOP 
 [[1/1]](https://www.youtube.com/watch?v=ce07_bmDjxI) <!--25/09/2018--> 
 
@@ -2734,6 +2735,10 @@ VOD Sea of Thieves: Forsaken Shores
 VOD Visage 
 [[1/1]](https://www.youtube.com/watch?v=8dqDsdfg2Xw) <!--23/11/2018--> 
 
+* **[OUI MA BELLE REGARDE L'OBJECTIF (Visage)](https://www.youtube.com/watch?v=hnxC9cp6zi0)** : 
+VOD Visage 
+[[1/1]](https://www.youtube.com/watch?v=8dqDsdfg2Xw) <!--23/11/2018--> 
+
 VOD OVERKILL's The Walking Dead 
 [[1/1]](https://www.youtube.com/watch?v=8m_ABo_07Lg) <!--24/11/2018--> 
 
@@ -2755,6 +2760,7 @@ VOD Un Live Dont Vous Êtes Le Héros #1 (Le Manoir de l'Enfer)
 VOD Isotopium Chernobyl 
 [[1/1]](https://www.youtube.com/watch?v=2Uz6bsKy0C8) <!--10/12/2018--> 
 
+* **[JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)](https://www.youtube.com/watch?v=S7rM_hbhLY0)** : 
 VOD Thief Simulator 
 [[1/1]](https://www.youtube.com/watch?v=47D7TBkWeZM) <!--11/12/2018--> 
 
@@ -2804,6 +2810,7 @@ VOD Escape room
 VOD PUBG 
 [[1/1]](https://www.youtube.com/watch?v=QiyNP7xSxbk) <!--17/01/2019--> 
 
+* **[TUTO: QUE FAIRE QUAND MON AMIE EST BOURRÉE (Drunk friend)](https://www.youtube.com/watch?v=aTluvTvTmIY)** : 
 VOD You have a drunk friend 
 [[1/1]](https://www.youtube.com/watch?v=SeLVixBpx0M) <!--19/01/2019--> 
 
@@ -2912,3 +2919,37 @@ VOD - Laink - Dog's Quest
 
 VOD Pacify 
 [[1/1]](https://www.youtube.com/watch?v=Sohz0_252p8) <!--17/04/2019--> 
+
+VOD CS:GO 
+[[1/1]](https://www.youtube.com/watch?v=h6fmzsLeubc) <!--18/04/2019--> 
+
+VOD Golf It 
+[[1/1]](https://www.youtube.com/watch?v=b68GsKOb4Lc) <!--19/04/2019--> 
+
+VOD Shotgun Farmers 
+[[1/1]](https://www.youtube.com/watch?v=RXwOHot0AH0) <!--20/04/2019--> 
+
+VOD Lost In Vivo 
+[[1/1]](https://www.youtube.com/watch?v=FjjRBxOvKWA) <!--21/04/2019--> 
+
+VOD - Laink - Rusty Lake Paradise 
+[[1/1]](https://www.youtube.com/watch?v=tYcITZDuu9s) <!--22/04/2019--> 
+
+VOD - Laink - Cube Escape: Paradox 
+[[1/1]](https://www.youtube.com/watch?v=pY_MjalGlrw) <!--23/04/2019--> 
+
+VOD Satisfactory 
+[[1/4]](https://www.youtube.com/watch?v=VX0WER4gYmo) <!--24/04/2019--> 
+[[2/4]](https://www.youtube.com/watch?v=726U6SwB6i0) <!--25/04/2019--> 
+[[3/4]](https://www.youtube.com/watch?v=-HwuawW4624) <!--26/04/2019--> 
+[[4/4]](https://www.youtube.com/watch?v=yHQaEg-1pZY) <!--27/04/2019--> 
+
+VOD - Laink - Return of The Obra Dinn 
+[[1/2]](https://www.youtube.com/watch?v=cC4lRnJaM1E) <!--28/04/2019--> 
+[[2/2]](https://www.youtube.com/watch?v=hea-IJzm8LI) <!--29/04/2019--> 
+
+VOD RICO 
+[[1/1]](https://www.youtube.com/watch?v=QwfnBGHihI0) <!--30/04/2019--> 
+
+VOD Rust 
+[[1/1]](https://www.youtube.com/watch?v=TWT_OwmgoAs) <!--01/05/2019--> 
