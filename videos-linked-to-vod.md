@@ -1,4 +1,4 @@
-Update: 20190508
+Update: 20190526
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2838,6 +2838,7 @@ VOD - Laink - The Invisible Hours
 VOD Sea of Thieves 
 [[1/1]](https://www.youtube.com/watch?v=Ju2AFC-NODU) <!--30/01/2019--> 
 
+* **[IL POSTE SA PHOTO INTIME SUR INTERNET (CS:GO)](https://www.youtube.com/watch?v=xIGKCSYAFZw)** : 
 VOD CS:GO 
 [[1/1]](https://www.youtube.com/watch?v=m6_BziP_-b0) <!--31/01/2019--> 
 
@@ -2926,6 +2927,7 @@ VOD CS:GO
 VOD Golf It 
 [[1/1]](https://www.youtube.com/watch?v=b68GsKOb4Lc) <!--19/04/2019--> 
 
+* **[TU VAS BOUFFER MES LÉGUMES !!! (Shotgun Farmers)](https://www.youtube.com/watch?v=4q3qJvtx0dw)** : 
 VOD Shotgun Farmers 
 [[1/1]](https://www.youtube.com/watch?v=RXwOHot0AH0) <!--20/04/2019--> 
 

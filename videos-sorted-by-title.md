@@ -1,4 +1,4 @@
-Update: 20190508
+Update: 20190526
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -18,6 +18,7 @@ Update: 20190508
 * Annonce - Chaîne secondaire
 * APPUIE SUR SHIFT ! (Worms Revolution) ft. Guzz et Porto
 * ARMES, DROGUE ET PORN  (Welcome to the Game)
+* ARRÊTE D'ACCROCHER MON SLIP !!! (Frog Climbers)
 * ARRÊTEZ MONSIEUR LE DIRECTEUR (Outlast 2)
 * ATTENTION TU PUES DE LA GUEULE (H1Z1)
 * AU MENU : CONTRE-SENS, LAURENT DEUTSCH ET LA FERME (Panini Nutella)
@@ -49,6 +50,7 @@ Update: 20190508
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
 * Ce n'est que charme et sorcellerie monseigneur ! (Chivalry: Medieval Warfare)
+* CE QU'IL Y A VRAIMENT DANS VOS PIZZAS (Roblox)
 * CE SPORT EST INTERDIT (Disc Jam)
 * C'EST BEAUCOUP TROP CHAUD (Can't Drive This)
 * C'est bon mais ça reste dans les dents (PAYDAY 2)
@@ -174,6 +176,7 @@ Update: 20190508
 * IL N'AURAIT JAMAIS DÛ INSULTER LA FRANCE (CS:GO)
 * IL N'EN RESTERA QU'UN (PUBG)
 * IL PENSE QUE LA CHAÎNE VA ÊTRE SUPPRIMÉE
+* IL POSTE SA PHOTO INTIME SUR INTERNET (CS:GO)
 * ILS SONT SOUS LA MAISON !!! (7 Days To Die) #EP4
 * IL VOUS MANQUE UN BRAS MADAME (Dishonored 2)
 * Il y a DES POULES ! DES PUTAINS DE POULES ! (CS:GO)
@@ -566,6 +569,7 @@ Update: 20190508
 * Rondelle Movie (Half-Life 2 en COOP)
 * Salade Composée avec des jeux en plus des fruits
 * SALE GOSSE DE MERDE ! (The Park)
+* SEB ET PIERRE vs WANKIL (Wanklash #2)
 * SERPENTARD !!! (Rocket League)
 * SE TOUCHER LA ZIQUETTE DANS L'ESPACE (Star Citizen)
 * SEULS CONTRE 100 ABONNÉS ZOMBIES (PUBG)
@@ -603,6 +607,7 @@ Update: 20190508
 * TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo
 * TU PRÉFÈRES TE COUPER UN BRAS OU UNE JAMBE ? (The Division 2)
 * TUTO: QUE FAIRE QUAND MON AMIE EST BOURRÉE (Drunk friend)
+* TU VAS BOUFFER MES LÉGUMES !!! (Shotgun Farmers)
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
 * UNBOXING DES PIRES COLIS À OFFRIR
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)

@@ -1,4 +1,14 @@
-Update: 20190508
+Update: 20190526
+
+* **TU VAS BOUFFER MES LÉGUMES !!! (Shotgun Farmers)**
+
+* **CE QU'IL Y A VRAIMENT DANS VOS PIZZAS (Roblox)**
+
+* **IL POSTE SA PHOTO INTIME SUR INTERNET (CS:GO)**
+
+* **SEB ET PIERRE vs WANKIL (Wanklash #2)**
+
+* **ARRÊTE D'ACCROCHER MON SLIP !!! (Frog Climbers)**
 
 * **[TUTO: QUE FAIRE QUAND MON AMIE EST BOURRÉE (Drunk friend)](https://www.youtube.com/watch?v=aTluvTvTmIY)**
 	* _Trinkets_ par Skip Peck
