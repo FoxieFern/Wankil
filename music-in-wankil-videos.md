@@ -1,4 +1,16 @@
-Update: 20190526
+Update: 20190617
+
+* **QU'EST CE QUI EST GROS ET QUI PUE ? (Dauntless)**
+
+* **ON OUVRE VOS COLIS, C'ÉTAIT PAS UNE BONNE IDÉE...**
+
+* **TU FUIS ESPÈCE DE LÂCHE !!! (Conqueror's Blade)**
+
+* **DÉTRUIRE UNE PLANETE EN MOINS DE 24H (Satisfactory)**
+
+* **DEVINE LE WANKUL DES YOUTUBERS #3**
+
+* **J'AI TRÉBUCHÉ DANS L'ESPACE-TEMPS (Star Citizen)**
 
 * **TU VAS BOUFFER MES LÉGUMES !!! (Shotgun Farmers)**
 
@@ -55,8 +67,6 @@ Update: 20190526
 * **C'ÉTAIT UNE TRÈS MAUVAISE IDÉE (SCUM)**
 
 * **NE RENTRE PAS DANS CE PLACARD (Gmod Murder) ft. Squeezie, Cyril**
-
-* **QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)**
 
 * **JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)**
 
@@ -163,7 +173,7 @@ Update: 20190526
 
 * **LA TÉLÉ-RÉALITÉ VA TROP LOIN (SOS)**
 
-* **DEVINE LE WANKUL DES YOUTUBERS 2**
+* **DEVINE LE WANKUL DES YOUTUBERS #2**
 
 * **[MA GRANDE SŒUR M'A MALTRAITÉ (House Flipper)](https://www.youtube.com/watch?v=6b6Q6zuqLtk)**
 	* _Quirky Adventure_ par Geoff Harvey
@@ -261,7 +271,7 @@ Update: 20190526
 
 * **EST-CE QUE TU ES UN BON ÉLÈVE ? (Battlefield V)**
 
-* **DEVINE LE WANKUL DES YOUTUBERS**
+* **DEVINE LE WANKUL DES YOUTUBERS #1**
 
 * **J'AI LA PREUVE QUE LA TERRE EST PLATE (Fear The Wolves)**
 
