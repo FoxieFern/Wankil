@@ -1,4 +1,4 @@
-Update: 20190617
+Update: 20190717
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2703,6 +2703,7 @@ VOD Shadow of the Tomb Raider
 VOD Golf It 
 [[1/1]](https://www.youtube.com/watch?v=wH11xH__MTE) <!--10/11/2018--> 
 
+* **[FAIRE LIVRER UNE FILLE DE JOIE À DOMICILE (The Works of Mercy)](https://www.youtube.com/watch?v=hhz68aOpki8)** : 
 VOD Works of Mercy 
 [[1/1]](https://www.youtube.com/watch?v=YCaszLyuLgo) <!--14/11/2018--> 
 
@@ -2906,6 +2907,7 @@ VOD Trials Rising
 VOD Apex Legends 
 [[1/1]](https://www.youtube.com/watch?v=eoQFHF-3swk) <!--12/04/2019--> 
 
+* **[VOS CHAUSSURES PEUVENT VOUS SAUVER (Half Dead 2)](https://www.youtube.com/watch?v=EsyZiHhqbvc)** : 
 VOD Half Dead 2 
 [[1/1]](https://www.youtube.com/watch?v=35ZfvEQLfvY) <!--13/04/2019--> 
 
@@ -2985,12 +2987,49 @@ VOD Mordhau
 VOD World War Z 
 [[1/1]](https://www.youtube.com/watch?v=3rXlMWH4n3A) <!--11/06/2019--> 
 
-VOD - Laink - Fe 
-[[1/1]](https://www.youtube.com/watch?v=3qXcG3rWk_I) <!--12/06/2019--> 
-
 VOD Sea of Thieves 
-[[1/6]](https://www.youtube.com/watch?v=kQetZdX0Ga4) <!--12/06/2019--> 
-[[2/6]](https://www.youtube.com/watch?v=msD-1G9jgCE) <!--13/06/2019--> 
-[[3/6]](https://www.youtube.com/watch?v=JPWZZ00GRiE) <!--14/06/2019--> 
-[[4/6]](https://www.youtube.com/watch?v=uO9_FxTNs7s) <!--15/06/2019--> 
-[[5/6]](https://www.youtube.com/watch?v=twRB15KCuBk) <!--16/06/2019--> 
+[[1/7]](https://www.youtube.com/watch?v=kQetZdX0Ga4) <!--12/06/2019--> 
+[[2/7]](https://www.youtube.com/watch?v=msD-1G9jgCE) <!--13/06/2019--> 
+[[3/7]](https://www.youtube.com/watch?v=JPWZZ00GRiE) <!--14/06/2019--> 
+[[4/7]](https://www.youtube.com/watch?v=uO9_FxTNs7s) <!--15/06/2019--> 
+[[5/7]](https://www.youtube.com/watch?v=twRB15KCuBk) <!--16/06/2019--> 
+[[6/7]](https://www.youtube.com/watch?v=Ato9O9k1BUE) <!--29/06/2019--> 
+[[7/7]](https://www.youtube.com/watch?v=1ftqdsfc3OU) <!--02/07/2019--> 
+
+VOD Borderlands 2 (dernier DLC) 
+[[1/1]](https://www.youtube.com/watch?v=5zaub8OAEPI) <!--30/06/2019--> 
+
+VOD Golf it 
+[[1/1]](https://www.youtube.com/watch?v=NKokj1hJruQ) <!--01/07/2019--> 
+
+* **[TU FUIS ESPÈCE DE LÂCHE !!! (Conqueror's Blade)](https://www.youtube.com/watch?v=e2i0DPyErVY)** : 
+VOD Conqueror's Blade 
+[[1/1]](https://www.youtube.com/watch?v=FxjWxZOV0n4) <!--03/07/2019--> 
+
+VOD Observation 
+[[1/1]](https://www.youtube.com/watch?v=rZT1zA6HHf8) <!--04/07/2019--> 
+
+* **[QU'EST CE QUI EST GROS ET QUI PUE ? (Dauntless)](https://www.youtube.com/watch?v=drAbj_wd7e4)** : 
+VOD Dauntless 
+[[1/1]](https://www.youtube.com/watch?v=alqIi9kL2jY) <!--05/07/2019--> 
+
+VOD Layers of Fear 2 
+[[1/2]](https://www.youtube.com/watch?v=1tXXucrjB_M) <!--06/07/2019--> 
+[[2/2]](https://www.youtube.com/watch?v=m2lQ_tOWeu4) <!--14/07/2019--> 
+
+VOD Cooking Simulator 
+[[1/1]](https://www.youtube.com/watch?v=TkjykHjwenI) <!--07/07/2019--> 
+
+* **[CE SITE C'EST L'ARNAQUE DU SIÈCLE (Toreba)](https://www.youtube.com/watch?v=YwhPVdCPlLg)** : 
+VOD Toreba 
+[[1/1]](https://www.youtube.com/watch?v=nYLwXtc_hvI) <!--08/07/2019--> 
+
+VOD Police Simulator 
+[[1/1]](https://www.youtube.com/watch?v=fnRph6EmllM) <!--15/07/2019--> 
+
+VOD Jalopy 
+[[1/1]](https://www.youtube.com/watch?v=xYm9SSMEfTw) <!--16/07/2019--> 
+
+VOD Stranded Deep 
+[[1/1]](https://www.youtube.com/watch?v=xqnF4ABThpE) <!--17/07/2019--> 
+

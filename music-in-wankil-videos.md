@@ -1,4 +1,22 @@
-Update: 20190617
+Update: 20190717
+
+* **ÊTES-VOUS PLUS MALINS QUE NOUS ? (Escape Game)**
+
+* **CE SITE C'EST L'ARNAQUE DU SIÈCLE (Toreba)**
+
+* **VOS CHAUSSURES PEUVENT VOUS SAUVER (Half Dead 2)**
+
+* **J’ACHÈTE LAS VEGAS POUR 100 EUROS (Business Tour)**
+
+* **C'EST NORMAL AU FAR WEST (Sky Noon)**
+
+* **FAIRE LIVRER UNE FILLE DE JOIE À DOMICILE (The Works of Mercy)**
+
+* **MASTU ET HUGO vs WANKIL (Wanklash #3)**
+
+* **JE VOUS PRÉSENTE VOTRE FUTURE MAISON (House Flipper)**
+
+* **NE RENTREZ JAMAIS DANS UN ENDROIT SOMBRE ET HUMIDE (Rust)**
 
 * **QU'EST CE QUI EST GROS ET QUI PUE ? (Dauntless)**
 
@@ -67,6 +85,8 @@ Update: 20190617
 * **C'ÉTAIT UNE TRÈS MAUVAISE IDÉE (SCUM)**
 
 * **NE RENTRE PAS DANS CE PLACARD (Gmod Murder) ft. Squeezie, Cyril**
+
+* **QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)**
 
 * **JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)**
 

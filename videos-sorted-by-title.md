@@ -1,4 +1,4 @@
-Update: 20190617
+Update: 20190717
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -51,6 +51,7 @@ Update: 20190617
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
 * Ce n'est que charme et sorcellerie monseigneur ! (Chivalry: Medieval Warfare)
 * CE QU'IL Y A VRAIMENT DANS VOS PIZZAS (Roblox)
+* CE SITE C'EST L'ARNAQUE DU SIÈCLE (Toreba)
 * CE SPORT EST INTERDIT (Disc Jam)
 * C'EST BEAUCOUP TROP CHAUD (Can't Drive This)
 * C'est bon mais ça reste dans les dents (PAYDAY 2)
@@ -66,6 +67,7 @@ Update: 20190617
 * C'EST MOCHE MAIS C'EST RIGOLO (Unturned) ft. Guzz et Gydias
 * C'EST MOI LA NOUVELLE INFIRMIÈRE (Remothered)
 * C'EST N'IMPORTE QUOI
+* C'EST NORMAL AU FAR WEST (Sky Noon)
 * C'est pas bon mais c'est drôle (Saucisses Lentilles)
 * C'EST PAS UN JEU DE TAPETTES (Dying Light)
 * C'EST TOI QU'A PÉTÉ - LES AVENTURES WANKULS (Animation Officielle)
@@ -140,6 +142,7 @@ Update: 20190617
 * EST-CE QUE TU ES UN BON ÉLÈVE ? (Battlefield V)
 * EST-CE QUE TU MOUILLES TA BROSSE À DENTS ? (Don't Knock Twice)
 * ÊTES-VOUS ASSEZ FORT POUR RÉSOUDRE LES ÉNIGMES ? (We Were Here)
+* ÊTES-VOUS PLUS MALINS QUE NOUS ? (Escape Game)
 * ET J'AI CRAMÉ (Half-Life 2 en COOP)
 * ET MAINTENANT, FERME TA GUEULE (DayZ)
 * ET UNE GOUTTE DE VANTARDISE ! (Trackmania Turbo)
@@ -148,6 +151,7 @@ Update: 20190617
 * EXPÉRIENCE SOCIALE TOURNE MAL (H1Z1)
 * EXPLORATION DE TCHERNOBYL DANS LA ZONE RADIOACTIVE
 * EXPLORATION D'UN BUNKER SOUTERRAIN ABANDONNÉ
+* FAIRE LIVRER UNE FILLE DE JOIE À DOMICILE (The Works of Mercy)
 * FAIRE UN FOOT SUR FORTNITE (Fortnite)
 * FAIT OU PAS FAIT (ft. Pierre Croce)
 * F.A.Q. // Partie 1/4 - L'IRL / la rencontre
@@ -187,6 +191,7 @@ Update: 20190617
 * Infiltration et cracottes (Splinter Cell: Blacklist)
 * INFILTRATION RATÉE DANS LA PRISON (GTA V)
 * Iniesta, Ashley Young, Lee, Guy Roux (FIFA 13)
+* J’ACHÈTE LAS VEGAS POUR 100 EUROS (Business Tour)
 * Jacques, le Squelette Sympa (Half-Life 2: EP2 en COOP)
 * J'AI CACHÉ MA BELLE-MÈRE DANS LE BUNKER (House Flipper)
 * J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS
@@ -214,6 +219,7 @@ Update: 20190617
 * JE SUIS VOTRE CHOSE REINE FATIMA (CS:GO)
 * JE VAIS TE MOUSSER ! (Prey)
 * JE VOIS DES CHOSES... (Far Cry 4)
+* JE VOUS PRÉSENTE VOTRE FUTURE MAISON (House Flipper)
 * J'me bats contre une asperge géante (Dungeon Hunter 5)
 * JOURNÉE ENTRE COPAINS (ft. Amixem et Siphano)
 * J'SUIS SHÉRIF, J'AI UN PISTOLET ! (CS:GO)
@@ -449,6 +455,7 @@ Update: 20190617
 * MARTINE C'EST UNE SALOPE (Viscera Cleanup Detail)
 * MARTINE ET JEANINE FONT LE MÉNAGE (Viscera Cleanup Detail)
 * MARTINE VA À LA VIE SCOLAIRE (Home Sweet Home)
+* MASTU ET HUGO vs WANKIL (Wanklash #3)
 * MAYDAY YOLO (Battlefield 3)
 * ME LACHE PAS ! (Gang Beasts)
 * METS TA CAM BB (CS:GO)
@@ -471,6 +478,7 @@ Update: 20190617
 * NE MANGEZ PAS VOTRE PROPRE BIOMASSE (Memories of Mars)
 * NE REGARDE PAS SOUS LA JUPE DE NATACHA (Obscure)
 * NE RENTRE PAS DANS CE PLACARD (Gmod Murder) ft. Squeezie, Cyril
+* NE RENTREZ JAMAIS DANS UN ENDROIT SOMBRE ET HUMIDE (Rust)
 * NETTOYER LES TOILETTES DANS LE FUTUR (The Surge)
 * NE VA PAS DANS LA CAVE (Visage)
 * NON, VOUS NE RÊVEZ PAS (League of Legends)
@@ -562,6 +570,7 @@ Update: 20190617
 * QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)
 * QU'EST CE QUI EST GROS ET QUI PUE ? (Dauntless)
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
+* QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
@@ -627,6 +636,7 @@ Update: 20190617
 * Victime Bolosse (Half-Life 2 en COOP)
 * VISITE D'UN HÔPITAL ABANDONNÉ DE PSYCHOPATHES
 * VIS MA VIE DE POISSARD (What Remains of Edith Finch)
+* VOS CHAUSSURES PEUVENT VOUS SAUVER (Half Dead 2)
 * Vous avez pas vu ma femme ? (The Witcher 3)
 * VOUS AVEZ UN RHUME ? COUPEZ-VOUS LA JAMBE (911 Operator)
 * VOUS DESCENDEZ DE MON DISCO-BUS !!! (Bus Simulator)
