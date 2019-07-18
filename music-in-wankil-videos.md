@@ -13,8 +13,11 @@ Update: 20190717
 * **FAIRE LIVRER UNE FILLE DE JOIE À DOMICILE (The Works of Mercy)**
 
 * **MASTU ET HUGO vs WANKIL (Wanklash #3)**
+	* _ Brodyquest par Neil Cicierega (10:59) 
+
 
 * **JE VOUS PRÉSENTE VOTRE FUTURE MAISON (House Flipper)**
+	* _ Brodyquest par Neil Cicierega
 
 * **NE RENTREZ JAMAIS DANS UN ENDROIT SOMBRE ET HUMIDE (Rust)**
 
